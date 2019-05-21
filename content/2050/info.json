@@ -2,10 +2,12 @@
   "id": 2050,
   "episodes": [
     {
-      "episode": 1
+      "episode": 1,
+      "link": "2050/1.json"
     },
     {
-      "episode": 2
+      "episode": 2,
+      "link": "2050/2.json"
     }
   ]
 }

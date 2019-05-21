@@ -1,0 +1,83 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 568289,
+        "url": "http://video.sibnet.ru/shell.php?videoid=662890",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 13,
+        "uploader": ""
+      },
+      {
+        "id": 690984,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1147185",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Azazel",
+        "watchesCount": 49,
+        "uploader": ""
+      },
+      {
+        "id": 818875,
+        "url": "http://vk.com/video_ext.php?oid=-25338537&id=169188984&hash=a58dff60d9931d06",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Azazel",
+        "watchesCount": 682,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 998329,
+        "url": "https://smotretanime.ru/translations/embed/225967",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Azazel (+ субтитры)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1076317,
+        "url": "https://smotretanime.ru/translations/embed/422421",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Azazel (+ субтитры)",
+        "watchesCount": 35,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1586141,
+        "url": "http://smotretanime.ru/translations/embed/1061300",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Azazel",
+        "watchesCount": 123,
+        "uploader": "Нiколас Тарасюк"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 690958,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1147183",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "A.k.M. & Xander & Кирилл",
+        "watchesCount": 38,
+        "uploader": ""
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 998297,
+        "url": "https://smotretanime.ru/translations/embed/225939",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

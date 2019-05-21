@@ -1,0 +1,38 @@
+{
+  "episode": 30,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1624761,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2988017",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dimka Shalankеvich",
+        "watchesCount": 10,
+        "uploader": "Дима Шаланкевич"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 617825,
+        "url": "http://video.sibnet.ru/shell.php?videoid=431803",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": ""
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1028496,
+        "url": "https://smotretanime.ru/translations/embed/277981",
+        "language": "original",
+        "quality": "tv",
+        "author": "Timber_Maniacs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

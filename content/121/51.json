@@ -1,0 +1,632 @@
+{
+  "episode": 51,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 680020,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1273612",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": ""
+      },
+      {
+        "id": 684207,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1221712",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Suzaku",
+        "watchesCount": 53,
+        "uploader": ""
+      },
+      {
+        "id": 1049592,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1878370",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 332,
+        "uploader": ""
+      },
+      {
+        "id": 1097734,
+        "url": "https://smotretanime.ru/translations/embed/454553",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 1101,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1153871,
+        "url": "https://smotretanime.ru/translations/embed/660930",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 773,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1181304,
+        "url": "https://smotretanime.ru/translations/embed/701153",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "2x2 (Мега-Аниме)",
+        "watchesCount": 494,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1764648,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3291296",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "2x2 (Мега-Аниме)",
+        "watchesCount": 1,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1765118,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2884377",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "2x2 (Мега-Аниме)",
+        "watchesCount": 1301,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1765183,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3293165",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "E. Лурье",
+        "watchesCount": 45,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1791164,
+        "url": "http://ok.ru/videoembed/81246947996",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "E. Лурье",
+        "watchesCount": 12,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1887102,
+        "url": "http://vk.com/video_ext.php?oid=82972787&id=161881109&hash=5c63e1d5acfe8e5e",
+        "language": "russian",
+        "quality": "tv",
+        "author": "2x2 (Мега-Аниме)",
+        "watchesCount": 438,
+        "uploader": "danil_536_2"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 989083,
+        "url": "https://smotretanime.ru/translations/embed/212228",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      },
+      {
+        "id": 989132,
+        "url": "https://smotretanime.ru/translations/embed/212278",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062791,
+        "url": "https://smotretanime.ru/translations/embed/399011",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062792,
+        "url": "https://smotretanime.ru/translations/embed/399012",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062793,
+        "url": "https://smotretanime.ru/translations/embed/399013",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062794,
+        "url": "https://smotretanime.ru/translations/embed/399014",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062795,
+        "url": "https://smotretanime.ru/translations/embed/399015",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062797,
+        "url": "https://smotretanime.ru/translations/embed/399018",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062798,
+        "url": "https://smotretanime.ru/translations/embed/399019",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062799,
+        "url": "https://smotretanime.ru/translations/embed/399020",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062800,
+        "url": "https://smotretanime.ru/translations/embed/399021",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062801,
+        "url": "https://smotretanime.ru/translations/embed/399022",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062802,
+        "url": "https://smotretanime.ru/translations/embed/399023",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062803,
+        "url": "https://smotretanime.ru/translations/embed/399024",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062804,
+        "url": "https://smotretanime.ru/translations/embed/399025",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062805,
+        "url": "https://smotretanime.ru/translations/embed/399026",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062806,
+        "url": "https://smotretanime.ru/translations/embed/399027",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062807,
+        "url": "https://smotretanime.ru/translations/embed/399028",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062809,
+        "url": "https://smotretanime.ru/translations/embed/399030",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062810,
+        "url": "https://smotretanime.ru/translations/embed/399031",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062811,
+        "url": "https://smotretanime.ru/translations/embed/399032",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062812,
+        "url": "https://smotretanime.ru/translations/embed/399033",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062813,
+        "url": "https://smotretanime.ru/translations/embed/399035",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062815,
+        "url": "https://smotretanime.ru/translations/embed/399037",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062816,
+        "url": "https://smotretanime.ru/translations/embed/399038",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062818,
+        "url": "https://smotretanime.ru/translations/embed/399040",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062819,
+        "url": "https://smotretanime.ru/translations/embed/399042",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062820,
+        "url": "https://smotretanime.ru/translations/embed/399043",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062821,
+        "url": "https://smotretanime.ru/translations/embed/399044",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062822,
+        "url": "https://smotretanime.ru/translations/embed/399045",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062823,
+        "url": "https://smotretanime.ru/translations/embed/399046",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062824,
+        "url": "https://smotretanime.ru/translations/embed/399047",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062825,
+        "url": "https://smotretanime.ru/translations/embed/399048",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062826,
+        "url": "https://smotretanime.ru/translations/embed/399049",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062827,
+        "url": "https://smotretanime.ru/translations/embed/399050",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062828,
+        "url": "https://smotretanime.ru/translations/embed/399051",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062829,
+        "url": "https://smotretanime.ru/translations/embed/399052",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062830,
+        "url": "https://smotretanime.ru/translations/embed/399054",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062831,
+        "url": "https://smotretanime.ru/translations/embed/399055",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062834,
+        "url": "https://smotretanime.ru/translations/embed/399058",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062835,
+        "url": "https://smotretanime.ru/translations/embed/399059",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062836,
+        "url": "https://smotretanime.ru/translations/embed/399060",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062837,
+        "url": "https://smotretanime.ru/translations/embed/399061",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062838,
+        "url": "https://smotretanime.ru/translations/embed/399062",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062839,
+        "url": "https://smotretanime.ru/translations/embed/399063",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062840,
+        "url": "https://smotretanime.ru/translations/embed/399064",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062841,
+        "url": "https://smotretanime.ru/translations/embed/399065",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062842,
+        "url": "https://smotretanime.ru/translations/embed/399066",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062843,
+        "url": "https://smotretanime.ru/translations/embed/399067",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062844,
+        "url": "https://smotretanime.ru/translations/embed/399068",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062845,
+        "url": "https://smotretanime.ru/translations/embed/399069",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062846,
+        "url": "https://smotretanime.ru/translations/embed/399070",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1062847,
+        "url": "https://smotretanime.ru/translations/embed/399071",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shadowline & kotofeika & Асни",
+        "watchesCount": 74,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1181306,
+        "url": "https://smotretanime.ru/translations/embed/701155",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 895,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1765008,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3057486",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "kotofeika & Shadowline & Асни",
+        "watchesCount": 0,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1765065,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2885289",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "kotofeika & Shadowline & Асни",
+        "watchesCount": 315,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 988992,
+        "url": "https://smotretanime.ru/translations/embed/212035",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1181305,
+        "url": "https://smotretanime.ru/translations/embed/701154",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

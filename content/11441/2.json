@@ -1,0 +1,65 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 666022,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1376784",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "FassaD",
+        "watchesCount": 55,
+        "uploader": ""
+      },
+      {
+        "id": 1806210,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1497804",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Valkrist",
+        "watchesCount": 4,
+        "uploader": "Lina Fair"
+      },
+      {
+        "id": 1806211,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3183868",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Trina.D)",
+        "watchesCount": 110,
+        "uploader": "Lina Fair"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 666018,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1377253",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Krusnik007",
+        "watchesCount": 77,
+        "uploader": ""
+      },
+      {
+        "id": 1031049,
+        "url": "https://smotretanime.ru/translations/embed/286787",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Krusnik007",
+        "watchesCount": 130,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1031048,
+        "url": "https://smotretanime.ru/translations/embed/286784",
+        "language": "original",
+        "quality": "bd",
+        "author": "Zero-Raws",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

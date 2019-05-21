@@ -1,0 +1,65 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 789589,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1704200",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "MC Entertainment",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 906241,
+        "url": "http://youtube.com/embed/sOAgU8yGNWs",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1029621,
+        "url": "https://smotretanime.ru/translations/embed/281452",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 41,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 789585,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1704218",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 9,
+        "uploader": ""
+      },
+      {
+        "id": 1252614,
+        "url": "http://smotretanime.ru/translations/embed/896067",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "R2RAW",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1029622,
+        "url": "https://smotretanime.ru/translations/embed/281453",
+        "language": "original",
+        "quality": "dvd",
+        "author": "R2RAW",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1234554,
+        "url": "http://smotretanime.ru/translations/embed/802005",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1201,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 962053,
+        "url": "https://smotretanime.ru/translations/embed/136940",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 174,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1713126,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1596320",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Sayako",
+        "watchesCount": 8,
+        "uploader": "RainWitch"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 962052,
+        "url": "https://smotretanime.ru/translations/embed/136939",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

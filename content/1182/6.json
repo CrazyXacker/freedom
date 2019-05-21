@@ -1,0 +1,65 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 912592,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2055412",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Е. Лурье",
+        "watchesCount": 17,
+        "uploader": ""
+      },
+      {
+        "id": 1860041,
+        "url": "http://vk.com/video_ext.php?oid=-43991768&id=166531333&hash=68c80f34806c454f",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "Tekinako"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 912586,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2055406",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": ""
+      },
+      {
+        "id": 956475,
+        "url": "https://smotretanime.ru/translations/embed/127391",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Witwood",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1054575,
+        "url": "https://smotretanime.ru/translations/embed/384920",
+        "language": "english",
+        "quality": "tv",
+        "author": "Soldado",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 956476,
+        "url": "https://smotretanime.ru/translations/embed/127392",
+        "language": "original",
+        "quality": "tv",
+        "author": "Soldado",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

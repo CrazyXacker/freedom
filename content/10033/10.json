@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 554812,
+        "url": "http://video.sibnet.ru/shell.php?videoid=606789",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Ancord)",
+        "watchesCount": 75,
+        "uploader": ""
+      },
+      {
+        "id": 685886,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1179628",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 527,
+        "uploader": ""
+      },
+      {
+        "id": 1830770,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2698846",
+        "language": "russian",
+        "quality": "tv",
+        "author": "WiaDub (Rezan)",
+        "watchesCount": 10,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1830920,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/animedub.ru/20/2104.html",
+        "language": "russian",
+        "quality": "tv",
+        "author": "WiaDub (Rezan)",
+        "watchesCount": 10,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1868967,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3500931",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 23,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 633168,
+        "url": "http://video.sibnet.ru/shell.php?videoid=498674",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 34,
+        "uploader": ""
+      },
+      {
+        "id": 1187145,
+        "url": "https://smotretanime.ru/translations/embed/708443",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 141,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1187144,
+        "url": "https://smotretanime.ru/translations/embed/708442",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

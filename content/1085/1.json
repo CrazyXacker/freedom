@@ -1,0 +1,83 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 694604,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1084746",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SHIZA Project",
+        "watchesCount": 102,
+        "uploader": ""
+      },
+      {
+        "id": 1030626,
+        "url": "https://smotretanime.ru/translations/embed/285104",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 206,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1438608,
+        "url": "http://smotretanime.ru/translations/embed/521468",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "E. Лурье",
+        "watchesCount": 4,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1438623,
+        "url": "http://smotretanime.ru/translations/embed/521465",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SHIZA Project",
+        "watchesCount": 15,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 694601,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1085934",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 1438627,
+        "url": "http://smotretanime.ru/translations/embed/285107",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 53,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 974253,
+        "url": "https://smotretanime.ru/translations/embed/201245",
+        "language": "original",
+        "quality": "dvd",
+        "author": "HQR",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1030623,
+        "url": "https://smotretanime.ru/translations/embed/285101",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

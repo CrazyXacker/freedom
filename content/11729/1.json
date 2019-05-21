@@ -1,0 +1,74 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1192072,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2535024",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Vashmax2",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1250472,
+        "url": "http://vk.com/video_ext.php?oid=152490259&id=163081528&hash=df2d217b2cb518e5",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Vashmax2",
+        "watchesCount": 1,
+        "uploader": "Jubei"
+      },
+      {
+        "id": 1250475,
+        "url": "http://vk.com/video_ext.php?oid=-36360223&id=162422189&hash=b9182920601f1324",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Tray & Tinko",
+        "watchesCount": 8,
+        "uploader": "Jubei"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1192071,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2535022",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 1250480,
+        "url": "http://youtube.com/embed/ZT5AKavLQXM",
+        "language": "english",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "Jubei"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1250481,
+        "url": "http://vk.com/video_ext.php?oid=353702026&id=456239217&hash=36941adfe1587cb8",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "Jubei"
+      },
+      {
+        "id": 1250534,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2553667",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Jubei"
+      }
+    ]
+  }
+}

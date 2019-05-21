@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 929481,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1626845",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 77,
+        "uploader": ""
+      },
+      {
+        "id": 931545,
+        "url": "https://smotretanime.ru/translations/embed/849133",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CactusTeam",
+        "watchesCount": 570,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 929479,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1626863",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 51,
+        "uploader": ""
+      },
+      {
+        "id": 931542,
+        "url": "https://smotretanime.ru/translations/embed/850495",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CactusTeam",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 931543,
+        "url": "https://smotretanime.ru/translations/embed/850494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CactusTeam",
+        "watchesCount": 37,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 931544,
+        "url": "https://smotretanime.ru/translations/embed/850493",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 34,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

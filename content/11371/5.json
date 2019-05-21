@@ -1,0 +1,65 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 566213,
+        "url": "http://video.sibnet.ru/shell.php?videoid=510144",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniPower (loster01)",
+        "watchesCount": 192,
+        "uploader": ""
+      },
+      {
+        "id": 705924,
+        "url": "http://video.sibnet.ru/shell.php?videoid=522944",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Pandora)",
+        "watchesCount": 21,
+        "uploader": ""
+      },
+      {
+        "id": 1166074,
+        "url": "https://smotretanime.ru/translations/embed/680226",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPower (loster01)",
+        "watchesCount": 306,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 566212,
+        "url": "http://video.sibnet.ru/shell.php?videoid=510170",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 23,
+        "uploader": ""
+      },
+      {
+        "id": 1200795,
+        "url": "https://smotretanime.ru/translations/embed/725371",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPower",
+        "watchesCount": 74,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1200794,
+        "url": "https://smotretanime.ru/translations/embed/725370",
+        "language": "original",
+        "quality": "tv",
+        "author": "AniPower",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "episode": 16,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1569278,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3044909",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OldFQ (Kallaider)",
+        "watchesCount": 80,
+        "uploader": "naidlek"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 707430,
+        "url": "http://video.sibnet.ru/shell.php?videoid=512673",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": ""
+      },
+      {
+        "id": 988631,
+        "url": "https://smotretanime.ru/translations/embed/211390",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 988630,
+        "url": "https://smotretanime.ru/translations/embed/211389",
+        "language": "original",
+        "quality": "tv",
+        "author": "ext",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}
