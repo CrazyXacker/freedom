@@ -1,0 +1,722 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1571728,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3051366",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Zendos)",
+        "watchesCount": 179,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1571729,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3051369",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (OnLy)",
+        "watchesCount": 281,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1577244,
+        "url": "http://smotretanime.ru/translations/embed/1477975",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 160,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578714,
+        "url": "http://smotretanime.ru/translations/embed/1496530",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 1212,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1621758,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3054065",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anything Group (Milirina & Sad_Kit)",
+        "watchesCount": 89,
+        "uploader": "Anything_Group"
+      },
+      {
+        "id": 1635591,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3149264",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ket & Kiara_Laine)",
+        "watchesCount": 893,
+        "uploader": "q8025"
+      },
+      {
+        "id": 1869191,
+        "url": "http://youtube.com/embed/Ubpa6UP5G70",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (JAM & Trina_D)",
+        "watchesCount": 40,
+        "uploader": "Тимур Илимбаев"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1571449,
+        "url": "http://smotretanime.ru/translations/embed/1465724",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571455,
+        "url": "http://smotretanime.ru/translations/embed/1465741",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571456,
+        "url": "http://smotretanime.ru/translations/embed/1465740",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571457,
+        "url": "http://smotretanime.ru/translations/embed/1465739",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571458,
+        "url": "http://smotretanime.ru/translations/embed/1465738",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571459,
+        "url": "http://smotretanime.ru/translations/embed/1465737",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571460,
+        "url": "http://smotretanime.ru/translations/embed/1465736",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571461,
+        "url": "http://smotretanime.ru/translations/embed/1465726",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571463,
+        "url": "http://smotretanime.ru/translations/embed/1465731",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 54,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571839,
+        "url": "http://smotretanime.ru/translations/embed/1466112",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 210,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572254,
+        "url": "http://smotretanime.ru/translations/embed/1466458",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572308,
+        "url": "http://smotretanime.ru/translations/embed/1466571",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572474,
+        "url": "http://smotretanime.ru/translations/embed/1466841",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1573180,
+        "url": "http://smotretanime.ru/translations/embed/1468227",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1576052,
+        "url": "http://smotretanime.ru/translations/embed/1493228",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1579203,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3059394",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 55,
+        "uploader": "Аки ~"
+      },
+      {
+        "id": 1580818,
+        "url": "http://smotretanime.ru/translations/embed/1503291",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1580894,
+        "url": "http://smotretanime.ru/translations/embed/1503424",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581097,
+        "url": "http://smotretanime.ru/translations/embed/1503723",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581756,
+        "url": "http://smotretanime.ru/translations/embed/1504968",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581806,
+        "url": "http://smotretanime.ru/translations/embed/1504999",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581845,
+        "url": "http://smotretanime.ru/translations/embed/1505039",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1582347,
+        "url": "http://smotretanime.ru/translations/embed/1505745",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1584485,
+        "url": "http://smotretanime.ru/translations/embed/1510329",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1584560,
+        "url": "http://smotretanime.ru/translations/embed/1510444",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1584638,
+        "url": "http://smotretanime.ru/translations/embed/1510557",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1585546,
+        "url": "http://smotretanime.ru/translations/embed/1512282",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1590601,
+        "url": "http://smotretanime.ru/translations/embed/1522757",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1592090,
+        "url": "http://smotretanime.ru/translations/embed/1528066",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594095,
+        "url": "http://smotretanime.ru/translations/embed/1531480",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594132,
+        "url": "http://smotretanime.ru/translations/embed/1531513",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594330,
+        "url": "http://smotretanime.ru/translations/embed/1532443",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595068,
+        "url": "http://smotretanime.ru/translations/embed/1533544",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1597500,
+        "url": "http://smotretanime.ru/translations/embed/1539737",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1597737,
+        "url": "http://sovetromantica.com/embed/episode_359_10-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 132,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1597749,
+        "url": "http://smotretanime.ru/translations/embed/1539955",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 23,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1598073,
+        "url": "http://smotretanime.ru/translations/embed/1540312",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601751,
+        "url": "http://smotretanime.ru/translations/embed/1549711",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1605996,
+        "url": "http://smotretanime.ru/translations/embed/1563369",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1607052,
+        "url": "http://smotretanime.ru/translations/embed/1564697",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611863,
+        "url": "http://smotretanime.ru/translations/embed/1573384",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611929,
+        "url": "http://smotretanime.ru/translations/embed/1573449",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1612283,
+        "url": "http://smotretanime.ru/translations/embed/1573756",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1612874,
+        "url": "http://smotretanime.ru/translations/embed/1574566",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615277,
+        "url": "http://smotretanime.ru/translations/embed/1577574",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617133,
+        "url": "http://smotretanime.ru/translations/embed/1580447",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617192,
+        "url": "http://smotretanime.ru/translations/embed/1580520",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617575,
+        "url": "http://smotretanime.ru/translations/embed/1581008",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1618228,
+        "url": "http://smotretanime.ru/translations/embed/1581746",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619711,
+        "url": "http://smotretanime.ru/translations/embed/1583712",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1621028,
+        "url": "http://smotretanime.ru/translations/embed/1585391",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1621104,
+        "url": "http://smotretanime.ru/translations/embed/1585442",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1621588,
+        "url": "http://smotretanime.ru/translations/embed/1586039",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1623163,
+        "url": "http://smotretanime.ru/translations/embed/1588598",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1629916,
+        "url": "http://smotretanime.ru/translations/embed/1601427",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1631494,
+        "url": "http://smotretanime.ru/translations/embed/1604650",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1631592,
+        "url": "http://smotretanime.ru/translations/embed/1604804",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1632213,
+        "url": "http://smotretanime.ru/translations/embed/1605864",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1633042,
+        "url": "http://smotretanime.ru/translations/embed/1607260",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1634587,
+        "url": "http://smotretanime.ru/translations/embed/1609397",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1636935,
+        "url": "http://smotretanime.ru/translations/embed/1616605",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1637022,
+        "url": "http://smotretanime.ru/translations/embed/1616705",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1637742,
+        "url": "http://smotretanime.ru/translations/embed/1618045",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1640061,
+        "url": "http://smotretanime.ru/translations/embed/1620381",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1645798,
+        "url": "http://smotretanime.ru/translations/embed/1632241",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1645824,
+        "url": "http://smotretanime.ru/translations/embed/1632218",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1648024,
+        "url": "http://smotretanime.ru/translations/embed/1635288",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1648611,
+        "url": "http://smotretanime.ru/translations/embed/1637339",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649859,
+        "url": "http://smotretanime.ru/translations/embed/1639511",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Harushechka",
+        "watchesCount": 97,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1571450,
+        "url": "http://smotretanime.ru/translations/embed/1465725",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571462,
+        "url": "http://smotretanime.ru/translations/embed/1465728",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1571464,
+        "url": "http://smotretanime.ru/translations/embed/1465735",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

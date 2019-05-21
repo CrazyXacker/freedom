@@ -1,0 +1,713 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1562837,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3038458",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker & Marie Bibika)",
+        "watchesCount": 162,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1566542,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3042066",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Studio Band (BalFor & Влад Дуров & LeeAnnushka & Esther & Торгиль & Demetra & Cuba77)",
+        "watchesCount": 2,
+        "uploader": "Lamontagne"
+      },
+      {
+        "id": 1566876,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3042456",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Nate & Лизавета)",
+        "watchesCount": 54,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1567143,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3042185",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Studio Band (BalFor & Влад Дуров & LeeAnnushka & Esther & Торгиль & Demetra & Cuba77)",
+        "watchesCount": 400,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1567344,
+        "url": "http://online.animedia.tv/embed/15403/1/7",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Freya & Kobayashi & Nazel & LolAlice)",
+        "watchesCount": 7,
+        "uploader": "Bonta"
+      },
+      {
+        "id": 1568236,
+        "url": "http://smotretanime.ru/translations/embed/1459502",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Hekomi & Gomer)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568244,
+        "url": "http://smotretanime.ru/translations/embed/1459503",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Hekomi & Gomer)",
+        "watchesCount": 493,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568355,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3043653",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Hekomi & Gomer)",
+        "watchesCount": 396,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1572055,
+        "url": "http://smotretanime.ru/translations/embed/1466163",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572274,
+        "url": "http://smotretanime.ru/translations/embed/1466472",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 1198,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1577989,
+        "url": "http://smotretanime.ru/translations/embed/1475203",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Nate & Лизавета)",
+        "watchesCount": 28,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578734,
+        "url": "http://smotretanime.ru/translations/embed/1494696",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (rj24)",
+        "watchesCount": 31,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1562694,
+        "url": "http://smotretanime.ru/translations/embed/1450286",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562703,
+        "url": "http://smotretanime.ru/translations/embed/1450287",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562710,
+        "url": "http://smotretanime.ru/translations/embed/1450306",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562831,
+        "url": "http://smotretanime.ru/translations/embed/1450289",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562943,
+        "url": "http://smotretanime.ru/translations/embed/1450540",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562944,
+        "url": "http://smotretanime.ru/translations/embed/1450541",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562945,
+        "url": "http://smotretanime.ru/translations/embed/1450542",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563141,
+        "url": "http://sovetromantica.com/embed/episode_346_7-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 605,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1563331,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3038640",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 87,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1563574,
+        "url": "http://smotretanime.ru/translations/embed/1451745",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563649,
+        "url": "http://smotretanime.ru/translations/embed/1451765",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563952,
+        "url": "http://smotretanime.ru/translations/embed/1452461",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 35,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1566323,
+        "url": "http://smotretanime.ru/translations/embed/1456652",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1567110,
+        "url": "http://smotretanime.ru/translations/embed/1457844",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1567156,
+        "url": "http://smotretanime.ru/translations/embed/1457943",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1567600,
+        "url": "http://smotretanime.ru/translations/embed/1458850",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568359,
+        "url": "http://smotretanime.ru/translations/embed/1459960",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1569037,
+        "url": "http://smotretanime.ru/translations/embed/1460800",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1569108,
+        "url": "http://smotretanime.ru/translations/embed/1460835",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1569317,
+        "url": "http://smotretanime.ru/translations/embed/1461320",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1569815,
+        "url": "http://smotretanime.ru/translations/embed/1462053",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1569879,
+        "url": "http://smotretanime.ru/translations/embed/1462099",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1569951,
+        "url": "http://smotretanime.ru/translations/embed/1462204",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1570052,
+        "url": "http://smotretanime.ru/translations/embed/1462329",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1570128,
+        "url": "http://smotretanime.ru/translations/embed/1462410",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572629,
+        "url": "http://smotretanime.ru/translations/embed/1467651",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572743,
+        "url": "http://smotretanime.ru/translations/embed/1467717",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572961,
+        "url": "http://smotretanime.ru/translations/embed/1468007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572970,
+        "url": "http://smotretanime.ru/translations/embed/1468016",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1572979,
+        "url": "http://smotretanime.ru/translations/embed/1468025",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1573354,
+        "url": "http://smotretanime.ru/translations/embed/1468394",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1573457,
+        "url": "http://smotretanime.ru/translations/embed/1468740",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1574252,
+        "url": "http://smotretanime.ru/translations/embed/1471336",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1575101,
+        "url": "http://smotretanime.ru/translations/embed/1450517",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1575102,
+        "url": "http://smotretanime.ru/translations/embed/1450521",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 181,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1575116,
+        "url": "http://smotretanime.ru/translations/embed/1451054",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1575117,
+        "url": "http://smotretanime.ru/translations/embed/1451067",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 247,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1575602,
+        "url": "http://smotretanime.ru/translations/embed/1475204",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Frelion & No",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1576928,
+        "url": "http://smotretanime.ru/translations/embed/1494466",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MantisFL & Holydarkness",
+        "watchesCount": 29,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1577699,
+        "url": "http://smotretanime.ru/translations/embed/1495492",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581281,
+        "url": "http://smotretanime.ru/translations/embed/1504065",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581352,
+        "url": "http://smotretanime.ru/translations/embed/1504163",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581646,
+        "url": "http://smotretanime.ru/translations/embed/1504645",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1582453,
+        "url": "http://smotretanime.ru/translations/embed/1505878",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1584048,
+        "url": "http://smotretanime.ru/translations/embed/1509386",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1587065,
+        "url": "http://smotretanime.ru/translations/embed/1515739",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1588733,
+        "url": "http://smotretanime.ru/translations/embed/1518887",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1590687,
+        "url": "http://smotretanime.ru/translations/embed/1522931",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1590695,
+        "url": "http://smotretanime.ru/translations/embed/1522920",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1591944,
+        "url": "http://smotretanime.ru/translations/embed/1527863",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1591981,
+        "url": "http://smotretanime.ru/translations/embed/1527901",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1592287,
+        "url": "http://smotretanime.ru/translations/embed/1528356",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1593141,
+        "url": "http://smotretanime.ru/translations/embed/1529948",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594599,
+        "url": "http://smotretanime.ru/translations/embed/1532994",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Elven_tankman & Shifroval",
+        "watchesCount": 72,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1562695,
+        "url": "http://smotretanime.ru/translations/embed/1450291",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562704,
+        "url": "http://smotretanime.ru/translations/embed/1450310",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562708,
+        "url": "http://smotretanime.ru/translations/embed/1450324",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562711,
+        "url": "http://smotretanime.ru/translations/embed/1450323",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562724,
+        "url": "http://smotretanime.ru/translations/embed/1450364",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562832,
+        "url": "http://smotretanime.ru/translations/embed/1450299",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562953,
+        "url": "http://smotretanime.ru/translations/embed/1450491",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563655,
+        "url": "http://smotretanime.ru/translations/embed/1451776",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1565081,
+        "url": "http://smotretanime.ru/translations/embed/1453760",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 50,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1587608,
+        "url": "http://smotretanime.ru/translations/embed/1516691",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1590696,
+        "url": "http://smotretanime.ru/translations/embed/1522954",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1590705,
+        "url": "http://smotretanime.ru/translations/embed/1522885",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "episode": 26,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1617150,
+        "url": "http://smotretanime.ru/translations/embed/1580469",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Rayvol)",
+        "watchesCount": 79,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617154,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3128223",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Rayvol)",
+        "watchesCount": 6,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1618688,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3129532",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (Mustadio)",
+        "watchesCount": 57,
+        "uploader": "Mustadio1"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1617012,
+        "url": "http://smotretanime.ru/translations/embed/1580233",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617014,
+        "url": "http://smotretanime.ru/translations/embed/1580248",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617016,
+        "url": "http://smotretanime.ru/translations/embed/1580250",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617017,
+        "url": "http://smotretanime.ru/translations/embed/1580256",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617018,
+        "url": "http://smotretanime.ru/translations/embed/1580257",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617362,
+        "url": "http://smotretanime.ru/translations/embed/1580734",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617430,
+        "url": "http://smotretanime.ru/translations/embed/1580780",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617696,
+        "url": "http://smotretanime.ru/translations/embed/1581143",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1618310,
+        "url": "http://smotretanime.ru/translations/embed/1581810",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619997,
+        "url": "http://smotretanime.ru/translations/embed/1583933",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1622177,
+        "url": "http://smotretanime.ru/translations/embed/1587111",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1622492,
+        "url": "http://smotretanime.ru/translations/embed/1587686",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1624437,
+        "url": "http://smotretanime.ru/translations/embed/1590061",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1626290,
+        "url": "http://smotretanime.ru/translations/embed/1593777",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1626985,
+        "url": "http://smotretanime.ru/translations/embed/1594923",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1630010,
+        "url": "http://smotretanime.ru/translations/embed/1601665",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1630234,
+        "url": "http://smotretanime.ru/translations/embed/1601916",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1631940,
+        "url": "http://smotretanime.ru/translations/embed/1605287",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1634383,
+        "url": "http://smotretanime.ru/translations/embed/1608976",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1634422,
+        "url": "http://smotretanime.ru/translations/embed/1609014",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1634550,
+        "url": "http://smotretanime.ru/translations/embed/1609349",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1637240,
+        "url": "http://smotretanime.ru/translations/embed/1616994",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1637283,
+        "url": "http://smotretanime.ru/translations/embed/1617121",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1637957,
+        "url": "http://smotretanime.ru/translations/embed/1618226",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1640745,
+        "url": "http://smotretanime.ru/translations/embed/1620942",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1643327,
+        "url": "http://smotretanime.ru/translations/embed/1626881",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1643633,
+        "url": "http://smotretanime.ru/translations/embed/1627302",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1646274,
+        "url": "http://smotretanime.ru/translations/embed/1632721",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1651965,
+        "url": "http://smotretanime.ru/translations/embed/1644256",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1653532,
+        "url": "http://smotretanime.ru/translations/embed/1646173",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1657829,
+        "url": "http://smotretanime.ru/translations/embed/1654517",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1662873,
+        "url": "http://smotretanime.ru/translations/embed/1656298",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1662970,
+        "url": "http://smotretanime.ru/translations/embed/1656505",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663771,
+        "url": "http://smotretanime.ru/translations/embed/1672644",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663802,
+        "url": "http://smotretanime.ru/translations/embed/1672743",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663992,
+        "url": "http://smotretanime.ru/translations/embed/1673569",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1664842,
+        "url": "http://smotretanime.ru/translations/embed/1675764",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1666271,
+        "url": "http://smotretanime.ru/translations/embed/1680602",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1673777,
+        "url": "http://smotretanime.ru/translations/embed/1708941",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1674668,
+        "url": "http://smotretanime.ru/translations/embed/1709967",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1680055,
+        "url": "http://smotretanime.ru/translations/embed/1717371",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1680110,
+        "url": "http://smotretanime.ru/translations/embed/1717429",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1680916,
+        "url": "http://smotretanime.ru/translations/embed/1718011",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1681574,
+        "url": "http://smotretanime.ru/translations/embed/1718944",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1685986,
+        "url": "http://smotretanime.ru/translations/embed/1725469",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1692826,
+        "url": "http://smotretanime.ru/translations/embed/1738094",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1701895,
+        "url": "http://smotretanime.ru/translations/embed/1761206",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1704333,
+        "url": "http://smotretanime.ru/translations/embed/1769488",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1705682,
+        "url": "http://smotretanime.ru/translations/embed/1770609",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1710412,
+        "url": "http://smotretanime.ru/translations/embed/1777837",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1712672,
+        "url": "http://smotretanime.ru/translations/embed/1781753",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1717103,
+        "url": "http://smotretanime.ru/translations/embed/1790354",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1719916,
+        "url": "http://smotretanime.ru/translations/embed/1794972",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1721811,
+        "url": "http://smotretanime.ru/translations/embed/1797826",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1721885,
+        "url": "http://smotretanime.ru/translations/embed/1797900",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1722184,
+        "url": "http://smotretanime.ru/translations/embed/1798770",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1723026,
+        "url": "http://smotretanime.ru/translations/embed/1799448",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1724767,
+        "url": "http://smotretanime.ru/translations/embed/1802136",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726422,
+        "url": "http://smotretanime.ru/translations/embed/1804960",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726454,
+        "url": "http://smotretanime.ru/translations/embed/1805057",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726614,
+        "url": "http://smotretanime.ru/translations/embed/1805274",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1727265,
+        "url": "http://smotretanime.ru/translations/embed/1806476",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1729420,
+        "url": "http://smotretanime.ru/translations/embed/1809460",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1734428,
+        "url": "http://smotretanime.ru/translations/embed/1817724",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1736683,
+        "url": "http://smotretanime.ru/translations/embed/1821399",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1736785,
+        "url": "http://smotretanime.ru/translations/embed/1821494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1737483,
+        "url": "http://smotretanime.ru/translations/embed/1822016",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1737903,
+        "url": "http://smotretanime.ru/translations/embed/1822577",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1739888,
+        "url": "http://smotretanime.ru/translations/embed/1824720",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1741832,
+        "url": "http://smotretanime.ru/translations/embed/1826660",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1741880,
+        "url": "http://smotretanime.ru/translations/embed/1826720",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1742124,
+        "url": "http://smotretanime.ru/translations/embed/1827058",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1746804,
+        "url": "http://smotretanime.ru/translations/embed/1829720",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1749059,
+        "url": "http://smotretanime.ru/translations/embed/1831667",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1749145,
+        "url": "http://smotretanime.ru/translations/embed/1831733",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1749961,
+        "url": "http://smotretanime.ru/translations/embed/1832589",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1752054,
+        "url": "http://smotretanime.ru/translations/embed/1834628",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1758269,
+        "url": "http://smotretanime.ru/translations/embed/1840374",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1759828,
+        "url": "http://smotretanime.ru/translations/embed/1842007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1764178,
+        "url": "http://smotretanime.ru/translations/embed/1845153",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1776319,
+        "url": "http://smotretanime.ru/translations/embed/1865007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1776457,
+        "url": "http://smotretanime.ru/translations/embed/1865357",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1777469,
+        "url": "http://smotretanime.ru/translations/embed/1866538",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1780695,
+        "url": "http://smotretanime.ru/translations/embed/1869527",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1783692,
+        "url": "http://smotretanime.ru/translations/embed/1874027",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1783793,
+        "url": "http://smotretanime.ru/translations/embed/1874116",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1784170,
+        "url": "http://smotretanime.ru/translations/embed/1874446",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1785090,
+        "url": "http://smotretanime.ru/translations/embed/1875528",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1801856,
+        "url": "http://smotretanime.ru/translations/embed/1896426",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1801923,
+        "url": "http://smotretanime.ru/translations/embed/1896498",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1802283,
+        "url": "http://smotretanime.ru/translations/embed/1896859",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1803749,
+        "url": "http://smotretanime.ru/translations/embed/1898101",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1920903,
+        "url": "http://www.myvi.top/embed/tzcpsi4y1s9wbktf1hx9uiemno",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji & Ice_Guardian",
+        "watchesCount": 0,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1921970,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3565536",
+        "language": "russian",
+        "quality": "tv",
+        "author": "-shockwave- & Orenji_Reiji & Ice_Guardian",
+        "watchesCount": 4,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1617013,
+        "url": "http://smotretanime.ru/translations/embed/1580247",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617015,
+        "url": "http://smotretanime.ru/translations/embed/1580255",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617019,
+        "url": "http://smotretanime.ru/translations/embed/1580258",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617598,
+        "url": "http://smotretanime.ru/translations/embed/1581024",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

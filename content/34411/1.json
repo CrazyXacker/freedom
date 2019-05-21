@@ -1,0 +1,632 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1594571,
+        "url": "http://smotretanime.ru/translations/embed/1532965",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 1846,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594573,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3084324",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 124,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1607824,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3103995",
+        "language": "russian",
+        "quality": "tv",
+        "author": "QualiDub (Oshiroge)",
+        "watchesCount": 1,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1621246,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3132781",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Berserk)",
+        "watchesCount": 178,
+        "uploader": "Я не Зура а Кацура"
+      },
+      {
+        "id": 1621876,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3133824",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anything Group (Sad_Kit)",
+        "watchesCount": 4,
+        "uploader": "Anything_Group"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1594550,
+        "url": "http://smotretanime.ru/translations/embed/1532925",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594554,
+        "url": "http://smotretanime.ru/translations/embed/1532923",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594555,
+        "url": "http://smotretanime.ru/translations/embed/1532924",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594560,
+        "url": "http://smotretanime.ru/translations/embed/1532932",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594561,
+        "url": "http://smotretanime.ru/translations/embed/1532933",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594562,
+        "url": "http://smotretanime.ru/translations/embed/1532931",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594596,
+        "url": "http://smotretanime.ru/translations/embed/1532992",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594611,
+        "url": "http://smotretanime.ru/translations/embed/1533007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594704,
+        "url": "http://smotretanime.ru/translations/embed/1532993",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 497,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595010,
+        "url": "http://smotretanime.ru/translations/embed/1533470",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595011,
+        "url": "http://smotretanime.ru/translations/embed/1533471",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595012,
+        "url": "http://smotretanime.ru/translations/embed/1533461",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595013,
+        "url": "http://smotretanime.ru/translations/embed/1533463",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595014,
+        "url": "http://smotretanime.ru/translations/embed/1533462",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595015,
+        "url": "http://smotretanime.ru/translations/embed/1533464",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595016,
+        "url": "http://smotretanime.ru/translations/embed/1533465",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595017,
+        "url": "http://smotretanime.ru/translations/embed/1533466",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595018,
+        "url": "http://smotretanime.ru/translations/embed/1533468",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595019,
+        "url": "http://smotretanime.ru/translations/embed/1533467",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595020,
+        "url": "http://smotretanime.ru/translations/embed/1533469",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595022,
+        "url": "http://smotretanime.ru/translations/embed/1533458",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595023,
+        "url": "http://smotretanime.ru/translations/embed/1533483",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595024,
+        "url": "http://smotretanime.ru/translations/embed/1533479",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595025,
+        "url": "http://smotretanime.ru/translations/embed/1533480",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595026,
+        "url": "http://smotretanime.ru/translations/embed/1533482",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595027,
+        "url": "http://smotretanime.ru/translations/embed/1533481",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595029,
+        "url": "http://smotretanime.ru/translations/embed/1533459",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595039,
+        "url": "http://smotretanime.ru/translations/embed/1533522",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595040,
+        "url": "http://smotretanime.ru/translations/embed/1533521",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595041,
+        "url": "http://smotretanime.ru/translations/embed/1533523",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595043,
+        "url": "http://smotretanime.ru/translations/embed/1533517",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595044,
+        "url": "http://smotretanime.ru/translations/embed/1533520",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595045,
+        "url": "http://smotretanime.ru/translations/embed/1533519",
+        "language": "english",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601428,
+        "url": "http://smotretanime.ru/translations/embed/1544006",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601535,
+        "url": "http://smotretanime.ru/translations/embed/1544156",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601932,
+        "url": "http://smotretanime.ru/translations/embed/1550207",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1602725,
+        "url": "http://smotretanime.ru/translations/embed/1552044",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1607621,
+        "url": "http://smotretanime.ru/translations/embed/1565407",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1610958,
+        "url": "http://smotretanime.ru/translations/embed/1572512",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611005,
+        "url": "http://smotretanime.ru/translations/embed/1572534",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611323,
+        "url": "http://smotretanime.ru/translations/embed/1573009",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1612292,
+        "url": "http://smotretanime.ru/translations/embed/1573763",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614234,
+        "url": "http://smotretanime.ru/translations/embed/1576155",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615226,
+        "url": "http://smotretanime.ru/translations/embed/1577535",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615289,
+        "url": "http://smotretanime.ru/translations/embed/1577583",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615608,
+        "url": "http://smotretanime.ru/translations/embed/1577992",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1616272,
+        "url": "http://smotretanime.ru/translations/embed/1579229",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1618088,
+        "url": "http://smotretanime.ru/translations/embed/1581570",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1624333,
+        "url": "http://smotretanime.ru/translations/embed/1589942",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1624390,
+        "url": "http://smotretanime.ru/translations/embed/1589985",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1624619,
+        "url": "http://smotretanime.ru/translations/embed/1590513",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1625193,
+        "url": "http://smotretanime.ru/translations/embed/1591467",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1626605,
+        "url": "http://smotretanime.ru/translations/embed/1594439",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1651796,
+        "url": "http://smotretanime.ru/translations/embed/1644097",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1653397,
+        "url": "http://smotretanime.ru/translations/embed/1645916",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SeshaRim & Nagaki & Nika_Elrik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1670015,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3085361",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & SeshaRim)",
+        "watchesCount": 14,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1594551,
+        "url": "http://smotretanime.ru/translations/embed/1532928",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594553,
+        "url": "http://smotretanime.ru/translations/embed/1532927",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1594556,
+        "url": "http://smotretanime.ru/translations/embed/1532926",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595021,
+        "url": "http://smotretanime.ru/translations/embed/1533460",
+        "language": "original",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595028,
+        "url": "http://smotretanime.ru/translations/embed/1533478",
+        "language": "original",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595042,
+        "url": "http://smotretanime.ru/translations/embed/1533518",
+        "language": "original",
+        "quality": "tv",
+        "author": "Fumei",
+        "watchesCount": 19,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1595182,
+        "url": "http://smotretanime.ru/translations/embed/1533729",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1643640,
+        "url": "http://smotretanime.ru/translations/embed/1627312",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

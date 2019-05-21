@@ -1,0 +1,452 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1608647,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3110410",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Mutsuko Air)",
+        "watchesCount": 116,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1610327,
+        "url": "http://sovetromantica.com/embed/episode_394_4-dubbed",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica (Brigella)",
+        "watchesCount": 384,
+        "uploader": "Ольга Зернова"
+      },
+      {
+        "id": 1620308,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3130755",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Mutsuko Air & Freedom & Фрейн & Marie Bibika & Shamy Ry Lau)",
+        "watchesCount": 383,
+        "uploader": "man from Chiba"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1608733,
+        "url": "http://sovetromantica.com/embed/episode_394_4-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 439,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1608801,
+        "url": "http://smotretanime.ru/translations/embed/1568874",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 5,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1608930,
+        "url": "http://smotretanime.ru/translations/embed/1569333",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1609612,
+        "url": "http://smotretanime.ru/translations/embed/1570729",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1610329,
+        "url": "http://smotretanime.ru/translations/embed/1571630",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1610330,
+        "url": "http://smotretanime.ru/translations/embed/1571632",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611808,
+        "url": "http://smotretanime.ru/translations/embed/1573305",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1613543,
+        "url": "http://smotretanime.ru/translations/embed/1575354",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1613585,
+        "url": "http://smotretanime.ru/translations/embed/1575352",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 36,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614239,
+        "url": "http://smotretanime.ru/translations/embed/1576168",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614316,
+        "url": "http://smotretanime.ru/translations/embed/1576223",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614803,
+        "url": "http://smotretanime.ru/translations/embed/1576788",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615643,
+        "url": "http://smotretanime.ru/translations/embed/1578021",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617404,
+        "url": "http://smotretanime.ru/translations/embed/1580754",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617541,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3118911",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 117,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1619573,
+        "url": "http://smotretanime.ru/translations/embed/1583566",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1620347,
+        "url": "http://smotretanime.ru/translations/embed/1584340",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1623550,
+        "url": "http://smotretanime.ru/translations/embed/1589040",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1623585,
+        "url": "http://smotretanime.ru/translations/embed/1589133",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1623935,
+        "url": "http://smotretanime.ru/translations/embed/1589589",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1624650,
+        "url": "http://smotretanime.ru/translations/embed/1590572",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1630090,
+        "url": "http://smotretanime.ru/translations/embed/1601760",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1631380,
+        "url": "http://smotretanime.ru/translations/embed/1604589",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1632440,
+        "url": "http://smotretanime.ru/translations/embed/1606410",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1634356,
+        "url": "http://smotretanime.ru/translations/embed/1608943",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1637295,
+        "url": "http://smotretanime.ru/translations/embed/1617174",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1639042,
+        "url": "http://smotretanime.ru/translations/embed/1619659",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1639237,
+        "url": "http://smotretanime.ru/translations/embed/1619807",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1639839,
+        "url": "http://smotretanime.ru/translations/embed/1620139",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1641230,
+        "url": "http://smotretanime.ru/translations/embed/1621759",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1645616,
+        "url": "http://smotretanime.ru/translations/embed/1631765",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1647779,
+        "url": "http://smotretanime.ru/translations/embed/1634945",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649064,
+        "url": "http://smotretanime.ru/translations/embed/1637955",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649223,
+        "url": "http://smotretanime.ru/translations/embed/1638123",
+        "language": "english",
+        "quality": "tv",
+        "author": "MX-EN-PT",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649245,
+        "url": "http://smotretanime.ru/translations/embed/1638143",
+        "language": "english",
+        "quality": "tv",
+        "author": "MX-EN-PT",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649704,
+        "url": "http://smotretanime.ru/translations/embed/1639031",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1650775,
+        "url": "http://smotretanime.ru/translations/embed/1642014",
+        "language": "russian",
+        "quality": "tv",
+        "author": "anipaladin & Kittor",
+        "watchesCount": 238,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1608688,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3110189",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 1,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1608802,
+        "url": "http://smotretanime.ru/translations/embed/1568504",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1609221,
+        "url": "http://smotretanime.ru/translations/embed/1569761",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1610328,
+        "url": "http://smotretanime.ru/translations/embed/1571631",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1622984,
+        "url": "http://smotretanime.ru/translations/embed/1588330",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649067,
+        "url": "http://smotretanime.ru/translations/embed/1637981",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649216,
+        "url": "http://smotretanime.ru/translations/embed/1638057",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649222,
+        "url": "http://smotretanime.ru/translations/embed/1638141",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1649246,
+        "url": "http://smotretanime.ru/translations/embed/1638164",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

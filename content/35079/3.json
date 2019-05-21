@@ -1,0 +1,974 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1603868,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3097138",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 68,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1603872,
+        "url": "http://smotretanime.ru/translations/embed/1557886",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 406,
+        "uploader": "tee"
+      },
+      {
+        "id": 1603938,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3097143",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Chokoba)",
+        "watchesCount": 8,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1604015,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3097562",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Chokoba)",
+        "watchesCount": 64,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1605363,
+        "url": "http://vk.com/video_ext.php?oid=-118086841&id=456239097&hash=1d2cbbd7a7fa98da",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (SlivciS & Berserk & Kalifor)",
+        "watchesCount": 75,
+        "uploader": "SlivciS"
+      },
+      {
+        "id": 1607700,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3103554",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Mamoru & Viki)",
+        "watchesCount": 24,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1607705,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=456245998&hash=b11aeac5e27727fd",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Mamoru & Viki)",
+        "watchesCount": 52,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1609098,
+        "url": "http://smotretanime.ru/translations/embed/1569540",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CactusTeam (Matuko & Miori)",
+        "watchesCount": 68,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1609551,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3100819",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Aemi & Sharon)",
+        "watchesCount": 14,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1609552,
+        "url": "http://smotretanime.ru/translations/embed/1561939",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Aemi & Sharon)",
+        "watchesCount": 670,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1609729,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3100641",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Erut & Dreamy Sleep)",
+        "watchesCount": 455,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1611989,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3116067",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 28,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1612776,
+        "url": "http://vk.com/video_ext.php?oid=-39376197&id=456239762&hash=6e1c96ab3278927d",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 143,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1622328,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3102638",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Aemi & Sharon)",
+        "watchesCount": 100,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1624785,
+        "url": "http://vk.com/video_ext.php?oid=144491029&id=456239207&hash=2a709164f7367648",
+        "language": "russian",
+        "quality": "tv",
+        "author": "TO Bamboo (Kybtown)",
+        "watchesCount": 2,
+        "uploader": "Андрей Кунчив"
+      },
+      {
+        "id": 1646384,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3117985",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 22,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1656820,
+        "url": "http://smotretanime.ru/translations/embed/1652110",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OSC Project (Heby & Nevernel)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1668663,
+        "url": "http://vk.com/video_ext.php?oid=-151316227&id=456239060&hash=95d3d79ae3492827",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OSC Project (Heby & Nevernel)",
+        "watchesCount": 0,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1668768,
+        "url": "http://vk.com/video_ext.php?oid=-52492048&id=456239265&hash=828cf280abafd993",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CactusTeam (Matuko & Miori)",
+        "watchesCount": 2,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1668843,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3111119",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CactusTeam (Matuko & Miori)",
+        "watchesCount": 1,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1669151,
+        "url": "http://smotretanime.ru/translations/embed/1671734",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 60,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1669158,
+        "url": "http://smotretanime.ru/translations/embed/1565475",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Mamoru & Viki)",
+        "watchesCount": 11,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1669159,
+        "url": "http://smotretanime.ru/translations/embed/1557953",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Chokoba)",
+        "watchesCount": 5,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1673379,
+        "url": "http://vk.com/video_ext.php?oid=-147490707&id=456239087&hash=41f9c9585f625e4b",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnigakuDub (Anisimo & Infiniti & Mastmus & Rebvilion & Pistoletka)",
+        "watchesCount": 343,
+        "uploader": "Владислав Ходыко"
+      },
+      {
+        "id": 1673381,
+        "url": "http://smotretanime.ru/translations/embed/1707201",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnigakuDub (Anisimo & Infiniti & Mastmus & Rebvilion & Pistoletka)",
+        "watchesCount": 9,
+        "uploader": "Владислав Ходыко"
+      },
+      {
+        "id": 1854106,
+        "url": "http://vk.com/video_ext.php?oid=-37468416&id=456242297&hash=45051e873107cca6",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Aemi & Sharon)",
+        "watchesCount": 69,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1603992,
+        "url": "http://sovetromantica.com/embed/episode_388_3-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 459,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1603993,
+        "url": "http://smotretanime.ru/translations/embed/1558150",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 44,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1604504,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3097993",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 16,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1604506,
+        "url": "http://vk.com/video_ext.php?oid=-64292596&id=456246764&hash=dd2bc8424557ceb4",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 96,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1604710,
+        "url": "http://smotretanime.ru/translations/embed/1559958",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1604770,
+        "url": "http://smotretanime.ru/translations/embed/1560044",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1604802,
+        "url": "http://smotretanime.ru/translations/embed/1560060",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 42,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1607369,
+        "url": "http://smotretanime.ru/translations/embed/1565294",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1608450,
+        "url": "http://smotretanime.ru/translations/embed/1567027",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1608469,
+        "url": "http://smotretanime.ru/translations/embed/1567048",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1608506,
+        "url": "http://smotretanime.ru/translations/embed/1558128",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Японская Таверна",
+        "watchesCount": 12,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1608507,
+        "url": "http://smotretanime.ru/translations/embed/1558151",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 169,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1608508,
+        "url": "http://smotretanime.ru/translations/embed/1559381",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 171,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1609462,
+        "url": "http://smotretanime.ru/translations/embed/1570174",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1609465,
+        "url": "http://smotretanime.ru/translations/embed/1570171",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611319,
+        "url": "http://smotretanime.ru/translations/embed/1573007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611322,
+        "url": "http://smotretanime.ru/translations/embed/1573004",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1611379,
+        "url": "http://smotretanime.ru/translations/embed/1573049",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1613800,
+        "url": "http://smotretanime.ru/translations/embed/1575660",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1613804,
+        "url": "http://smotretanime.ru/translations/embed/1575664",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1613849,
+        "url": "http://smotretanime.ru/translations/embed/1575703",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1613852,
+        "url": "http://smotretanime.ru/translations/embed/1575707",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614489,
+        "url": "http://smotretanime.ru/translations/embed/1576386",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614492,
+        "url": "http://smotretanime.ru/translations/embed/1576390",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614626,
+        "url": "http://smotretanime.ru/translations/embed/1576510",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614629,
+        "url": "http://smotretanime.ru/translations/embed/1576514",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614703,
+        "url": "http://smotretanime.ru/translations/embed/1576649",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614708,
+        "url": "http://smotretanime.ru/translations/embed/1576653",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615107,
+        "url": "http://smotretanime.ru/translations/embed/1577419",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615110,
+        "url": "http://smotretanime.ru/translations/embed/1577423",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615959,
+        "url": "http://smotretanime.ru/translations/embed/1578674",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615961,
+        "url": "http://smotretanime.ru/translations/embed/1578679",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617707,
+        "url": "http://smotretanime.ru/translations/embed/1581164",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617711,
+        "url": "http://smotretanime.ru/translations/embed/1581160",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619066,
+        "url": "http://smotretanime.ru/translations/embed/1582506",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619068,
+        "url": "http://smotretanime.ru/translations/embed/1582510",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619110,
+        "url": "http://smotretanime.ru/translations/embed/1582553",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619120,
+        "url": "http://smotretanime.ru/translations/embed/1582558",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619611,
+        "url": "http://smotretanime.ru/translations/embed/1583601",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1619617,
+        "url": "http://smotretanime.ru/translations/embed/1583605",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1620372,
+        "url": "http://smotretanime.ru/translations/embed/1584370",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1620373,
+        "url": "http://smotretanime.ru/translations/embed/1584374",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1620449,
+        "url": "http://smotretanime.ru/translations/embed/1584426",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1620479,
+        "url": "http://smotretanime.ru/translations/embed/1584432",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1621602,
+        "url": "http://smotretanime.ru/translations/embed/1586054",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1622562,
+        "url": "http://smotretanime.ru/translations/embed/1587820",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1623191,
+        "url": "http://smotretanime.ru/translations/embed/1588624",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1623269,
+        "url": "http://smotretanime.ru/translations/embed/1588701",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1623788,
+        "url": "http://smotretanime.ru/translations/embed/1589358",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1624585,
+        "url": "http://smotretanime.ru/translations/embed/1590429",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1624975,
+        "url": "http://smotretanime.ru/translations/embed/1590969",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1625037,
+        "url": "http://smotretanime.ru/translations/embed/1591029",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1625182,
+        "url": "http://smotretanime.ru/translations/embed/1591478",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1625941,
+        "url": "http://smotretanime.ru/translations/embed/1592660",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1626932,
+        "url": "http://smotretanime.ru/translations/embed/1594888",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1629873,
+        "url": "http://smotretanime.ru/translations/embed/1601388",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1632143,
+        "url": "http://smotretanime.ru/translations/embed/1605791",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1632175,
+        "url": "http://smotretanime.ru/translations/embed/1605808",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1632451,
+        "url": "http://smotretanime.ru/translations/embed/1606420",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1632541,
+        "url": "http://smotretanime.ru/translations/embed/1606567",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1632561,
+        "url": "http://smotretanime.ru/translations/embed/1606643",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1633106,
+        "url": "http://smotretanime.ru/translations/embed/1607361",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1633218,
+        "url": "http://smotretanime.ru/translations/embed/1607691",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1633864,
+        "url": "http://smotretanime.ru/translations/embed/1608235",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1638611,
+        "url": "http://smotretanime.ru/translations/embed/1619186",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1638678,
+        "url": "http://smotretanime.ru/translations/embed/1619226",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1639556,
+        "url": "http://smotretanime.ru/translations/embed/1619975",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1641043,
+        "url": "http://smotretanime.ru/translations/embed/1621346",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1642632,
+        "url": "http://smotretanime.ru/translations/embed/1625230",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1643923,
+        "url": "http://smotretanime.ru/translations/embed/1627638",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1643927,
+        "url": "http://smotretanime.ru/translations/embed/1627632",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1645470,
+        "url": "http://smotretanime.ru/translations/embed/1631260",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1645477,
+        "url": "http://smotretanime.ru/translations/embed/1631276",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1646217,
+        "url": "http://smotretanime.ru/translations/embed/1632641",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1646226,
+        "url": "http://smotretanime.ru/translations/embed/1632651",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dotonbori Roma & Nippa",
+        "watchesCount": 30,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1668852,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3098210",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 30,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1669182,
+        "url": "http://smotretanime.ru/translations/embed/1558090",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 26,
+        "uploader": "Tenno Haruka"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1603808,
+        "url": "http://smotretanime.ru/translations/embed/1557662",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 21,
+        "uploader": "tee"
+      },
+      {
+        "id": 1607876,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3097113",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1609099,
+        "url": "http://smotretanime.ru/translations/embed/1569543",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1643603,
+        "url": "http://smotretanime.ru/translations/embed/1627268",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 23,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1702598,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3270868",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Ruri)",
+        "watchesCount": 1358,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1706805,
+        "url": "http://online.animedia.tv/embed/15599/1/2",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Kashi & LolAlice & KingMaster)",
+        "watchesCount": 554,
+        "uploader": "Blue cat"
+      },
+      {
+        "id": 1715966,
+        "url": "http://smotretanime.ru/translations/embed/1765855",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Zunder)",
+        "watchesCount": 1594,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1757259,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3291659",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 303,
+        "uploader": "Lina Fair"
+      },
+      {
+        "id": 1850649,
+        "url": "http://vk.com/video_ext.php?oid=-39376197&id=456240660&hash=7022db2e3da9a1cc",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 948,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1702474,
+        "url": "http://smotretanime.ru/translations/embed/1764343",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 70,
+        "uploader": "KeoFoxy"
+      },
+      {
+        "id": 1702573,
+        "url": "http://smotretanime.ru/translations/embed/1764942",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt",
+        "watchesCount": 537,
+        "uploader": "Андрей Енот"
+      },
+      {
+        "id": 1702608,
+        "url": "http://smotretanime.ru/translations/embed/1765052",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 35,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1703029,
+        "url": "http://sovetromantica.com/embed/episode_497_2-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomantica",
+        "watchesCount": 888,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1703319,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3271372",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 191,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1703320,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3272438",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomantica",
+        "watchesCount": 54,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1708800,
+        "url": "http://smotretanime.ru/translations/embed/1775024",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 29,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1710320,
+        "url": "http://smotretanime.ru/translations/embed/1778467",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1712703,
+        "url": "http://smotretanime.ru/translations/embed/1781620",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1717149,
+        "url": "http://smotretanime.ru/translations/embed/1790205",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1719944,
+        "url": "http://smotretanime.ru/translations/embed/1794866",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1720803,
+        "url": "http://smotretanime.ru/translations/embed/1796776",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1720850,
+        "url": "http://smotretanime.ru/translations/embed/1796818",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1721561,
+        "url": "http://smotretanime.ru/translations/embed/1797434",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1722362,
+        "url": "http://smotretanime.ru/translations/embed/1798831",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1724721,
+        "url": "http://smotretanime.ru/translations/embed/1802053",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 80,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726376,
+        "url": "http://smotretanime.ru/translations/embed/1804942",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726443,
+        "url": "http://smotretanime.ru/translations/embed/1805040",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726588,
+        "url": "http://smotretanime.ru/translations/embed/1805235",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726901,
+        "url": "http://smotretanime.ru/translations/embed/1805547",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726935,
+        "url": "http://smotretanime.ru/translations/embed/1805610",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1727157,
+        "url": "http://smotretanime.ru/translations/embed/1806390",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1727742,
+        "url": "http://smotretanime.ru/translations/embed/1807061",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1730103,
+        "url": "http://smotretanime.ru/translations/embed/1810213",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1732222,
+        "url": "http://smotretanime.ru/translations/embed/1814536",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1732272,
+        "url": "http://smotretanime.ru/translations/embed/1814608",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1732443,
+        "url": "http://smotretanime.ru/translations/embed/1814949",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1735137,
+        "url": "http://smotretanime.ru/translations/embed/1818564",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1736373,
+        "url": "http://smotretanime.ru/translations/embed/1821023",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1736477,
+        "url": "http://smotretanime.ru/translations/embed/1821101",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1737401,
+        "url": "http://smotretanime.ru/translations/embed/1821870",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1737885,
+        "url": "http://smotretanime.ru/translations/embed/1822471",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1739790,
+        "url": "http://smotretanime.ru/translations/embed/1824548",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1742666,
+        "url": "http://smotretanime.ru/translations/embed/1827402",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1742691,
+        "url": "http://smotretanime.ru/translations/embed/1827427",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1742734,
+        "url": "http://smotretanime.ru/translations/embed/1827468",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1742933,
+        "url": "http://smotretanime.ru/translations/embed/1827805",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1744519,
+        "url": "http://smotretanime.ru/translations/embed/1828299",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1747746,
+        "url": "http://smotretanime.ru/translations/embed/1830224",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1748291,
+        "url": "http://smotretanime.ru/translations/embed/1830880",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1748321,
+        "url": "http://smotretanime.ru/translations/embed/1830940",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1748372,
+        "url": "http://smotretanime.ru/translations/embed/1830999",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1748512,
+        "url": "http://smotretanime.ru/translations/embed/1831173",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1749386,
+        "url": "http://smotretanime.ru/translations/embed/1831993",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1751251,
+        "url": "http://smotretanime.ru/translations/embed/1833721",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1752967,
+        "url": "http://smotretanime.ru/translations/embed/1835543",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1753019,
+        "url": "http://smotretanime.ru/translations/embed/1835600",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1753321,
+        "url": "http://smotretanime.ru/translations/embed/1835977",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1759887,
+        "url": "http://smotretanime.ru/translations/embed/1842139",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1761442,
+        "url": "http://smotretanime.ru/translations/embed/1842923",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1763801,
+        "url": "http://smotretanime.ru/translations/embed/1844822",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1702473,
+        "url": "http://smotretanime.ru/translations/embed/1764345",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 11,
+        "uploader": "KeoFoxy"
+      },
+      {
+        "id": 1703641,
+        "url": "http://smotretanime.ru/translations/embed/1767666",
+        "language": "original",
+        "quality": "tv",
+        "author": "FumeiRaws",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

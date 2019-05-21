@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1524142,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2958244",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (Mustadio)",
+        "watchesCount": 378,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1844834,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3473163",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Gecep)",
+        "watchesCount": 202,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1517223,
+        "url": "http://smotretanime.ru/translations/embed/1345812",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 20,
+        "uploader": "Prog Digi"
+      },
+      {
+        "id": 1521768,
+        "url": "http://smotretanime.ru/translations/embed/1355149",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zero",
+        "watchesCount": 165,
+        "uploader": "Prog Digi"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1517119,
+        "url": "http://smotretanime.ru/translations/embed/1345651",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1517322,
+        "url": "http://smotretanime.ru/translations/embed/1346023",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1521555,
+        "url": "http://smotretanime.ru/translations/embed/1345814",
+        "language": "original",
+        "quality": "bd",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "34367897654321456"
+      },
+      {
+        "id": 1590908,
+        "url": "http://smotretanime.ru/translations/embed/1523381",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1512778,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2940420",
+        "language": "russian",
+        "quality": "tv",
+        "author": "DeadLine Studio (Mustadio)",
+        "watchesCount": 482,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1844831,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3473160",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Gecep)",
+        "watchesCount": 213,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1512006,
+        "url": "http://smotretanime.ru/translations/embed/1336179",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zero",
+        "watchesCount": 215,
+        "uploader": "Prog Digi"
+      },
+      {
+        "id": 1512010,
+        "url": "http://smotretanime.ru/translations/embed/1319140",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "Prog Digi"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1521552,
+        "url": "http://smotretanime.ru/translations/embed/1319173",
+        "language": "original",
+        "quality": "bd",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "34367897654321456"
+      },
+      {
+        "id": 1590949,
+        "url": "http://smotretanime.ru/translations/embed/1523394",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

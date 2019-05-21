@@ -1,0 +1,47 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1635688,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3178643",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 3,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1637516,
+        "url": "http://smotretanime.ru/translations/embed/1612633",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 1,
+        "uploader": "Ohisama"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1635685,
+        "url": "http://smotretanime.ru/translations/embed/1611483",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 3,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1635686,
+        "url": "http://smotretanime.ru/translations/embed/1611495",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "episode": 0,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1705219,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3275692",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 73,
+        "uploader": "Anime Heaven"
+      },
+      {
+        "id": 1753771,
+        "url": "http://ok.ru/videoembed/688642394705",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 6,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1884314,
+        "url": "http://vk.com/video_ext.php?oid=-39376197&id=456240512&hash=380f1363b1b038c0",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 12,
+        "uploader": "Willwars"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1701083,
+        "url": "http://smotretanime.ru/translations/embed/1761756",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 58,
+        "uploader": "Софья Шутова"
+      },
+      {
+        "id": 1701814,
+        "url": "http://smotretanime.ru/translations/embed/1761370",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1705220,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3269832",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 18,
+        "uploader": "Anime Heaven"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1701734,
+        "url": "http://smotretanime.ru/translations/embed/1761364",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1701813,
+        "url": "http://smotretanime.ru/translations/embed/1761375",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

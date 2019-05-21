@@ -1,0 +1,821 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1487593,
+        "url": "http://smotretanime.ru/translations/embed/1243017",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt",
+        "watchesCount": 33,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1488609,
+        "url": "http://vk.com/video_ext.php?oid=-124439291&id=456239222&hash=18716b2a21a1f7db",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FRONDA (RomanOFF)",
+        "watchesCount": 2,
+        "uploader": "Романов Юрий"
+      },
+      {
+        "id": 1488614,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2898698",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FRONDA (RomanOFF)",
+        "watchesCount": 10,
+        "uploader": "Романов Юрий"
+      },
+      {
+        "id": 1488664,
+        "url": "http://vk.com/video_ext.php?oid=-120552857&id=456240179&hash=60038e061dee8fcc",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (leoneo)",
+        "watchesCount": 23,
+        "uploader": "leoneo"
+      },
+      {
+        "id": 1488852,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2899302",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Daelit)",
+        "watchesCount": 3,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1488853,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=456244836&hash=f0e2217bc06ef749",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Daelit)",
+        "watchesCount": 15,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1488862,
+        "url": "http://smotretanime.ru/translations/embed/1244037",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1499508,
+        "url": "http://vk.com/video_ext.php?oid=-37468416&id=456241148&hash=d5d3569080baa108",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Nuts & Cleo-chan)",
+        "watchesCount": 141,
+        "uploader": "Tomoe-d"
+      },
+      {
+        "id": 1570880,
+        "url": "http://smotretanime.ru/translations/embed/1314482",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Nuts & Cleo-chan)",
+        "watchesCount": 15,
+        "uploader": "Prog Digi"
+      },
+      {
+        "id": 1759914,
+        "url": "http://ok.ru/videoembed/289194641972",
+        "language": "russian",
+        "quality": "web",
+        "author": "SHIZA Project (Daelit)",
+        "watchesCount": 1,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1815919,
+        "url": "http://vk.com/video_ext.php?oid=-64282268&id=456242475&hash=6df490429a219d34",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniStar (Chokoba)",
+        "watchesCount": 0,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1815931,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3159072",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniStar (Chokoba)",
+        "watchesCount": 0,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1487314,
+        "url": "http://smotretanime.ru/translations/embed/1242848",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1487621,
+        "url": "http://smotretanime.ru/translations/embed/1243048",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1487622,
+        "url": "http://vk.com/video_ext.php?oid=-64292596&id=456244586&hash=f55f6ffa660723ce",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 36,
+        "uploader": "Jeka777z"
+      },
+      {
+        "id": 1487623,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2897251",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 2,
+        "uploader": "Jeka777z"
+      },
+      {
+        "id": 1487674,
+        "url": "http://smotretanime.ru/translations/embed/1243047",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489088,
+        "url": "http://smotretanime.ru/translations/embed/1244196",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489107,
+        "url": "http://smotretanime.ru/translations/embed/1244191",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489124,
+        "url": "http://smotretanime.ru/translations/embed/1244217",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489127,
+        "url": "http://smotretanime.ru/translations/embed/1244222",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489278,
+        "url": "http://smotretanime.ru/translations/embed/1244384",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489282,
+        "url": "http://smotretanime.ru/translations/embed/1244379",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489608,
+        "url": "http://smotretanime.ru/translations/embed/1244656",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489611,
+        "url": "http://smotretanime.ru/translations/embed/1244651",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1491201,
+        "url": "http://smotretanime.ru/translations/embed/1246500",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1491206,
+        "url": "http://smotretanime.ru/translations/embed/1246495",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1491977,
+        "url": "http://smotretanime.ru/translations/embed/1306127",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1491982,
+        "url": "http://smotretanime.ru/translations/embed/1306121",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1492532,
+        "url": "http://smotretanime.ru/translations/embed/1306634",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1492536,
+        "url": "http://smotretanime.ru/translations/embed/1306640",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1494565,
+        "url": "http://smotretanime.ru/translations/embed/1308729",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1494569,
+        "url": "http://smotretanime.ru/translations/embed/1308735",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1495211,
+        "url": "http://smotretanime.ru/translations/embed/1249590",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1503402,
+        "url": "http://smotretanime.ru/translations/embed/1320244",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1503405,
+        "url": "http://smotretanime.ru/translations/embed/1320252",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1503439,
+        "url": "http://smotretanime.ru/translations/embed/1320290",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1503441,
+        "url": "http://smotretanime.ru/translations/embed/1320298",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1503693,
+        "url": "http://smotretanime.ru/translations/embed/1320689",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1503695,
+        "url": "http://smotretanime.ru/translations/embed/1320697",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1504786,
+        "url": "http://smotretanime.ru/translations/embed/1322164",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1504789,
+        "url": "http://smotretanime.ru/translations/embed/1322172",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506719,
+        "url": "http://smotretanime.ru/translations/embed/1325589",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506722,
+        "url": "http://smotretanime.ru/translations/embed/1325597",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507216,
+        "url": "http://smotretanime.ru/translations/embed/1326765",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507219,
+        "url": "http://smotretanime.ru/translations/embed/1326774",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507232,
+        "url": "http://smotretanime.ru/translations/embed/1326786",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507234,
+        "url": "http://smotretanime.ru/translations/embed/1326795",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507448,
+        "url": "http://smotretanime.ru/translations/embed/1327212",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507450,
+        "url": "http://smotretanime.ru/translations/embed/1327221",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1508123,
+        "url": "http://smotretanime.ru/translations/embed/1328634",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1508128,
+        "url": "http://smotretanime.ru/translations/embed/1328644",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510213,
+        "url": "http://smotretanime.ru/translations/embed/1332435",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510216,
+        "url": "http://smotretanime.ru/translations/embed/1332445",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510725,
+        "url": "http://smotretanime.ru/translations/embed/1333427",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1511789,
+        "url": "http://smotretanime.ru/translations/embed/1336369",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1511790,
+        "url": "http://smotretanime.ru/translations/embed/1336379",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513184,
+        "url": "http://smotretanime.ru/translations/embed/1338151",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513187,
+        "url": "http://smotretanime.ru/translations/embed/1338163",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513238,
+        "url": "http://smotretanime.ru/translations/embed/1338375",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513242,
+        "url": "http://smotretanime.ru/translations/embed/1338387",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513695,
+        "url": "http://smotretanime.ru/translations/embed/1338886",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513701,
+        "url": "http://smotretanime.ru/translations/embed/1338898",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1514720,
+        "url": "http://smotretanime.ru/translations/embed/1340402",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1514724,
+        "url": "http://smotretanime.ru/translations/embed/1340414",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1516203,
+        "url": "http://smotretanime.ru/translations/embed/1343673",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1516206,
+        "url": "http://smotretanime.ru/translations/embed/1343685",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1522160,
+        "url": "http://smotretanime.ru/translations/embed/1356886",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1522166,
+        "url": "http://smotretanime.ru/translations/embed/1356900",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1522230,
+        "url": "http://smotretanime.ru/translations/embed/1356973",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1522234,
+        "url": "http://smotretanime.ru/translations/embed/1356987",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1522755,
+        "url": "http://smotretanime.ru/translations/embed/1357743",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1522759,
+        "url": "http://smotretanime.ru/translations/embed/1357757",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1523360,
+        "url": "http://smotretanime.ru/translations/embed/1358626",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1523364,
+        "url": "http://smotretanime.ru/translations/embed/1358640",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1524424,
+        "url": "http://smotretanime.ru/translations/embed/1360411",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1524432,
+        "url": "http://smotretanime.ru/translations/embed/1360425",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1532619,
+        "url": "http://smotretanime.ru/translations/embed/1377571",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1532627,
+        "url": "http://smotretanime.ru/translations/embed/1377587",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1534883,
+        "url": "http://smotretanime.ru/translations/embed/1381705",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1534888,
+        "url": "http://smotretanime.ru/translations/embed/1381689",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1539122,
+        "url": "http://smotretanime.ru/translations/embed/1390977",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1539130,
+        "url": "http://smotretanime.ru/translations/embed/1390995",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1539293,
+        "url": "http://smotretanime.ru/translations/embed/1391746",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1539298,
+        "url": "http://smotretanime.ru/translations/embed/1391777",
+        "language": "russian",
+        "quality": "tv",
+        "author": "laci",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1487315,
+        "url": "http://smotretanime.ru/translations/embed/1242847",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489108,
+        "url": "http://smotretanime.ru/translations/embed/1244199",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1495212,
+        "url": "http://smotretanime.ru/translations/embed/1249591",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "1280x720.h264.AAC",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510726,
+        "url": "http://smotretanime.ru/translations/embed/1333425",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1527176,
+        "url": "http://smotretanime.ru/translations/embed/1358262",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

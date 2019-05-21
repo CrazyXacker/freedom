@@ -1,0 +1,803 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1667255,
+        "url": "http://smotretanime.ru/translations/embed/1685077",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 718,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1669045,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3220199",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team (CynicEye)",
+        "watchesCount": 17,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1669722,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3220897",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Dejz & Cleo-chan & Itashi & WhiteCroW)",
+        "watchesCount": 3,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1669726,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3220895",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Dejz & Cleo-chan & Itashi & WhiteCroW)",
+        "watchesCount": 1247,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1679135,
+        "url": "http://smotretanime.ru/translations/embed/1715999",
+        "language": "english",
+        "quality": "tv",
+        "author": "Funimation",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679139,
+        "url": "http://smotretanime.ru/translations/embed/1716006",
+        "language": "english",
+        "quality": "tv",
+        "author": "2.0 AAC",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679146,
+        "url": "http://smotretanime.ru/translations/embed/1716005",
+        "language": "english",
+        "quality": "tv",
+        "author": "Funimation",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1682919,
+        "url": "http://online.animedia.tv/embed/13873/2/4",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Freya & Nazel)",
+        "watchesCount": 28,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1746905,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3340372",
+        "language": "russian",
+        "quality": "bd",
+        "author": "KANSAI Studio",
+        "watchesCount": 144,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1789684,
+        "url": "http://smotretanime.ru/translations/embed/1868868",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JAM CLUB (JAM & Trina_D)",
+        "watchesCount": 93,
+        "uploader": "Нiколас Тарасюк"
+      },
+      {
+        "id": 1960429,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3268934",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Studio Band (Давид Петросян & Торгиль & Влад Дуров & Иван Породнов & Алия Насырова & Demetra & LeeAnnushka & Cuba77 & BalFor & Esther)",
+        "watchesCount": 48,
+        "uploader": "Seven1Shady"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1667052,
+        "url": "http://smotretanime.ru/translations/embed/1684381",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1667072,
+        "url": "http://smotretanime.ru/translations/embed/1684337",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomantica",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1667166,
+        "url": "http://smotretanime.ru/translations/embed/1684821",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 513,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1667167,
+        "url": "http://smotretanime.ru/translations/embed/1684822",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomantica",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1668991,
+        "url": "http://smotretanime.ru/translations/embed/1684174",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 88,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1668992,
+        "url": "http://smotretanime.ru/translations/embed/1689778",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 3,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1668994,
+        "url": "http://smotretanime.ru/translations/embed/1683784",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 8,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1668995,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3220117",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 72,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1672632,
+        "url": "http://smotretanime.ru/translations/embed/1704832",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1672634,
+        "url": "http://smotretanime.ru/translations/embed/1704830",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1672636,
+        "url": "http://smotretanime.ru/translations/embed/1704828",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1674077,
+        "url": "http://smotretanime.ru/translations/embed/1709175",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1674079,
+        "url": "http://smotretanime.ru/translations/embed/1709173",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1674081,
+        "url": "http://smotretanime.ru/translations/embed/1709171",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1674992,
+        "url": "http://smotretanime.ru/translations/embed/1710430",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1674996,
+        "url": "http://smotretanime.ru/translations/embed/1710426",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675003,
+        "url": "http://smotretanime.ru/translations/embed/1710432",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675060,
+        "url": "http://smotretanime.ru/translations/embed/1710496",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675062,
+        "url": "http://smotretanime.ru/translations/embed/1710494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675065,
+        "url": "http://smotretanime.ru/translations/embed/1710490",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675249,
+        "url": "http://smotretanime.ru/translations/embed/1711127",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675253,
+        "url": "http://smotretanime.ru/translations/embed/1711123",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675258,
+        "url": "http://smotretanime.ru/translations/embed/1711129",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675394,
+        "url": "http://smotretanime.ru/translations/embed/1711372",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675397,
+        "url": "http://smotretanime.ru/translations/embed/1711370",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675400,
+        "url": "http://smotretanime.ru/translations/embed/1711366",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675432,
+        "url": "http://smotretanime.ru/translations/embed/1711442",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675435,
+        "url": "http://smotretanime.ru/translations/embed/1711448",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675437,
+        "url": "http://smotretanime.ru/translations/embed/1711446",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679141,
+        "url": "http://smotretanime.ru/translations/embed/1716002",
+        "language": "english",
+        "quality": "tv",
+        "author": "LostYears",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679142,
+        "url": "http://smotretanime.ru/translations/embed/1716008",
+        "language": "english",
+        "quality": "tv",
+        "author": "LostYears",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679700,
+        "url": "http://smotretanime.ru/translations/embed/1716647",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679701,
+        "url": "http://smotretanime.ru/translations/embed/1716651",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679703,
+        "url": "http://smotretanime.ru/translations/embed/1716653",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1683334,
+        "url": "http://smotretanime.ru/translations/embed/1721489",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1683364,
+        "url": "http://smotretanime.ru/translations/embed/1721508",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1684600,
+        "url": "http://smotretanime.ru/translations/embed/1722379",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1684675,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3238423",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Aero & Helge & Lulu)",
+        "watchesCount": 46,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1684952,
+        "url": "http://smotretanime.ru/translations/embed/1723168",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1685024,
+        "url": "http://smotretanime.ru/translations/embed/1723290",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1685033,
+        "url": "http://smotretanime.ru/translations/embed/1723283",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1685045,
+        "url": "http://smotretanime.ru/translations/embed/1723274",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1685902,
+        "url": "http://myvi.ru/player/embed/html/oY3fBe6ZOKLCCNW-c3exWLeDgwgOCpqV1Y4wTY0XRv8yck1-BvypKc-lNQF-cTFDC0",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 6,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1685995,
+        "url": "http://smotretanime.ru/translations/embed/1725457",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1689395,
+        "url": "http://smotretanime.ru/translations/embed/1732043",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1689582,
+        "url": "http://smotretanime.ru/translations/embed/1732417",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1690211,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3222831",
+        "language": "russian",
+        "quality": "tv",
+        "author": "INTramedia",
+        "watchesCount": 3,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1690710,
+        "url": "http://smotretanime.ru/translations/embed/1735263",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1692711,
+        "url": "http://smotretanime.ru/translations/embed/1737940",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1692717,
+        "url": "http://smotretanime.ru/translations/embed/1737957",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1692724,
+        "url": "http://smotretanime.ru/translations/embed/1737950",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1701641,
+        "url": "http://smotretanime.ru/translations/embed/1762192",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1701849,
+        "url": "http://smotretanime.ru/translations/embed/1761290",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703340,
+        "url": "http://smotretanime.ru/translations/embed/1768645",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703346,
+        "url": "http://smotretanime.ru/translations/embed/1768634",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703373,
+        "url": "http://smotretanime.ru/translations/embed/1768498",
+        "language": "english",
+        "quality": "tv",
+        "author": "Cleo",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703407,
+        "url": "http://smotretanime.ru/translations/embed/1768431",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703477,
+        "url": "http://smotretanime.ru/translations/embed/1768146",
+        "language": "english",
+        "quality": "tv",
+        "author": "Scum",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1704251,
+        "url": "http://smotretanime.ru/translations/embed/1769601",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1704399,
+        "url": "http://smotretanime.ru/translations/embed/1769191",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1704430,
+        "url": "http://smotretanime.ru/translations/embed/1686804",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1705367,
+        "url": "http://smotretanime.ru/translations/embed/1772207",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1705724,
+        "url": "http://smotretanime.ru/translations/embed/1770486",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1706363,
+        "url": "http://smotretanime.ru/translations/embed/1773795",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1710314,
+        "url": "http://smotretanime.ru/translations/embed/1778533",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Lulu & Aero & Helge",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1710422,
+        "url": "http://smotretanime.ru/translations/embed/1777825",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1712557,
+        "url": "http://smotretanime.ru/translations/embed/1782007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1712573,
+        "url": "http://smotretanime.ru/translations/embed/1781993",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1712587,
+        "url": "http://smotretanime.ru/translations/embed/1781979",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1716008,
+        "url": "http://smotretanime.ru/translations/embed/1786771",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Night",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1772550,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3220159",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 9,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1667165,
+        "url": "http://smotretanime.ru/translations/embed/1684819",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1667263,
+        "url": "http://smotretanime.ru/translations/embed/1685115",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1679140,
+        "url": "http://smotretanime.ru/translations/embed/1716007",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703374,
+        "url": "http://smotretanime.ru/translations/embed/1768530",
+        "language": "original",
+        "quality": "tv",
+        "author": "Cleo",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703658,
+        "url": "http://smotretanime.ru/translations/embed/1767517",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1704431,
+        "url": "http://smotretanime.ru/translations/embed/1686829",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

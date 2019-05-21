@@ -1,0 +1,731 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1484836,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2890270",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Lonely Dragon & Oni)",
+        "watchesCount": 2424,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1487580,
+        "url": "http://youtube.com/embed/BvL7hRipdxs",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BrusnikaM1",
+        "watchesCount": 36,
+        "uploader": "BrusnikaM1"
+      },
+      {
+        "id": 1508044,
+        "url": "http://smotretanime.ru/translations/embed/1240315",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Lonely Dragon & Oni)",
+        "watchesCount": 886,
+        "uploader": "DepictWeb"
+      },
+      {
+        "id": 1523100,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2904926",
+        "language": "russian",
+        "quality": "tv",
+        "author": "RichDub (Anfei & Simfuri)",
+        "watchesCount": 47,
+        "uploader": "AniRise.com"
+      },
+      {
+        "id": 1532521,
+        "url": "http://smotretanime.ru/translations/embed/1377456",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Lonely Dragon & Oni)",
+        "watchesCount": 1753,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1778786,
+        "url": "http://vk.com/video_ext.php?oid=-118751366&id=456239384&hash=2ac4649cd067c8a5",
+        "language": "russian",
+        "quality": "tv",
+        "author": "3df voice (Антон Малафеев)",
+        "watchesCount": 1299,
+        "uploader": "Рыжая Моника"
+      },
+      {
+        "id": 1845184,
+        "url": "http://smotretanime.ru/translations/embed/1969291",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniRaccoon (GimerHade)",
+        "watchesCount": 7,
+        "uploader": "GimerHade"
+      },
+      {
+        "id": 1857291,
+        "url": "http://vk.com/video_ext.php?oid=-155773465&id=456239091&hash=c14adffba1406ed0",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99 & Дмитрий Леманн)",
+        "watchesCount": 97,
+        "uploader": "Дмитрий Леманн"
+      },
+      {
+        "id": 1860960,
+        "url": "http://youtube.com/embed/dWkfLaKAPx8",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniRaccoon (GimerHade)",
+        "watchesCount": 11,
+        "uploader": "GimerHade"
+      },
+      {
+        "id": 1896226,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3384669",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FukuroVoice (Shinori & All)",
+        "watchesCount": 4,
+        "uploader": "Ornimegalonyx"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1483727,
+        "url": "http://smotretanime.ru/translations/embed/1239195",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1483774,
+        "url": "http://smotretanime.ru/translations/embed/1239240",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1483887,
+        "url": "http://smotretanime.ru/translations/embed/1239316",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 22,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1485238,
+        "url": "http://smotretanime.ru/translations/embed/1241253",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1485260,
+        "url": "http://smotretanime.ru/translations/embed/1241265",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1486513,
+        "url": "http://smotretanime.ru/translations/embed/1242189",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1486516,
+        "url": "http://smotretanime.ru/translations/embed/1242195",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1486562,
+        "url": "http://smotretanime.ru/translations/embed/1242244",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1487539,
+        "url": "http://smotretanime.ru/translations/embed/1243006",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1487843,
+        "url": "http://smotretanime.ru/translations/embed/1243091",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1487868,
+        "url": "http://smotretanime.ru/translations/embed/1243117",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1488184,
+        "url": "http://smotretanime.ru/translations/embed/1243307",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1488652,
+        "url": "http://smotretanime.ru/translations/embed/1243877",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1488939,
+        "url": "http://smotretanime.ru/translations/embed/1244086",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1488998,
+        "url": "http://smotretanime.ru/translations/embed/1244107",
+        "language": "english",
+        "quality": "tv",
+        "author": "Team Hoshitsuki",
+        "watchesCount": 27,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1489623,
+        "url": "http://smotretanime.ru/translations/embed/1244699",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1492409,
+        "url": "http://smotretanime.ru/translations/embed/1306476",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1493496,
+        "url": "http://smotretanime.ru/translations/embed/1307234",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1493543,
+        "url": "http://smotretanime.ru/translations/embed/1307308",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1493690,
+        "url": "http://smotretanime.ru/translations/embed/1307621",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1493763,
+        "url": "http://smotretanime.ru/translations/embed/1307724",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1493890,
+        "url": "http://smotretanime.ru/translations/embed/1307830",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1494087,
+        "url": "http://smotretanime.ru/translations/embed/1308014",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1494795,
+        "url": "http://smotretanime.ru/translations/embed/1308959",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1495095,
+        "url": "http://smotretanime.ru/translations/embed/1309321",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1497137,
+        "url": "http://smotretanime.ru/translations/embed/1311263",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1498827,
+        "url": "http://smotretanime.ru/translations/embed/1313642",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1500316,
+        "url": "http://smotretanime.ru/translations/embed/1316615",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1501077,
+        "url": "http://smotretanime.ru/translations/embed/1317526",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1501701,
+        "url": "http://smotretanime.ru/translations/embed/1317818",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 151,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1502821,
+        "url": "http://smotretanime.ru/translations/embed/1319141",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1504847,
+        "url": "http://smotretanime.ru/translations/embed/1322220",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1504886,
+        "url": "http://smotretanime.ru/translations/embed/1322286",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1505317,
+        "url": "http://smotretanime.ru/translations/embed/1323440",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1505972,
+        "url": "http://smotretanime.ru/translations/embed/1324659",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507554,
+        "url": "http://smotretanime.ru/translations/embed/1327286",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510071,
+        "url": "http://smotretanime.ru/translations/embed/1332313",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510191,
+        "url": "http://smotretanime.ru/translations/embed/1332404",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510519,
+        "url": "http://smotretanime.ru/translations/embed/1332986",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1512122,
+        "url": "http://smotretanime.ru/translations/embed/1336950",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1515007,
+        "url": "http://smotretanime.ru/translations/embed/1340962",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1515065,
+        "url": "http://smotretanime.ru/translations/embed/1340994",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1515409,
+        "url": "http://smotretanime.ru/translations/embed/1341527",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1515916,
+        "url": "http://smotretanime.ru/translations/embed/1342887",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1517165,
+        "url": "http://smotretanime.ru/translations/embed/1345784",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1520864,
+        "url": "http://smotretanime.ru/translations/embed/1354370",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1520872,
+        "url": "http://smotretanime.ru/translations/embed/1354432",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1521140,
+        "url": "http://smotretanime.ru/translations/embed/1354967",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1521857,
+        "url": "http://smotretanime.ru/translations/embed/1356395",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1523543,
+        "url": "http://smotretanime.ru/translations/embed/1359024",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525434,
+        "url": "http://smotretanime.ru/translations/embed/1362010",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525933,
+        "url": "http://smotretanime.ru/translations/embed/1363550",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1527639,
+        "url": "http://smotretanime.ru/translations/embed/1367908",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1528495,
+        "url": "http://smotretanime.ru/translations/embed/1369927",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1528503,
+        "url": "http://smotretanime.ru/translations/embed/1369973",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1528767,
+        "url": "http://smotretanime.ru/translations/embed/1370384",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1530999,
+        "url": "http://smotretanime.ru/translations/embed/1373885",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1531135,
+        "url": "http://smotretanime.ru/translations/embed/1374137",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1531169,
+        "url": "http://smotretanime.ru/translations/embed/1374258",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1532021,
+        "url": "http://smotretanime.ru/translations/embed/1376392",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1533045,
+        "url": "http://smotretanime.ru/translations/embed/1378400",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 133,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1540584,
+        "url": "http://smotretanime.ru/translations/embed/1239398",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 633,
+        "uploader": "Prog Digi"
+      },
+      {
+        "id": 1540641,
+        "url": "http://smotretanime.ru/translations/embed/1395491",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1540659,
+        "url": "http://smotretanime.ru/translations/embed/1395567",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1540983,
+        "url": "http://smotretanime.ru/translations/embed/1396453",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1542032,
+        "url": "http://smotretanime.ru/translations/embed/1398341",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1543412,
+        "url": "http://smotretanime.ru/translations/embed/1402488",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Наталия Ишова",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1717785,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2891484",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Nika_Elrik & Red-blue_heart)",
+        "watchesCount": 308,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1864098,
+        "url": "http://vk.com/video_ext.php?oid=-158435497&id=456239090&hash=26c15bcb94b84731",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "MedusaSub",
+        "watchesCount": 354,
+        "uploader": "ractonik1990"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1483728,
+        "url": "http://smotretanime.ru/translations/embed/1239197",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 72,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

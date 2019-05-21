@@ -1,0 +1,551 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1505980,
+        "url": "http://smotretanime.ru/translations/embed/1324551",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 772,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506065,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2927541",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 105,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1506066,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2927522",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 62,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1507149,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2931226",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Kari & Kanade Eu)",
+        "watchesCount": 479,
+        "uploader": "Tomoe-d"
+      },
+      {
+        "id": 1508243,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2932708",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anything Group (Milirina & Sad_Kit)",
+        "watchesCount": 288,
+        "uploader": "Anything_Group"
+      },
+      {
+        "id": 1530400,
+        "url": "http://smotretanime.ru/translations/embed/1372355",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Kari & Kanade Eu)",
+        "watchesCount": 1754,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1652635,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3198074",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Lonely Dragon & Oni)",
+        "watchesCount": 807,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1505973,
+        "url": "http://smotretanime.ru/translations/embed/1324651",
+        "language": "english",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1505975,
+        "url": "http://smotretanime.ru/translations/embed/1324627",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1505978,
+        "url": "http://smotretanime.ru/translations/embed/1324584",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506018,
+        "url": "http://smotretanime.ru/translations/embed/1324598",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 119,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506019,
+        "url": "http://smotretanime.ru/translations/embed/1324646",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 121,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506021,
+        "url": "http://smotretanime.ru/translations/embed/1324684",
+        "language": "english",
+        "quality": "tv",
+        "author": "AnimeRG",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506143,
+        "url": "http://sovetromantica.com/embed/episode_300_7-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 435,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1506449,
+        "url": "http://smotretanime.ru/translations/embed/1325183",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506808,
+        "url": "http://smotretanime.ru/translations/embed/1325688",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507278,
+        "url": "http://smotretanime.ru/translations/embed/1326866",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 27,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507705,
+        "url": "http://smotretanime.ru/translations/embed/1327678",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 35,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507727,
+        "url": "http://smotretanime.ru/translations/embed/1327677",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 65,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1509116,
+        "url": "http://smotretanime.ru/translations/embed/1330400",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1509254,
+        "url": "http://smotretanime.ru/translations/embed/1330526",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1509276,
+        "url": "http://smotretanime.ru/translations/embed/1330686",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510317,
+        "url": "http://smotretanime.ru/translations/embed/1332614",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 51,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510791,
+        "url": "http://smotretanime.ru/translations/embed/1333555",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1511729,
+        "url": "http://smotretanime.ru/translations/embed/1336142",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1512367,
+        "url": "http://smotretanime.ru/translations/embed/1337410",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513434,
+        "url": "http://smotretanime.ru/translations/embed/1338728",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 42,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1514809,
+        "url": "http://smotretanime.ru/translations/embed/1340569",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1516019,
+        "url": "http://smotretanime.ru/translations/embed/1343335",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1516271,
+        "url": "http://smotretanime.ru/translations/embed/1343746",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1516804,
+        "url": "http://smotretanime.ru/translations/embed/1344872",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1519718,
+        "url": "http://smotretanime.ru/translations/embed/1351417",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1519750,
+        "url": "http://smotretanime.ru/translations/embed/1351462",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1520065,
+        "url": "http://smotretanime.ru/translations/embed/1352341",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1520632,
+        "url": "http://smotretanime.ru/translations/embed/1353452",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1522519,
+        "url": "http://smotretanime.ru/translations/embed/1356970",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1524024,
+        "url": "http://smotretanime.ru/translations/embed/1359775",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1524236,
+        "url": "http://smotretanime.ru/translations/embed/1360115",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1524509,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2929961",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 28,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1525008,
+        "url": "http://smotretanime.ru/translations/embed/1360891",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525084,
+        "url": "http://smotretanime.ru/translations/embed/1360993",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525096,
+        "url": "http://smotretanime.ru/translations/embed/1361007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525728,
+        "url": "http://smotretanime.ru/translations/embed/1362829",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1527418,
+        "url": "http://smotretanime.ru/translations/embed/1367301",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Amarillis & Looriental",
+        "watchesCount": 145,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1536368,
+        "url": "http://smotretanime.ru/translations/embed/1384481",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1536735,
+        "url": "http://smotretanime.ru/translations/embed/1385249",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1538608,
+        "url": "http://smotretanime.ru/translations/embed/1389687",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1538619,
+        "url": "http://smotretanime.ru/translations/embed/1389709",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1539039,
+        "url": "http://smotretanime.ru/translations/embed/1390526",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 121,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1606501,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2942857",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "YakuSub Studio (Lulu & Red-blue_heart & Helge)",
+        "watchesCount": 46,
+        "uploader": "kagerou"
+      },
+      {
+        "id": 1651544,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2927929",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 12,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1651551,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2927325",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 99,
+        "uploader": "Tenno Haruka"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1505974,
+        "url": "http://smotretanime.ru/translations/embed/1324658",
+        "language": "original",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506020,
+        "url": "http://smotretanime.ru/translations/embed/1324701",
+        "language": "original",
+        "quality": "tv",
+        "author": "AnimeRG",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506060,
+        "url": "http://smotretanime.ru/translations/embed/1324363",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1506110,
+        "url": "http://smotretanime.ru/translations/embed/1324804",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1507695,
+        "url": "http://smotretanime.ru/translations/embed/1327673",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1510792,
+        "url": "http://smotretanime.ru/translations/embed/1333568",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1513431,
+        "url": "http://smotretanime.ru/translations/embed/1338727",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1523686,
+        "url": "http://smotretanime.ru/translations/embed/1359311",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

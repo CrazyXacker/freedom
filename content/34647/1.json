@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1841627,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3454771",
+        "language": "english",
+        "quality": "bd",
+        "author": "English Dub",
+        "watchesCount": 8,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1409939,
+        "url": "http://sovetromantica.com/embed/episode_198_12-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 149,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1908169,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2837175",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 0,
+        "uploader": "о0spitfire0o"
+      }
+    ]
+  }
+}

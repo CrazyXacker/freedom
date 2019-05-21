@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1849015,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3277653",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (MezIdA & KingMaster & Morin)",
+        "watchesCount": 1,
+        "uploader": "YJOS"
+      },
+      {
+        "id": 1849016,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3278451",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Oni & Erut & Nika Lenina)",
+        "watchesCount": 69,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1705105,
+        "url": "http://smotretanime.ru/translations/embed/1771463",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Cardfight (Orenji_Reiji & Ice_Guardian)",
+        "watchesCount": 207,
+        "uploader": "Акияма Акито"
+      }
+    ]
+  }
+}

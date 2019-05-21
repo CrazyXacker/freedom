@@ -1,0 +1,74 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1563614,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3039079",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (Mustadio)",
+        "watchesCount": 365,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1844844,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3473174",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Gecep & Vel)",
+        "watchesCount": 171,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1563503,
+        "url": "http://smotretanime.ru/translations/embed/1447500",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 7,
+        "uploader": "Prog Digi"
+      },
+      {
+        "id": 1607813,
+        "url": "http://smotretanime.ru/translations/embed/1536942",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zero",
+        "watchesCount": 94,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1561489,
+        "url": "http://smotretanime.ru/translations/embed/1447572",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1561844,
+        "url": "http://smotretanime.ru/translations/embed/1448583",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1590918,
+        "url": "http://smotretanime.ru/translations/embed/1523396",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

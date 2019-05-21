@@ -1,0 +1,524 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1660747,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3214030",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 63,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1660786,
+        "url": "http://smotretanime.ru/translations/embed/1664875",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (rj24)",
+        "watchesCount": 4,
+        "uploader": "྿End྿"
+      },
+      {
+        "id": 1660865,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3214056",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (rj24)",
+        "watchesCount": 33,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1663666,
+        "url": "http://smotretanime.ru/translations/embed/1664861",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1664441,
+        "url": "http://smotretanime.ru/translations/embed/1674462",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Arato & Gomer)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1664699,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3216982",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Arato & Gomer)",
+        "watchesCount": 240,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1664705,
+        "url": "http://smotretanime.ru/translations/embed/1675235",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Arato & Gomer)",
+        "watchesCount": 1776,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1664947,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3216828",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (gobr & Nitz & Odissey & Лизавета)",
+        "watchesCount": 77,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1665215,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3216446",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KitsuneBox (Milio & Eshli & Kawas)",
+        "watchesCount": 5,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1665840,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3218467",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (RiZZ_fisher & Jade)",
+        "watchesCount": 755,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1676375,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3225208",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 44,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1682905,
+        "url": "http://smotretanime.ru/translations/embed/1721051",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniRay (Riddle)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1660731,
+        "url": "http://smotretanime.ru/translations/embed/1664648",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1660815,
+        "url": "http://smotretanime.ru/translations/embed/1665423",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 237,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1660816,
+        "url": "http://smotretanime.ru/translations/embed/1665293",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 200,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1660838,
+        "url": "http://sovetromantica.com/embed/episode_440_3-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomantica",
+        "watchesCount": 311,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1660866,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3214257",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 101,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1663621,
+        "url": "http://smotretanime.ru/translations/embed/1664633",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663622,
+        "url": "http://smotretanime.ru/translations/embed/1664630",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663624,
+        "url": "http://smotretanime.ru/translations/embed/1664649",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663625,
+        "url": "http://smotretanime.ru/translations/embed/1664639",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663626,
+        "url": "http://smotretanime.ru/translations/embed/1664634",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663628,
+        "url": "http://smotretanime.ru/translations/embed/1664647",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663712,
+        "url": "http://smotretanime.ru/translations/embed/1672216",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663720,
+        "url": "http://smotretanime.ru/translations/embed/1672285",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663848,
+        "url": "http://smotretanime.ru/translations/embed/1673175",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1664618,
+        "url": "http://smotretanime.ru/translations/embed/1668143",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1664716,
+        "url": "http://smotretanime.ru/translations/embed/1675314",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1669607,
+        "url": "http://smotretanime.ru/translations/embed/1693418",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675203,
+        "url": "http://smotretanime.ru/translations/embed/1711004",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1675220,
+        "url": "http://smotretanime.ru/translations/embed/1711043",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1678042,
+        "url": "http://smotretanime.ru/translations/embed/1714611",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1678708,
+        "url": "http://smotretanime.ru/translations/embed/1715594",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1680023,
+        "url": "http://smotretanime.ru/translations/embed/1717317",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1680082,
+        "url": "http://smotretanime.ru/translations/embed/1717387",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1680336,
+        "url": "http://smotretanime.ru/translations/embed/1717752",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1681528,
+        "url": "http://smotretanime.ru/translations/embed/1718832",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1684512,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3214166",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 7,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1687168,
+        "url": "http://smotretanime.ru/translations/embed/1727389",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1696027,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3214779",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа",
+        "watchesCount": 43,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1699040,
+        "url": "http://smotretanime.ru/translations/embed/1751594",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1701533,
+        "url": "http://smotretanime.ru/translations/embed/1762370",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1701720,
+        "url": "http://smotretanime.ru/translations/embed/1673774",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1703515,
+        "url": "http://smotretanime.ru/translations/embed/1768028",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1704287,
+        "url": "http://smotretanime.ru/translations/embed/1769560",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1705624,
+        "url": "http://smotretanime.ru/translations/embed/1770956",
+        "language": "english",
+        "quality": "tv",
+        "author": "MX-EN-PT",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1705640,
+        "url": "http://smotretanime.ru/translations/embed/1771026",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sys3x & Kasandra & Xellos Slayer",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1660697,
+        "url": "http://smotretanime.ru/translations/embed/1664492",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1660732,
+        "url": "http://smotretanime.ru/translations/embed/1664652",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1660733,
+        "url": "http://smotretanime.ru/translations/embed/1664642",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1663620,
+        "url": "http://smotretanime.ru/translations/embed/1664645",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663623,
+        "url": "http://smotretanime.ru/translations/embed/1664646",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663627,
+        "url": "http://smotretanime.ru/translations/embed/1664644",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663716,
+        "url": "http://smotretanime.ru/translations/embed/1672236",
+        "language": "original",
+        "quality": "tv",
+        "author": "Anime Land",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1663717,
+        "url": "http://smotretanime.ru/translations/embed/1672241",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1701719,
+        "url": "http://smotretanime.ru/translations/embed/1673841",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1705625,
+        "url": "http://smotretanime.ru/translations/embed/1771039",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

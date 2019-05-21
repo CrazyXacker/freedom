@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 1888520,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3529456",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 520,
+        "uploader": "FES"
+      },
+      {
+        "id": 1957991,
+        "url": "http://smotretanime.ru/translations/embed/2213459",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 12,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1850809,
+        "url": "http://youtube.com/embed/2nP2EXTeqG0",
+        "language": "original",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 207,
+        "uploader": "Гость"
+      }
+    ]
+  }
+}
