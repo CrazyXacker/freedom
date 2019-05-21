@@ -1,0 +1,38 @@
+{
+  "episode": 28,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1959879,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3612859",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 40,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1956204,
+        "url": "http://smotretanime.ru/translations/embed/2410533",
+        "language": "english",
+        "quality": "tv",
+        "author": "Ryuu-Rogue",
+        "watchesCount": 24,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1956203,
+        "url": "http://smotretanime.ru/translations/embed/2410541",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ryuu-Rogue",
+        "watchesCount": 1,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

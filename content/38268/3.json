@@ -1,0 +1,74 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1945105,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3595416",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (LeConik)",
+        "watchesCount": 35,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1945274,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3595697",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (LeConik)",
+        "watchesCount": 7,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1947934,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3598141",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Gecep & Vel)",
+        "watchesCount": 55,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1945068,
+        "url": "http://smotretanime.ru/translations/embed/2384747",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 8,
+        "uploader": "Kurono_Kei"
+      },
+      {
+        "id": 1955188,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3606726",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 17,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1945031,
+        "url": "http://smotretanime.ru/translations/embed/2384656",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 3,
+        "uploader": "Kurono_Kei"
+      },
+      {
+        "id": 1945102,
+        "url": "http://smotretanime.ru/translations/embed/2384744",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

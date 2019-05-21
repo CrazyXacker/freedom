@@ -1,0 +1,74 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 660488,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1413959",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Сузаку",
+        "watchesCount": 272,
+        "uploader": ""
+      },
+      {
+        "id": 1781490,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1687203",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Suzaku (Е. Лурье)",
+        "watchesCount": 50,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1916408,
+        "url": "http://vk.com/video_ext.php?oid=-53839280&id=456240510&hash=c4b3b1c890706785",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Е. Лурье",
+        "watchesCount": 11,
+        "uploader": "sdat.anime"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 660464,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1414320",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 29,
+        "uploader": ""
+      },
+      {
+        "id": 1008403,
+        "url": "https://smotretanime.ru/translations/embed/241772",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1110991,
+        "url": "https://smotretanime.ru/translations/embed/558789",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 66,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1008402,
+        "url": "https://smotretanime.ru/translations/embed/241770",
+        "language": "original",
+        "quality": "tv",
+        "author": "dmhy",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

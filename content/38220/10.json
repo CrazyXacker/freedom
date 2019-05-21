@@ -1,0 +1,36 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1888303,
+        "url": "http://youtube.com/embed/ZA0-6DL_zDY",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMy (Aniharu Myoko & Nanachii)",
+        "watchesCount": 51,
+        "uploader": "Aniharu Myoko"
+      },
+      {
+        "id": 1927460,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3575023",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (LeConik)",
+        "watchesCount": 120,
+        "uploader": "sttany"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1856682,
+        "url": "http://youtube.com/embed/UdGKiGCH0Ss",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 368,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

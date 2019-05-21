@@ -1,0 +1,47 @@
+{
+  "episode": 13,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1899507,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3540976",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "ShinkaDan (Molodoy & Kesu)",
+        "watchesCount": 15,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1010829,
+        "url": "https://smotretanime.ru/translations/embed/245200",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 48,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1104585,
+        "url": "https://smotretanime.ru/translations/embed/476494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "LDRip",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1010807,
+        "url": "https://smotretanime.ru/translations/embed/245172",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

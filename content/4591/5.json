@@ -1,0 +1,83 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 612175,
+        "url": "http://video.sibnet.ru/shell.php?videoid=413952",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 1454365,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2844414",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 13,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1454366,
+        "url": "http://vk.com/video_ext.php?oid=15679785&id=456239203&hash=014e5671984fde71",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 132,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 950093,
+        "url": "https://smotretanime.ru/translations/embed/116302",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1132074,
+        "url": "https://smotretanime.ru/translations/embed/620369",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 36,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1187600,
+        "url": "https://smotretanime.ru/translations/embed/708917",
+        "language": "english",
+        "quality": "tv",
+        "author": "anime-rg_-_ray=out",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 950115,
+        "url": "https://smotretanime.ru/translations/embed/116324",
+        "language": "original",
+        "quality": "tv",
+        "author": "anime-rg_-_ray=out",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1132096,
+        "url": "https://smotretanime.ru/translations/embed/620391",
+        "language": "original",
+        "quality": "tv",
+        "author": "anime-rg_-_ray=out",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

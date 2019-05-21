@@ -1,0 +1,74 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 573003,
+        "url": "http://video.sibnet.ru/shell.php?videoid=679027",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 21,
+        "uploader": ""
+      },
+      {
+        "id": 828718,
+        "url": "http://vk.com/video_ext.php?oid=172691390&id=169113060&hash=974196ffbf13f9ba",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 130,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 1185160,
+        "url": "https://smotretanime.ru/translations/embed/706001",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 73,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 949538,
+        "url": "https://smotretanime.ru/translations/embed/115360",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1097617,
+        "url": "https://smotretanime.ru/translations/embed/454420",
+        "language": "english",
+        "quality": "dvd",
+        "author": "KTXP&HKG",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1848422,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1873839",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Вилли & Hollow",
+        "watchesCount": 16,
+        "uploader": "Гость"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 949556,
+        "url": "https://smotretanime.ru/translations/embed/115378",
+        "language": "original",
+        "quality": "dvd",
+        "author": "KTXP&HKG",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

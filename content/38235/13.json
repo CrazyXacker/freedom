@@ -1,0 +1,65 @@
+{
+  "episode": 13,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1904470,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3547511",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 100,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1904509,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3547554",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 20,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1906060,
+        "url": "http://smotretanime.ru/translations/embed/2276567",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 11,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1896143,
+        "url": "http://smotretanime.ru/translations/embed/2227973",
+        "language": "english",
+        "quality": "tv",
+        "author": "DeadFish",
+        "watchesCount": 32,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1896144,
+        "url": "http://smotretanime.ru/translations/embed/2227859",
+        "language": "english",
+        "quality": "tv",
+        "author": "Ryuu-Rogue",
+        "watchesCount": 2,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1896142,
+        "url": "http://smotretanime.ru/translations/embed/2227867",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ryuu-Rogue",
+        "watchesCount": 1,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

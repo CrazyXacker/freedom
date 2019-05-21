@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 1949437,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/gost-1599/_myvideo/6.html",
+        "language": "russian",
+        "quality": "web",
+        "author": "Aquanime",
+        "watchesCount": 77,
+        "uploader": "Emoc"
+      },
+      {
+        "id": 1953582,
+        "url": "http://smotretanime.ru/translations/embed/2404992",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Aquanime",
+        "watchesCount": 135,
+        "uploader": "Миндаль"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1940284,
+        "url": "http://vk.com/video_ext.php?oid=285643145&id=456243711&hash=d4dd92abc9b0bea1",
+        "language": "original",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 54,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

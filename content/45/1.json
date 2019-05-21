@@ -1,0 +1,74 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1550003,
+        "url": "http://smotretanime.ru/translations/embed/656206",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3306,
+        "uploader": "kid*"
+      },
+      {
+        "id": 1564221,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1820239",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "СТС",
+        "watchesCount": 1448,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1564468,
+        "url": "http://online.animedia.tv/embed/9517/1/1",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "СТС",
+        "watchesCount": 248,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 610510,
+        "url": "http://video.sibnet.ru/shell.php?videoid=451150",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 1462,
+        "uploader": ""
+      },
+      {
+        "id": 817189,
+        "url": "http://vk.com/video_ext.php?oid=-71065&id=160208237&hash=f2fabe17f9d388c5",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Radda & Stasy",
+        "watchesCount": 1235,
+        "uploader": "kagerou"
+      },
+      {
+        "id": 1230375,
+        "url": "http://smotretanime.ru/translations/embed/758816",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1293,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1230374,
+        "url": "http://smotretanime.ru/translations/embed/758815",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 49,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1958444,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3594829",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (SovaSia & Jevis)",
+        "watchesCount": 40,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1958478,
+        "url": "http://vk.com/video_ext.php?oid=-46949318&id=456247918&hash=0430e7cbc08ba733",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (SovaSia & Jevis)",
+        "watchesCount": 48,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1958596,
+        "url": "http://smotretanime.ru/translations/embed/2380285",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 1,
+        "uploader": "Mayi"
+      },
+      {
+        "id": 1959158,
+        "url": "http://smotretanime.ru/translations/embed/2381853",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sonaru",
+        "watchesCount": 3,
+        "uploader": "Mayi"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1958595,
+        "url": "http://smotretanime.ru/translations/embed/2380295",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "Mayi"
+      },
+      {
+        "id": 1960236,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3613130",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "GGbukinGG"
+      }
+    ]
+  }
+}

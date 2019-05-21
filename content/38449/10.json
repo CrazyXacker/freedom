@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1929528,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3578416",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 40,
+        "uploader": "ЗЕФNR"
+      },
+      {
+        "id": 1930238,
+        "url": "http://www.myvi.top/embed/atfx3tm3u5trbqox7equhb96bc",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 2,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1947761,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3591948",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 4,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1923469,
+        "url": "http://smotretanime.ru/translations/embed/2327095",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 26,
+        "uploader": "Dyrel Berg"
+      },
+      {
+        "id": 1926094,
+        "url": "http://smotretanime.ru/translations/embed/2327368",
+        "language": "english",
+        "quality": "tv",
+        "author": "BakedFish",
+        "watchesCount": 17,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1923468,
+        "url": "http://smotretanime.ru/translations/embed/2327096",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Dyrel Berg"
+      },
+      {
+        "id": 1926091,
+        "url": "http://smotretanime.ru/translations/embed/2333956",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1926092,
+        "url": "http://smotretanime.ru/translations/embed/2327109",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

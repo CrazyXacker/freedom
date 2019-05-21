@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1743097,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1574015",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 380,
+        "uploader": "russianjoker12"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1033538,
+        "url": "https://smotretanime.ru/translations/embed/307347",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zaimon or Wesker",
+        "watchesCount": 297,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1083510,
+        "url": "https://smotretanime.ru/translations/embed/431888",
+        "language": "english",
+        "quality": "tv",
+        "author": "M@nI",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1083508,
+        "url": "https://smotretanime.ru/translations/embed/431885",
+        "language": "original",
+        "quality": "tv",
+        "author": "M@nI",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

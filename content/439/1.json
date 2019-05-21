@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 600317,
+        "url": "http://video.sibnet.ru/shell.php?videoid=437660",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 14,
+        "uploader": ""
+      },
+      {
+        "id": 767365,
+        "url": "http://video.sibnet.ru/shell.php?videoid=437664",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 20,
+        "uploader": ""
+      },
+      {
+        "id": 767366,
+        "url": "http://vk.com/video_ext.php?oid=-67133214&id=167962063&hash=ac068bf345c16064",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 158,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 938526,
+        "url": "https://smotretanime.ru/translations/embed/92223",
+        "language": "russian",
+        "quality": "tv",
+        "author": "RG Veda 1-2",
+        "watchesCount": 48,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1106584,
+        "url": "https://smotretanime.ru/translations/embed/494117",
+        "language": "russian",
+        "quality": "tv",
+        "author": "TOMA",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 938525,
+        "url": "https://smotretanime.ru/translations/embed/92222",
+        "language": "original",
+        "quality": "tv",
+        "author": "TOMA",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

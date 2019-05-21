@@ -1,0 +1,65 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1704132,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1833956",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Централ Партнершип",
+        "watchesCount": 21,
+        "uploader": "felinafelis"
+      },
+      {
+        "id": 1783984,
+        "url": "http://smotretanime.ru/translations/embed/1855907",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 35,
+        "uploader": "Дмитрий Леманн"
+      },
+      {
+        "id": 1784029,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3397657",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 10,
+        "uploader": "Дмитрий Леманн"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1704111,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1833158",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Станислав Фролов",
+        "watchesCount": 5,
+        "uploader": "felinafelis"
+      },
+      {
+        "id": 1708749,
+        "url": "http://smotretanime.ru/translations/embed/1750329",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 18,
+        "uploader": "felinafelis"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1708748,
+        "url": "http://smotretanime.ru/translations/embed/1750281",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "felinafelis"
+      }
+    ]
+  }
+}

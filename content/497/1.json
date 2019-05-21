@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 909403,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1520865",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 103,
+        "uploader": "Antei"
+      },
+      {
+        "id": 1033545,
+        "url": "https://smotretanime.ru/translations/embed/307538",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Animegroup (+ субтитры)",
+        "watchesCount": 282,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1080074,
+        "url": "https://smotretanime.ru/translations/embed/427999",
+        "language": "english",
+        "quality": "tv",
+        "author": "Jumonji-Giri",
+        "watchesCount": 36,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1080040,
+        "url": "https://smotretanime.ru/translations/embed/427967",
+        "language": "original",
+        "quality": "tv",
+        "author": "Jumonji-Giri",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

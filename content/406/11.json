@@ -1,0 +1,47 @@
+{
+  "episode": 11,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 666453,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1372063",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "FassaD",
+        "watchesCount": 30,
+        "uploader": ""
+      },
+      {
+        "id": 1925784,
+        "url": "http://vk.com/video_ext.php?oid=100119583&id=167727494&hash=77a9a0bb6d8ab21c",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FassaD",
+        "watchesCount": 3,
+        "uploader": "TroFiK"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 934030,
+        "url": "https://smotretanime.ru/translations/embed/83160",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 934031,
+        "url": "https://smotretanime.ru/translations/embed/83161",
+        "language": "original",
+        "quality": "tv",
+        "author": "Saizen",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

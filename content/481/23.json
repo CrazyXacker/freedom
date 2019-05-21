@@ -1,0 +1,47 @@
+{
+  "episode": 23,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 711683,
+        "url": "http://video.sibnet.ru/shell.php?videoid=394665",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 337,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1019476,
+        "url": "https://smotretanime.ru/translations/embed/257677",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Yu-Gi-Oh! DM",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1072504,
+        "url": "https://smotretanime.ru/translations/embed/415847",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "DM",
+        "watchesCount": 75,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1019478,
+        "url": "https://smotretanime.ru/translations/embed/257679",
+        "language": "original",
+        "quality": "dvd",
+        "author": "AU_RAW",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

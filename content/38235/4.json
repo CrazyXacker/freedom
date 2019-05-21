@@ -1,0 +1,47 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1855647,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3486432",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 241,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1851336,
+        "url": "http://smotretanime.ru/translations/embed/2000841",
+        "language": "english",
+        "quality": "tv",
+        "author": "DeadFish",
+        "watchesCount": 2,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1851340,
+        "url": "http://smotretanime.ru/translations/embed/2000490",
+        "language": "english",
+        "quality": "tv",
+        "author": "Ryuu-Rogue",
+        "watchesCount": 15,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1851337,
+        "url": "http://smotretanime.ru/translations/embed/2000492",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ryuu-Rogue",
+        "watchesCount": 2,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

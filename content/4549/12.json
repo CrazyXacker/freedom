@@ -1,0 +1,74 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 761515,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1520796",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "FassaD",
+        "watchesCount": 4,
+        "uploader": ""
+      },
+      {
+        "id": 1473590,
+        "url": "http://vk.com/video_ext.php?oid=214705448&id=169602540&hash=100e4db0af067cb3",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FassaD",
+        "watchesCount": 97,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1858548,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3489882",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Apachay)",
+        "watchesCount": 4,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 761512,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1520862",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 827333,
+        "url": "http://vk.com/video_ext.php?oid=-51321503&id=165218615&hash=79a7640fca9070de",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 34,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 1015135,
+        "url": "https://smotretanime.ru/translations/embed/251038",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1015137,
+        "url": "https://smotretanime.ru/translations/embed/251040",
+        "language": "original",
+        "quality": "tv",
+        "author": "ShinkaDan",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

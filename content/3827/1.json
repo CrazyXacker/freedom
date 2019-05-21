@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1445586,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2833912",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "KitsuneBox (Zodik)",
+        "watchesCount": 75,
+        "uploader": "Zodik2"
+      },
+      {
+        "id": 1659279,
+        "url": "http://youtube.com/embed/J7FTcwwBFGs",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Итальянский дубляж",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1659267,
+        "url": "http://smotretanime.ru/translations/embed/1106240",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Blue Dragon",
+        "watchesCount": 2,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1659278,
+        "url": "http://smotretanime.ru/translations/embed/1106241",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}
