@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1423672,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2811136",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Slayer)",
+        "watchesCount": 282,
+        "uploader": "DragonSlater"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1825932,
+        "url": "http://vk.com/video_ext.php?oid=-101820654&id=456239967&hash=789d9fddaec85eb8",
+        "language": "russian",
+        "quality": "web",
+        "author": "FSG COMEBACK (K@trin & R.R.)",
+        "watchesCount": 27,
+        "uploader": "Psychoma"
+      },
+      {
+        "id": 1916290,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3561414",
+        "language": "russian",
+        "quality": "web",
+        "author": "FSG COMEBACK",
+        "watchesCount": 5,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1346336,
+        "url": "http://smotretanime.ru/translations/embed/1081392",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 307,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1347401,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2731710",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 189,
+        "uploader": ""
+      },
+      {
+        "id": 1357492,
+        "url": "http://smotretanime.ru/translations/embed/1097487",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Ados & Hekomi)",
+        "watchesCount": 164,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1389904,
+        "url": "http://smotretanime.ru/translations/embed/1135401",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 28,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391081,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2784998",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (9й Неизвестный & Oni)",
+        "watchesCount": 270,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1411986,
+        "url": "http://smotretanime.ru/translations/embed/1156828",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 222,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1498464,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2863302",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Ados & Hekomi)",
+        "watchesCount": 176,
+        "uploader": "Tomoe-d"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1345423,
+        "url": "http://smotretanime.ru/translations/embed/1080639",
+        "language": "english",
+        "quality": "tv",
+        "author": "VividTrans",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348771,
+        "url": "http://smotretanime.ru/translations/embed/1086289",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348780,
+        "url": "http://smotretanime.ru/translations/embed/1086311",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348989,
+        "url": "http://smotretanime.ru/translations/embed/1086986",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349584,
+        "url": "http://smotretanime.ru/translations/embed/1088311",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351668,
+        "url": "http://smotretanime.ru/translations/embed/1091533",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353539,
+        "url": "http://smotretanime.ru/translations/embed/1094364",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353555,
+        "url": "http://smotretanime.ru/translations/embed/1094381",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353757,
+        "url": "http://smotretanime.ru/translations/embed/1094572",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1354243,
+        "url": "http://smotretanime.ru/translations/embed/1094921",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357435,
+        "url": "http://smotretanime.ru/translations/embed/1098017",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357547,
+        "url": "http://smotretanime.ru/translations/embed/1097710",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 100,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362203,
+        "url": "http://smotretanime.ru/translations/embed/1097485",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362514,
+        "url": "http://smotretanime.ru/translations/embed/1100038",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362579,
+        "url": "http://smotretanime.ru/translations/embed/1100107",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362813,
+        "url": "http://smotretanime.ru/translations/embed/1101397",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1363880,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2735101",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Timecraft (Nachtwandler & Атом)",
+        "watchesCount": 74,
+        "uploader": ""
+      },
+      {
+        "id": 1365013,
+        "url": "http://smotretanime.ru/translations/embed/1106156",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365554,
+        "url": "http://smotretanime.ru/translations/embed/1106669",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367325,
+        "url": "http://smotretanime.ru/translations/embed/1108354",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1373124,
+        "url": "http://smotretanime.ru/translations/embed/1114294",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1373164,
+        "url": "http://smotretanime.ru/translations/embed/1114325",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1373356,
+        "url": "http://smotretanime.ru/translations/embed/1114561",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375876,
+        "url": "http://smotretanime.ru/translations/embed/1115168",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1380862,
+        "url": "http://smotretanime.ru/translations/embed/1126450",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1381050,
+        "url": "http://smotretanime.ru/translations/embed/1127027",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1382658,
+        "url": "http://smotretanime.ru/translations/embed/1128578",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1385773,
+        "url": "http://smotretanime.ru/translations/embed/1132832",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392525,
+        "url": "http://smotretanime.ru/translations/embed/1138719",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392693,
+        "url": "http://smotretanime.ru/translations/embed/1138887",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1393868,
+        "url": "http://smotretanime.ru/translations/embed/1139553",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1403404,
+        "url": "http://smotretanime.ru/translations/embed/1148738",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1403425,
+        "url": "http://smotretanime.ru/translations/embed/1148766",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404069,
+        "url": "http://smotretanime.ru/translations/embed/1148927",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404874,
+        "url": "http://smotretanime.ru/translations/embed/1149893",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406097,
+        "url": "http://smotretanime.ru/translations/embed/1151543",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nachtwandler & Атомч",
+        "watchesCount": 28,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1348770,
+        "url": "http://smotretanime.ru/translations/embed/1086297",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357489,
+        "url": "http://smotretanime.ru/translations/embed/1095695",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357490,
+        "url": "http://smotretanime.ru/translations/embed/1097489",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357491,
+        "url": "http://smotretanime.ru/translations/embed/1097711",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

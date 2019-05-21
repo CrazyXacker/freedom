@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1947947,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3597871",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Azazel & Molodoy & Sever & Стефан)",
+        "watchesCount": 6,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1436634,
+        "url": "http://smotretanime.ru/translations/embed/932047",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 9,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1312159,
+        "url": "http://vk.com/video_ext.php?oid=198094875&id=456239537&hash=5ed52d1c04283210",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1436635,
+        "url": "http://smotretanime.ru/translations/embed/898019",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 370,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1557000,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2974743",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Волк",
+        "watchesCount": 334,
+        "uploader": "Денис Корчагин"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1071710,
+        "url": "https://smotretanime.ru/translations/embed/414974",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 204,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1656336,
+        "url": "http://smotretanime.ru/translations/embed/1651176",
+        "language": "english",
+        "quality": "tv",
+        "author": "KnKF",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1823523,
+        "url": "http://vk.com/video_ext.php?oid=-52587943&id=169386297&hash=e0bd0d10537bbeca",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 40,
+        "uploader": "Rendot"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1071712,
+        "url": "https://smotretanime.ru/translations/embed/414977",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1752547,
+        "url": "http://smotretanime.ru/translations/embed/1139910",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

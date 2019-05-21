@@ -1,0 +1,54 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1505961,
+        "url": "http://youtube.com/embed/tCzEumeVIcU",
+        "language": "english",
+        "quality": "tv",
+        "author": "Часть 1",
+        "watchesCount": 8,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1505962,
+        "url": "http://youtube.com/embed/aWbzzAuqRHs",
+        "language": "english",
+        "quality": "tv",
+        "author": "Часть 2",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1707790,
+        "url": "http://vk.com/video_ext.php?oid=-45702970&id=456239047&hash=e48cef56e8d8eb11",
+        "language": "english",
+        "quality": "unknown",
+        "author": "1-2",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1931277,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3581993",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Ази-Дахака (1-2)",
+        "watchesCount": 1,
+        "uploader": "Ази-Дахака"
+      },
+      {
+        "id": 1931278,
+        "url": "http://vk.com/video_ext.php?oid=322059420&id=456240495&hash=434995b23c8e7e67",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Ази-Дахака (1-2)",
+        "watchesCount": 4,
+        "uploader": "Ази-Дахака"
+      }
+    ]
+  }
+}

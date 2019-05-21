@@ -1,0 +1,47 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1862275,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3493965",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Стефан & Dreamy Sleep)",
+        "watchesCount": 29,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 821685,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1178163",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 964946,
+        "url": "https://smotretanime.ru/translations/embed/141391",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Area 88",
+        "watchesCount": 38,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 964938,
+        "url": "https://smotretanime.ru/translations/embed/141376",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1328308,
+        "url": "http://smotretanime.ru/translations/embed/1011714",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 178,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329063,
+        "url": "http://vk.com/video_ext.php?oid=-69328224&id=456239594&hash=a25a3ac6971ed9bc",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный)",
+        "watchesCount": 2353,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1329108,
+        "url": "http://smotretanime.ru/translations/embed/1011708",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 114,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330316,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2707511",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 53,
+        "uploader": ""
+      },
+      {
+        "id": 1330754,
+        "url": "http://vk.com/video_ext.php?oid=-129260803&id=456239019&hash=25a78185ec6285aa",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KIO HomeDub",
+        "watchesCount": 7,
+        "uploader": "Zekrom 007"
+      },
+      {
+        "id": 1349865,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2736848",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeMovie (Rudoshka & Wizzar63)",
+        "watchesCount": 7,
+        "uploader": "Wizzẵŕ63"
+      },
+      {
+        "id": 1349874,
+        "url": "http://vk.com/video_ext.php?oid=-111092034&id=456239042&hash=e2c1e89f63492ed4",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeMovie (Rudoshka & Wizzar63)",
+        "watchesCount": 8,
+        "uploader": "Wizzẵŕ63"
+      },
+      {
+        "id": 1357502,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2709330",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный)",
+        "watchesCount": 145,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1328602,
+        "url": "http://smotretanime.ru/translations/embed/1011678",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 48,
+        "uploader": "alblks3"
+      },
+      {
+        "id": 1328730,
+        "url": "http://smotretanime.ru/translations/embed/1013329",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 29,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1328933,
+        "url": "http://smotretanime.ru/translations/embed/1013536",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330317,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2709257",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 34,
+        "uploader": ""
+      },
+      {
+        "id": 1331634,
+        "url": "http://smotretanime.ru/translations/embed/1020653",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 42,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333683,
+        "url": "http://smotretanime.ru/translations/embed/1046093",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333763,
+        "url": "http://smotretanime.ru/translations/embed/1046463",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333883,
+        "url": "http://smotretanime.ru/translations/embed/1046915",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333921,
+        "url": "http://smotretanime.ru/translations/embed/1047106",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1334727,
+        "url": "http://smotretanime.ru/translations/embed/1051973",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1334940,
+        "url": "http://smotretanime.ru/translations/embed/1054675",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1336586,
+        "url": "http://smotretanime.ru/translations/embed/1060592",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1337044,
+        "url": "http://smotretanime.ru/translations/embed/1061752",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1338541,
+        "url": "http://smotretanime.ru/translations/embed/1066348",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1338554,
+        "url": "http://smotretanime.ru/translations/embed/1066574",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1339121,
+        "url": "http://smotretanime.ru/translations/embed/1067688",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1339967,
+        "url": "http://smotretanime.ru/translations/embed/1068981",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1340145,
+        "url": "http://smotretanime.ru/translations/embed/1069185",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1340619,
+        "url": "http://smotretanime.ru/translations/embed/1070511",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1340922,
+        "url": "http://smotretanime.ru/translations/embed/1070823",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1341881,
+        "url": "http://smotretanime.ru/translations/embed/1072559",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1343130,
+        "url": "http://smotretanime.ru/translations/embed/1074391",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1343852,
+        "url": "http://smotretanime.ru/translations/embed/1075480",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344845,
+        "url": "http://smotretanime.ru/translations/embed/1079620",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344949,
+        "url": "http://smotretanime.ru/translations/embed/1079705",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345237,
+        "url": "http://smotretanime.ru/translations/embed/1080320",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345533,
+        "url": "http://smotretanime.ru/translations/embed/1080762",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345614,
+        "url": "http://smotretanime.ru/translations/embed/1080824",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346311,
+        "url": "http://smotretanime.ru/translations/embed/1081923",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346385,
+        "url": "http://smotretanime.ru/translations/embed/1081938",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1347308,
+        "url": "http://smotretanime.ru/translations/embed/1083430",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348410,
+        "url": "http://smotretanime.ru/translations/embed/1084522",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348577,
+        "url": "http://smotretanime.ru/translations/embed/1086084",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350392,
+        "url": "http://smotretanime.ru/translations/embed/1089615",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350516,
+        "url": "http://smotretanime.ru/translations/embed/1089642",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351081,
+        "url": "http://smotretanime.ru/translations/embed/1090793",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351681,
+        "url": "http://smotretanime.ru/translations/embed/1091548",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351698,
+        "url": "http://smotretanime.ru/translations/embed/1091809",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351801,
+        "url": "http://smotretanime.ru/translations/embed/1091976",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352101,
+        "url": "http://smotretanime.ru/translations/embed/1092414",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352624,
+        "url": "http://smotretanime.ru/translations/embed/1093140",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353848,
+        "url": "http://smotretanime.ru/translations/embed/1094655",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1355933,
+        "url": "http://smotretanime.ru/translations/embed/1096124",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1356676,
+        "url": "http://smotretanime.ru/translations/embed/1096940",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357196,
+        "url": "http://smotretanime.ru/translations/embed/1097582",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357211,
+        "url": "http://smotretanime.ru/translations/embed/1097737",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357322,
+        "url": "http://smotretanime.ru/translations/embed/1097923",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357976,
+        "url": "http://smotretanime.ru/translations/embed/1098156",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1361864,
+        "url": "http://smotretanime.ru/translations/embed/1099013",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362362,
+        "url": "http://smotretanime.ru/translations/embed/1099913",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1363069,
+        "url": "http://smotretanime.ru/translations/embed/1101630",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365064,
+        "url": "http://smotretanime.ru/translations/embed/1106201",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 188,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369104,
+        "url": "http://smotretanime.ru/translations/embed/1110350",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369198,
+        "url": "http://smotretanime.ru/translations/embed/1110428",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369677,
+        "url": "http://smotretanime.ru/translations/embed/1110927",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1370407,
+        "url": "http://smotretanime.ru/translations/embed/1112106",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1371983,
+        "url": "http://smotretanime.ru/translations/embed/1112834",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372027,
+        "url": "http://smotretanime.ru/translations/embed/1112875",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372412,
+        "url": "http://smotretanime.ru/translations/embed/1113496",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372864,
+        "url": "http://smotretanime.ru/translations/embed/1113909",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1373343,
+        "url": "http://smotretanime.ru/translations/embed/1114553",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1377782,
+        "url": "http://smotretanime.ru/translations/embed/1117424",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1377947,
+        "url": "http://smotretanime.ru/translations/embed/1117728",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1378422,
+        "url": "http://smotretanime.ru/translations/embed/1118472",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1383667,
+        "url": "http://smotretanime.ru/translations/embed/1129658",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1384237,
+        "url": "http://smotretanime.ru/translations/embed/1130824",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1385371,
+        "url": "http://smotretanime.ru/translations/embed/1132066",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1389782,
+        "url": "http://smotretanime.ru/translations/embed/1135301",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392658,
+        "url": "http://smotretanime.ru/translations/embed/1138813",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392739,
+        "url": "http://smotretanime.ru/translations/embed/1138919",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1393841,
+        "url": "http://smotretanime.ru/translations/embed/1139474",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1397250,
+        "url": "http://smotretanime.ru/translations/embed/1142567",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1399603,
+        "url": "http://smotretanime.ru/translations/embed/1145414",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1399657,
+        "url": "http://smotretanime.ru/translations/embed/1145555",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1400986,
+        "url": "http://smotretanime.ru/translations/embed/1146370",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1401077,
+        "url": "http://smotretanime.ru/translations/embed/1146549",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402189,
+        "url": "http://smotretanime.ru/translations/embed/1147530",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1403140,
+        "url": "http://smotretanime.ru/translations/embed/1148475",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 147,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404333,
+        "url": "http://smotretanime.ru/translations/embed/1149100",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nagaki & Aero & licuma)",
+        "watchesCount": 50,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1951087,
+        "url": "http://vk.com/video_ext.php?oid=-181130574&id=456239031&hash=60c3b7c15fcb1cee",
+        "language": "russian",
+        "quality": "tv",
+        "author": "inari project (ishiki & inushiki)",
+        "watchesCount": 2,
+        "uploader": "ishiki love"
+      },
+      {
+        "id": 1951088,
+        "url": "http://smotretanime.ru/translations/embed/2398523",
+        "language": "russian",
+        "quality": "tv",
+        "author": "inari project (ishiki & inushiki)",
+        "watchesCount": 0,
+        "uploader": "ishiki love"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1328302,
+        "url": "http://smotretanime.ru/translations/embed/1011677",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1328932,
+        "url": "http://smotretanime.ru/translations/embed/1013549",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1331188,
+        "url": "http://smotretanime.ru/translations/embed/1020654",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365056,
+        "url": "http://smotretanime.ru/translations/embed/1106211",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 24,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

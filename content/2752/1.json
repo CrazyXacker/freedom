@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1163089,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1238079",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 627,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1066252,
+        "url": "https://smotretanime.ru/translations/embed/405615",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 113,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1813449,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1489320",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "ScholiasT & Tany Sword",
+        "watchesCount": 18,
+        "uploader": "Rachestahl"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1066253,
+        "url": "https://smotretanime.ru/translations/embed/405616",
+        "language": "original",
+        "quality": "tv",
+        "author": "Shinsen-Subs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

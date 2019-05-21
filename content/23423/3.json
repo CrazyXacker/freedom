@@ -1,0 +1,56 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1603174,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2879863",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "FassaD",
+        "watchesCount": 325,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1321966,
+        "url": "http://smotretanime.ru/translations/embed/993416",
+        "language": "english",
+        "quality": "dvd",
+        "author": "Doutei",
+        "watchesCount": 37,
+        "uploader": "EndymionLight"
+      },
+      {
+        "id": 1348954,
+        "url": "http://smotretanime.ru/translations/embed/1050673",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "LookerA",
+        "watchesCount": 236,
+        "uploader": "EndymionLight"
+      },
+      {
+        "id": 1909498,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3552260",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "LookerA",
+        "watchesCount": 2,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1321965,
+        "url": "http://smotretanime.ru/translations/embed/993219",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 9,
+        "uploader": "EndymionLight"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1408390,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2802393",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Rayvol)",
+        "watchesCount": 276,
+        "uploader": "DragonSlater"
+      },
+      {
+        "id": 1408777,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2802590",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (OVERLORDS)",
+        "watchesCount": 94,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1275910,
+        "url": "http://youtube.com/embed/dgL_iaJ28u4",
+        "language": "original",
+        "quality": "web",
+        "author": "английские субтитры",
+        "watchesCount": 28,
+        "uploader": "Mad1van"
+      },
+      {
+        "id": 1408466,
+        "url": "http://youtube.com/embed/OyfD3JFkrjE",
+        "language": "russian",
+        "quality": "web",
+        "author": "Aquanime",
+        "watchesCount": 28,
+        "uploader": "Emoc"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1268632,
+        "url": "http://youtube.com/embed/giijG-t5fxk",
+        "language": "original",
+        "quality": "tv",
+        "author": "китайский",
+        "watchesCount": 4,
+        "uploader": "Toshiru"
+      }
+    ]
+  }
+}

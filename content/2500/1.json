@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 842732,
+        "url": "http://video.sibnet.ru/shell.php?videoid=102826",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 18,
+        "uploader": ""
+      },
+      {
+        "id": 848664,
+        "url": "http://vk.com/video_ext.php?oid=-57590786&id=170969585&hash=1ddc491a3e4ab1f5",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "1-3",
+        "watchesCount": 748,
+        "uploader": "l_ego"
+      },
+      {
+        "id": 909558,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2046495",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 278,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 909557,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2046193",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 63,
+        "uploader": ""
+      },
+      {
+        "id": 1106648,
+        "url": "https://smotretanime.ru/translations/embed/494676",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "1-3",
+        "watchesCount": 381,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1106647,
+        "url": "https://smotretanime.ru/translations/embed/494672",
+        "language": "original",
+        "quality": "dvd",
+        "author": "1-3",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

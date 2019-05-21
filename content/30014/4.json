@@ -1,0 +1,74 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1217263,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2530403",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 140,
+        "uploader": ""
+      },
+      {
+        "id": 1253283,
+        "url": "http://smotretanime.ru/translations/embed/898870",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 962,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1883451,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3521165",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Derenn & Kiyoko Koheiri)",
+        "watchesCount": 147,
+        "uploader": "Ruwasu"
+      },
+      {
+        "id": 1883468,
+        "url": "http://smotretanime.ru/translations/embed/2199158",
+        "language": "russian",
+        "quality": "web",
+        "author": "AniLibria (Derenn & Kiyoko Koheiri)",
+        "watchesCount": 100,
+        "uploader": "Ruwasu"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1255829,
+        "url": "http://smotretanime.ru/translations/embed/905525",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 172,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1911184,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2622945",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 8,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1255831,
+        "url": "http://smotretanime.ru/translations/embed/905527",
+        "language": "original",
+        "quality": "tv",
+        "author": "MomoSubs",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

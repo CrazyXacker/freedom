@@ -1,0 +1,83 @@
+{
+  "episode": 13,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 548134,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/7886/8008.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 13,
+        "uploader": ""
+      },
+      {
+        "id": 709404,
+        "url": "http://video.sibnet.ru/shell.php?videoid=487545",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": ""
+      },
+      {
+        "id": 1139811,
+        "url": "https://smotretanime.ru/translations/embed/638800",
+        "language": "russian",
+        "quality": "tv",
+        "author": "NAG",
+        "watchesCount": 60,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 548137,
+        "url": "http://video.sibnet.ru/shell.php?videoid=486682",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 1026104,
+        "url": "https://smotretanime.ru/translations/embed/270429",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Meine Liebe I",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1032986,
+        "url": "https://smotretanime.ru/translations/embed/297133",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Misato",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1065979,
+        "url": "https://smotretanime.ru/translations/embed/405165",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shi-Fa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1026103,
+        "url": "https://smotretanime.ru/translations/embed/270428",
+        "language": "original",
+        "quality": "tv",
+        "author": "Shi-Fa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

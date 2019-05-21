@@ -1,0 +1,524 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1342752,
+        "url": "http://smotretanime.ru/translations/embed/1073687",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 188,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1342754,
+        "url": "http://smotretanime.ru/translations/embed/1073696",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 36,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1343182,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2726110",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar",
+        "watchesCount": 6,
+        "uploader": ""
+      },
+      {
+        "id": 1362990,
+        "url": "http://smotretanime.ru/translations/embed/1101497",
+        "language": "russian",
+        "quality": "tv",
+        "author": "RainDub",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372068,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2759743",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Cuba77 & Торгиль & Kiara_Laine)",
+        "watchesCount": 116,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1375875,
+        "url": "http://smotretanime.ru/translations/embed/1114179",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 90,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1379381,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2736248",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1409755,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2783316",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 1917958,
+        "url": "http://smotretanime.ru/translations/embed/2315571",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Cuba77 & Торгиль & Kiara_Laine)",
+        "watchesCount": 0,
+        "uploader": "Михаил Дёмичев"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1343014,
+        "url": "http://smotretanime.ru/translations/embed/1074264",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 17,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349324,
+        "url": "http://smotretanime.ru/translations/embed/1087935",
+        "language": "english",
+        "quality": "tv",
+        "author": "DameDesuYo",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349325,
+        "url": "http://smotretanime.ru/translations/embed/1087924",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349334,
+        "url": "http://smotretanime.ru/translations/embed/1088017",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349495,
+        "url": "http://smotretanime.ru/translations/embed/1088169",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349524,
+        "url": "http://smotretanime.ru/translations/embed/1088220",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349796,
+        "url": "http://smotretanime.ru/translations/embed/1088639",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350572,
+        "url": "http://smotretanime.ru/translations/embed/1089700",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352517,
+        "url": "http://smotretanime.ru/translations/embed/1092773",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353625,
+        "url": "http://smotretanime.ru/translations/embed/1094522",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1356542,
+        "url": "http://smotretanime.ru/translations/embed/1096778",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1356618,
+        "url": "http://smotretanime.ru/translations/embed/1096871",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1356795,
+        "url": "http://smotretanime.ru/translations/embed/1097029",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357060,
+        "url": "http://smotretanime.ru/translations/embed/1097328",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1358886,
+        "url": "http://smotretanime.ru/translations/embed/1098279",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362760,
+        "url": "http://smotretanime.ru/translations/embed/1101213",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1363106,
+        "url": "http://smotretanime.ru/translations/embed/1101731",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1363845,
+        "url": "http://smotretanime.ru/translations/embed/1103158",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365055,
+        "url": "http://smotretanime.ru/translations/embed/1106005",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365294,
+        "url": "http://smotretanime.ru/translations/embed/1106298",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365361,
+        "url": "http://smotretanime.ru/translations/embed/1106373",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367478,
+        "url": "http://smotretanime.ru/translations/embed/1108545",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1371914,
+        "url": "http://smotretanime.ru/translations/embed/1112771",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372820,
+        "url": "http://smotretanime.ru/translations/embed/1113866",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375869,
+        "url": "http://smotretanime.ru/translations/embed/1114181",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 50,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376835,
+        "url": "http://smotretanime.ru/translations/embed/1116231",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402153,
+        "url": "http://smotretanime.ru/translations/embed/1147464",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402906,
+        "url": "http://smotretanime.ru/translations/embed/1148337",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402949,
+        "url": "http://smotretanime.ru/translations/embed/1148371",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1403204,
+        "url": "http://smotretanime.ru/translations/embed/1148549",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404263,
+        "url": "http://smotretanime.ru/translations/embed/1149059",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1405679,
+        "url": "http://smotretanime.ru/translations/embed/1151037",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406665,
+        "url": "http://smotretanime.ru/translations/embed/1152486",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406681,
+        "url": "http://smotretanime.ru/translations/embed/1152503",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406936,
+        "url": "http://smotretanime.ru/translations/embed/1152761",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1409505,
+        "url": "http://smotretanime.ru/translations/embed/1154360",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1410284,
+        "url": "http://smotretanime.ru/translations/embed/1155630",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1410327,
+        "url": "http://smotretanime.ru/translations/embed/1155671",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1410950,
+        "url": "http://smotretanime.ru/translations/embed/1156063",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1412221,
+        "url": "http://smotretanime.ru/translations/embed/1156932",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1420165,
+        "url": "http://smotretanime.ru/translations/embed/1158160",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1430311,
+        "url": "http://smotretanime.ru/translations/embed/1160897",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1430341,
+        "url": "http://smotretanime.ru/translations/embed/1160914",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1431522,
+        "url": "http://smotretanime.ru/translations/embed/1161957",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Mentat & Apostol & Avant Heim",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1431714,
+        "url": "http://smotretanime.ru/translations/embed/1162155",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1349326,
+        "url": "http://smotretanime.ru/translations/embed/1087929",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "DameDesuYo",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365410,
+        "url": "http://smotretanime.ru/translations/embed/1106418",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "DameDesuYo",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375870,
+        "url": "http://smotretanime.ru/translations/embed/1114176",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

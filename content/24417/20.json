@@ -1,0 +1,36 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1444605,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2832253",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 1,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1444606,
+        "url": "http://vk.com/video_ext.php?oid=15679785&id=456239195&hash=9ec03f58f75f2520",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 15,
+        "uploader": "sttany"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1233677,
+        "url": "http://vk.com/video_ext.php?oid=-99572187&id=456239599&hash=f2a3a298c9195d88",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "sttany"
+      }
+    ]
+  }
+}

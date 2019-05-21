@@ -1,0 +1,47 @@
+{
+  "episode": 17,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1511875,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2938613",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Gecep & Oni & Vel)",
+        "watchesCount": 51,
+        "uploader": "Broccoli"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1441138,
+        "url": "http://smotretanime.ru/translations/embed/1173315",
+        "language": "english",
+        "quality": "tv",
+        "author": "Waffle Sub",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1954302,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2947535",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Digimon",
+        "watchesCount": 0,
+        "uploader": "Кошки ходят поперек"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1441139,
+        "url": "http://smotretanime.ru/translations/embed/1173314",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Waffle Sub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

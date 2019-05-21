@@ -1,0 +1,47 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 675591,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1311243",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "OpenDub",
+        "watchesCount": 32,
+        "uploader": ""
+      },
+      {
+        "id": 1853577,
+        "url": "http://vk.com/video_ext.php?oid=-17065129&id=166642221&hash=0ab152f87dcc2f9e",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OpenDub (BadWolf & Collapse & MIKS & & Mirra)",
+        "watchesCount": 26,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 935501,
+        "url": "https://smotretanime.ru/translations/embed/86225",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 935489,
+        "url": "https://smotretanime.ru/translations/embed/86213",
+        "language": "original",
+        "quality": "tv",
+        "author": "OpenDub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

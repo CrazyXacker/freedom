@@ -1,0 +1,65 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1163090,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1238081",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Arasi project",
+        "watchesCount": 501,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 996168,
+        "url": "https://smotretanime.ru/translations/embed/223522",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1066257,
+        "url": "https://smotretanime.ru/translations/embed/405620",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 66,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1813451,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1489321",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Tany Sword",
+        "watchesCount": 14,
+        "uploader": "Rachestahl"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 996169,
+        "url": "https://smotretanime.ru/translations/embed/223523",
+        "language": "original",
+        "quality": "tv",
+        "author": "Shinsen-Subs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1066258,
+        "url": "https://smotretanime.ru/translations/embed/405622",
+        "language": "original",
+        "quality": "tv",
+        "author": "Shinsen-Subs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

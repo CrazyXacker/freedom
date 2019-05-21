@@ -1,0 +1,56 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1300110,
+        "url": "http://youtube.com/embed/UYTyay93eOw",
+        "language": "russian",
+        "quality": "web",
+        "author": "Aquanime",
+        "watchesCount": 513,
+        "uploader": "Emoc"
+      },
+      {
+        "id": 1380712,
+        "url": "http://vk.com/video_ext.php?oid=-100541044&id=456241482&hash=cc5e1e1aeafa0f45",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Jade)",
+        "watchesCount": 759,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1289381,
+        "url": "http://youtube.com/embed/UU2rH9XXRhY",
+        "language": "original",
+        "quality": "web",
+        "author": "английские субтитры",
+        "watchesCount": 40,
+        "uploader": "Mad1van"
+      },
+      {
+        "id": 1825895,
+        "url": "http://vk.com/video_ext.php?oid=-101820654&id=456239847&hash=f177fa5465eec854",
+        "language": "russian",
+        "quality": "web",
+        "author": "FSG COMEBACK (PechenDo & R.R)",
+        "watchesCount": 10,
+        "uploader": "Psychoma"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1286712,
+        "url": "http://youtube.com/embed/YbD2CIHm8Zg",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 18,
+        "uploader": "Kaneko_ko"
+      }
+    ]
+  }
+}

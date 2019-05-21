@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1434037,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2818286",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Yupi & Лизавета)",
+        "watchesCount": 1987,
+        "uploader": "Kira157"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1115749,
+        "url": "https://video.sibnet.ru/shell.php?videoid=1748029",
+        "language": "russian",
+        "quality": "web",
+        "author": "Solmir_Mech",
+        "watchesCount": 535,
+        "uploader": "Keyw"
+      },
+      {
+        "id": 1115780,
+        "url": "https://smotretanime.ru/translations/embed/450938",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Otsu-san",
+        "watchesCount": 1458,
+        "uploader": "Keyw"
+      },
+      {
+        "id": 1115787,
+        "url": "https://smotretanime.ru/translations/embed/451006",
+        "language": "english",
+        "quality": "bd",
+        "author": "RyunoOkami",
+        "watchesCount": 10,
+        "uploader": "Keyw"
+      },
+      {
+        "id": 1115802,
+        "url": "https://smotretanime.ru/translations/embed/450935",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Solmir_Mech",
+        "watchesCount": 67,
+        "uploader": "Keyw"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1115814,
+        "url": "https://smotretanime.ru/translations/embed/450937",
+        "language": "original",
+        "quality": "bd",
+        "author": "RAW от RyunoOkami",
+        "watchesCount": 12,
+        "uploader": "Keyw"
+      }
+    ]
+  }
+}

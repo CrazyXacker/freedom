@@ -1,0 +1,56 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 917019,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1262865",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 15,
+        "uploader": ""
+      },
+      {
+        "id": 1152815,
+        "url": "https://smotretanime.ru/translations/embed/659524",
+        "language": "russian",
+        "quality": "tv",
+        "author": "NAG",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 917017,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1263203",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": ""
+      },
+      {
+        "id": 1105246,
+        "url": "https://smotretanime.ru/translations/embed/480148",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1525132,
+        "url": "http://smotretanime.ru/translations/embed/145898",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

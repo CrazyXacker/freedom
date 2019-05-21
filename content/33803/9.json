@@ -1,0 +1,47 @@
+{
+  "episode": 9,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1380497,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2778368",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (9й Неизвестный)",
+        "watchesCount": 96,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1376466,
+        "url": "http://smotretanime.ru/translations/embed/1115825",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1377229,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2762636",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 33,
+        "uploader": "Makrovkin"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1376467,
+        "url": "http://smotretanime.ru/translations/embed/1115824",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

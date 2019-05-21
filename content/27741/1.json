@@ -1,0 +1,56 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 787070,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1687159",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 23,
+        "uploader": ""
+      },
+      {
+        "id": 1089864,
+        "url": "https://smotretanime.ru/translations/embed/440509",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 44,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 787069,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1673469",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "YakuSub Studio (Nika_Elrik & Sakurovna)",
+        "watchesCount": 28,
+        "uploader": ""
+      },
+      {
+        "id": 1022674,
+        "url": "https://smotretanime.ru/translations/embed/264607",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nika_Elrik & Sakurovna)",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1022676,
+        "url": "https://smotretanime.ru/translations/embed/264609",
+        "language": "original",
+        "quality": "tv",
+        "author": "Zero-Raws",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

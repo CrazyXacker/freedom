@@ -1,0 +1,45 @@
+{
+  "episode": 1,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 686766,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1212585",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Rino59",
+        "watchesCount": 14,
+        "uploader": ""
+      },
+      {
+        "id": 1040677,
+        "url": "https://smotretanime.ru/translations/embed/351239",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Rino59",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1878735,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2850305",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Rino59",
+        "watchesCount": 2,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1028673,
+        "url": "https://smotretanime.ru/translations/embed/278589",
+        "language": "original",
+        "quality": "tv",
+        "author": "Saizen",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

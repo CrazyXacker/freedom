@@ -1,0 +1,632 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1452046,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=456244120&hash=5ea527732f789403",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Dancel & nDrOiDze & Abe)",
+        "watchesCount": 295,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1452047,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2841189",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Dancel & nDrOiDze & Abe)",
+        "watchesCount": 24,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1458059,
+        "url": "http://smotretanime.ru/translations/embed/1204455",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458263,
+        "url": "http://smotretanime.ru/translations/embed/1204735",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 112,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458612,
+        "url": "http://smotretanime.ru/translations/embed/1205368",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniZone",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458621,
+        "url": "http://smotretanime.ru/translations/embed/1205399",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniZone",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458745,
+        "url": "http://smotretanime.ru/translations/embed/1205389",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniZone",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458797,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2850468",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Demetra & Cuba77)",
+        "watchesCount": 184,
+        "uploader": "DragonSlater"
+      },
+      {
+        "id": 1534525,
+        "url": "http://vk.com/video_ext.php?oid=-92759071&id=456244644&hash=61985c39fd08efc6",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Cuba77 & Demetra)",
+        "watchesCount": 277,
+        "uploader": "Jubei"
+      },
+      {
+        "id": 1546970,
+        "url": "http://smotretanime.ru/translations/embed/1188462",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Dancel & nDrOiDze & Abe)",
+        "watchesCount": 13,
+        "uploader": "Kira157"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1448636,
+        "url": "http://smotretanime.ru/translations/embed/1184005",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 31,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1448856,
+        "url": "http://smotretanime.ru/translations/embed/1184300",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 200,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1449271,
+        "url": "http://smotretanime.ru/translations/embed/1184700",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1449460,
+        "url": "http://smotretanime.ru/translations/embed/1184654",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 30,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1450944,
+        "url": "http://smotretanime.ru/translations/embed/1186491",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1450966,
+        "url": "http://smotretanime.ru/translations/embed/1186540",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1451690,
+        "url": "http://smotretanime.ru/translations/embed/1187728",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1452485,
+        "url": "http://smotretanime.ru/translations/embed/1189279",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1453164,
+        "url": "http://smotretanime.ru/translations/embed/1189958",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1453204,
+        "url": "http://smotretanime.ru/translations/embed/1189915",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1453447,
+        "url": "http://smotretanime.ru/translations/embed/1190215",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1453491,
+        "url": "http://smotretanime.ru/translations/embed/1190307",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1453639,
+        "url": "http://smotretanime.ru/translations/embed/1190376",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1453769,
+        "url": "http://smotretanime.ru/translations/embed/1190490",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1455427,
+        "url": "http://smotretanime.ru/translations/embed/1192952",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1455800,
+        "url": "http://smotretanime.ru/translations/embed/1193477",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1457660,
+        "url": "http://smotretanime.ru/translations/embed/1204066",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1457683,
+        "url": "http://smotretanime.ru/translations/embed/1204075",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1457951,
+        "url": "http://smotretanime.ru/translations/embed/1204332",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458261,
+        "url": "http://smotretanime.ru/translations/embed/1204764",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nika_Elrik & Arashi-sama)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458553,
+        "url": "http://smotretanime.ru/translations/embed/1205258",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1459060,
+        "url": "http://smotretanime.ru/translations/embed/1205814",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1459106,
+        "url": "http://smotretanime.ru/translations/embed/1205899",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1459436,
+        "url": "http://smotretanime.ru/translations/embed/1206605",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1460434,
+        "url": "http://smotretanime.ru/translations/embed/1207736",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1460468,
+        "url": "http://smotretanime.ru/translations/embed/1207818",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1463003,
+        "url": "http://smotretanime.ru/translations/embed/1210856",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1463007,
+        "url": "http://smotretanime.ru/translations/embed/1210865",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1463781,
+        "url": "http://smotretanime.ru/translations/embed/1212196",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 33,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1466137,
+        "url": "http://smotretanime.ru/translations/embed/1215786",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1466211,
+        "url": "http://smotretanime.ru/translations/embed/1215835",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1466431,
+        "url": "http://smotretanime.ru/translations/embed/1215979",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1469518,
+        "url": "http://smotretanime.ru/translations/embed/1225651",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1471487,
+        "url": "http://smotretanime.ru/translations/embed/1227024",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1471641,
+        "url": "http://smotretanime.ru/translations/embed/1227133",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1471657,
+        "url": "http://smotretanime.ru/translations/embed/1227155",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1472534,
+        "url": "http://smotretanime.ru/translations/embed/1227968",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1474368,
+        "url": "http://smotretanime.ru/translations/embed/1229291",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1474397,
+        "url": "http://smotretanime.ru/translations/embed/1229440",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1474957,
+        "url": "http://smotretanime.ru/translations/embed/1229989",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1475473,
+        "url": "http://smotretanime.ru/translations/embed/1230473",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1475944,
+        "url": "http://smotretanime.ru/translations/embed/1231241",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1475960,
+        "url": "http://smotretanime.ru/translations/embed/1231256",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1476144,
+        "url": "http://smotretanime.ru/translations/embed/1231461",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1476944,
+        "url": "http://smotretanime.ru/translations/embed/1231970",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1476974,
+        "url": "http://smotretanime.ru/translations/embed/1232059",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1479439,
+        "url": "http://smotretanime.ru/translations/embed/1235081",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1479579,
+        "url": "http://smotretanime.ru/translations/embed/1235299",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1479606,
+        "url": "http://smotretanime.ru/translations/embed/1235317",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1479944,
+        "url": "http://smotretanime.ru/translations/embed/1235713",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1480766,
+        "url": "http://smotretanime.ru/translations/embed/1236273",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1481869,
+        "url": "http://smotretanime.ru/translations/embed/1237811",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Arashi-sama",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525108,
+        "url": "http://sovetromantica.com/embed/episode_256_6-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 40,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1534506,
+        "url": "http://vk.com/video_ext.php?oid=-33905270&id=456242977&hash=00cb324b99c12ffd",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 125,
+        "uploader": "Jubei"
+      },
+      {
+        "id": 1534542,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2838251",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 14,
+        "uploader": "Jubei"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1448637,
+        "url": "http://smotretanime.ru/translations/embed/1184004",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1450943,
+        "url": "http://smotretanime.ru/translations/embed/1186497",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1450980,
+        "url": "http://smotretanime.ru/translations/embed/1186558",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1458262,
+        "url": "http://smotretanime.ru/translations/embed/1204763",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "ARRU",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

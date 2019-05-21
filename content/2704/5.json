@@ -1,0 +1,101 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 780459,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1618520",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AnimeLend",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 1670490,
+        "url": "http://smotretanime.ru/translations/embed/873663",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Persona99",
+        "watchesCount": 2,
+        "uploader": "Shadow Dargon"
+      },
+      {
+        "id": 1798340,
+        "url": "http://vk.com/video_ext.php?oid=100919109&id=171174328&hash=72f47c916ace2345",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 4,
+        "uploader": "Юлия Калимулина"
+      },
+      {
+        "id": 1816540,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2726973",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 2,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 780458,
+        "url": "http://video.sibnet.ru/shell.php?videoid=619265",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 949573,
+        "url": "https://smotretanime.ru/translations/embed/115395",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SSP-Corp",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 949577,
+        "url": "https://smotretanime.ru/translations/embed/115400",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "vodorosl",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1038952,
+        "url": "https://smotretanime.ru/translations/embed/344475",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "vodorosl",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 949582,
+        "url": "https://smotretanime.ru/translations/embed/115405",
+        "language": "original",
+        "quality": "dvd",
+        "author": "SSP",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1139575,
+        "url": "https://smotretanime.ru/translations/embed/638413",
+        "language": "original",
+        "quality": "tv",
+        "author": "Persona99",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

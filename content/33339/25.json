@@ -1,0 +1,38 @@
+{
+  "episode": 25,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1541767,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2807000",
+        "language": "russian",
+        "quality": "web",
+        "author": "AnimeVost (Zunder)",
+        "watchesCount": 221,
+        "uploader": "baksIII"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1289384,
+        "url": "http://youtube.com/embed/LqlCFJ9dxbo",
+        "language": "original",
+        "quality": "web",
+        "author": "английские субтитры",
+        "watchesCount": 90,
+        "uploader": "Mad1van"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1268645,
+        "url": "http://youtube.com/embed/0OEXCWR9fdQ",
+        "language": "original",
+        "quality": "tv",
+        "author": "китайский",
+        "watchesCount": 5,
+        "uploader": "Toshiru"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1905047,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3546364",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Cynic)",
+        "watchesCount": 35,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1730378,
+        "url": "http://smotretanime.ru/translations/embed/1803343",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "RitE",
+        "watchesCount": 64,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1730382,
+        "url": "http://smotretanime.ru/translations/embed/1803345",
+        "language": "english",
+        "quality": "bd",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1730383,
+        "url": "http://smotretanime.ru/translations/embed/1803344",
+        "language": "original",
+        "quality": "bd",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

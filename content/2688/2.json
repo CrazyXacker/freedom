@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1673145,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3229125",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Jar & Rudoshka)",
+        "watchesCount": 55,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 853460,
+        "url": "http://youtube.com/embed/HdTv6YugRqs",
+        "language": "english",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Alex Minson"
+      },
+      {
+        "id": 993368,
+        "url": "https://smotretanime.ru/translations/embed/218888",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Red Photon Zillion",
+        "watchesCount": 42,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 993360,
+        "url": "https://smotretanime.ru/translations/embed/218879",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

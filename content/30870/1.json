@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 1531466,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2965758",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 270,
+        "uploader": "MarsCiel"
+      },
+      {
+        "id": 1664754,
+        "url": "http://smotretanime.ru/translations/embed/1495573",
+        "language": "russian",
+        "quality": "bd",
+        "author": "YakuSub Studio (Nika_Elrik & Harushechka & licuma)",
+        "watchesCount": 425,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1664755,
+        "url": "http://smotretanime.ru/translations/embed/1322593",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

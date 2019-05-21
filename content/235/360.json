@@ -1,0 +1,65 @@
+{
+  "episode": 360,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1823497,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2873518",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Волк",
+        "watchesCount": 195,
+        "uploader": "Rendot"
+      },
+      {
+        "id": 1938872,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3589634",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 30,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1071694,
+        "url": "https://smotretanime.ru/translations/embed/414956",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 174,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1656401,
+        "url": "http://smotretanime.ru/translations/embed/1651166",
+        "language": "english",
+        "quality": "tv",
+        "author": "DCTP",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1823509,
+        "url": "http://vk.com/video_ext.php?oid=-52587943&id=169386266&hash=e322f942c9000632",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 27,
+        "uploader": "Rendot"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1071695,
+        "url": "https://smotretanime.ru/translations/embed/414957",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

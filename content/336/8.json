@@ -1,0 +1,74 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 548159,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/7886/8003.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 27,
+        "uploader": ""
+      },
+      {
+        "id": 709399,
+        "url": "http://video.sibnet.ru/shell.php?videoid=487527",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 18,
+        "uploader": ""
+      },
+      {
+        "id": 1139806,
+        "url": "https://smotretanime.ru/translations/embed/638795",
+        "language": "russian",
+        "quality": "tv",
+        "author": "NAG",
+        "watchesCount": 79,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1026098,
+        "url": "https://smotretanime.ru/translations/embed/270419",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shi-Fa",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1032988,
+        "url": "https://smotretanime.ru/translations/embed/297138",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Misato",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1065975,
+        "url": "https://smotretanime.ru/translations/embed/405160",
+        "language": "russian",
+        "quality": "tv",
+        "author": "I",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1026097,
+        "url": "https://smotretanime.ru/translations/embed/270418",
+        "language": "original",
+        "quality": "tv",
+        "author": "Shi-Fa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

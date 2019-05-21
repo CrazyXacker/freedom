@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1848572,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2907049",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SakuraNight (Tinda) (+ субтитры)",
+        "watchesCount": 19,
+        "uploader": "YJOS"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1470364,
+        "url": "http://youtube.com/embed/qcLyWo27YoA",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 19,
+        "uploader": "Anastasiya-Asterisk"
+      },
+      {
+        "id": 1906907,
+        "url": "http://vk.com/video_ext.php?oid=223485272&id=456239253&hash=04ba5216a55a8073",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "keyakizakka"
+      }
+    ]
+  }
+}

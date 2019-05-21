@@ -1,0 +1,47 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1516290,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2917020",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Zendos)",
+        "watchesCount": 334,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1868603,
+        "url": "http://smotretanime.ru/translations/embed/1543254",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "Dale"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1500094,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2914090",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 29,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1502669,
+        "url": "http://smotretanime.ru/translations/embed/1318823",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

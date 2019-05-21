@@ -1,0 +1,56 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 793124,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1721602",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 17,
+        "uploader": ""
+      },
+      {
+        "id": 1089804,
+        "url": "https://smotretanime.ru/translations/embed/440331",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 24,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 792888,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1720562",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "YakuSub Studio (Nika_Elrik & Sakurovna)",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 1031304,
+        "url": "https://smotretanime.ru/translations/embed/287584",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Nika_Elrik & Sakurovna)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1031305,
+        "url": "https://smotretanime.ru/translations/embed/287585",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

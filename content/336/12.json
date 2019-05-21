@@ -1,0 +1,74 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 548139,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/7886/8007.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 15,
+        "uploader": ""
+      },
+      {
+        "id": 709403,
+        "url": "http://video.sibnet.ru/shell.php?videoid=487541",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 18,
+        "uploader": ""
+      },
+      {
+        "id": 1139810,
+        "url": "https://smotretanime.ru/translations/embed/638799",
+        "language": "russian",
+        "quality": "tv",
+        "author": "NAG",
+        "watchesCount": 66,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1026102,
+        "url": "https://smotretanime.ru/translations/embed/270427",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Meine Liebe I",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1032992,
+        "url": "https://smotretanime.ru/translations/embed/297143",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Misato",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1065978,
+        "url": "https://smotretanime.ru/translations/embed/405164",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shi-Fa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1026101,
+        "url": "https://smotretanime.ru/translations/embed/270426",
+        "language": "original",
+        "quality": "tv",
+        "author": "Shi-Fa",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

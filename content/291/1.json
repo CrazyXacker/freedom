@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 588011,
+        "url": "http://video.sibnet.ru/shell.php?videoid=644416",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 97,
+        "uploader": ""
+      },
+      {
+        "id": 819654,
+        "url": "http://vk.com/video_ext.php?oid=-47941245&id=164725275&hash=803bc5f41c0ab376",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 166,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 1138518,
+        "url": "https://smotretanime.ru/translations/embed/636795",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "D.A.Studio",
+        "watchesCount": 88,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1095959,
+        "url": "https://smotretanime.ru/translations/embed/450694",
+        "language": "english",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 35,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1252183,
+        "url": "http://smotretanime.ru/translations/embed/893846",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "D.A.Studio",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1252182,
+        "url": "http://smotretanime.ru/translations/embed/893845",
+        "language": "original",
+        "quality": "dvd",
+        "author": "D.A.Studio",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

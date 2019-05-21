@@ -1,0 +1,101 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 902938,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2030186",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (Everly)",
+        "watchesCount": 50,
+        "uploader": ""
+      },
+      {
+        "id": 1189328,
+        "url": "https://smotretanime.ru/translations/embed/711212",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 842,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1336388,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2709707",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 469,
+        "uploader": "const"
+      },
+      {
+        "id": 1633972,
+        "url": "http://smotretanime.ru/translations/embed/1544824",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 623,
+        "uploader": "John Mettew"
+      },
+      {
+        "id": 1867552,
+        "url": "http://vk.com/video_ext.php?oid=-62046874&id=171615435&hash=a020decde5f27fbb",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 275,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1142234,
+        "url": "https://smotretanime.ru/translations/embed/898095",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 501,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1189324,
+        "url": "https://smotretanime.ru/translations/embed/711207",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1195935,
+        "url": "https://smotretanime.ru/translations/embed/719983",
+        "language": "russian",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 106,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1189323,
+        "url": "https://smotretanime.ru/translations/embed/711206",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1195934,
+        "url": "https://smotretanime.ru/translations/embed/719982",
+        "language": "original",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1334248,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2710452",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 34,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1329223,
+        "url": "http://smotretanime.ru/translations/embed/1013641",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344477,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2719876",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1348853,
+        "url": "http://smotretanime.ru/translations/embed/1060451",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375283,
+        "url": "http://smotretanime.ru/translations/embed/1060399",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1329224,
+        "url": "http://smotretanime.ru/translations/embed/1013640",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}
