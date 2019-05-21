@@ -1,0 +1,74 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1855676,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3486462",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 12,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1311136,
+        "url": "http://vk.com/video_ext.php?oid=-37290779&id=171428399&hash=a8ac48f427a2a191",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 30,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1474432,
+        "url": "http://smotretanime.ru/translations/embed/879603",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 13,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1474445,
+        "url": "http://smotretanime.ru/translations/embed/921926",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1311115,
+        "url": "http://youtube.com/embed/lfNkw0B5hew",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1311129,
+        "url": "http://vk.com/video_ext.php?oid=172169293&id=165762492&hash=fa4d0170199fc477",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1474456,
+        "url": "http://smotretanime.ru/translations/embed/879604",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

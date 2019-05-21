@@ -1,0 +1,65 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 709421,
+        "url": "http://video.sibnet.ru/shell.php?videoid=485929",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Zendos & Eladiel",
+        "watchesCount": 100,
+        "uploader": ""
+      },
+      {
+        "id": 1093125,
+        "url": "https://smotretanime.ru/translations/embed/447285",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project",
+        "watchesCount": 190,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1144232,
+        "url": "https://smotretanime.ru/translations/embed/645485",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Azazel & Oni",
+        "watchesCount": 38,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 646319,
+        "url": "http://video.sibnet.ru/shell.php?videoid=388171",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 15,
+        "uploader": ""
+      },
+      {
+        "id": 1144287,
+        "url": "https://smotretanime.ru/translations/embed/645538",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Azazel & Oni",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1171997,
+        "url": "https://smotretanime.ru/translations/embed/689031",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 16,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 656223,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1285795",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Makers & Usagi",
+        "watchesCount": 35,
+        "uploader": ""
+      },
+      {
+        "id": 656245,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1276368",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniFilm (NeaR & Lali)",
+        "watchesCount": 472,
+        "uploader": ""
+      },
+      {
+        "id": 1171388,
+        "url": "https://smotretanime.ru/translations/embed/687818",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniFilm",
+        "watchesCount": 1309,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1178411,
+        "url": "https://smotretanime.ru/translations/embed/697701",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniFilm",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1178412,
+        "url": "https://smotretanime.ru/translations/embed/697702",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniFilm",
+        "watchesCount": 255,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1178410,
+        "url": "https://smotretanime.ru/translations/embed/697700",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

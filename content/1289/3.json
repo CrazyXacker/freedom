@@ -1,0 +1,83 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1921029,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3565559",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (KroshkaRu & Molodoy)",
+        "watchesCount": 3,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1927615,
+        "url": "http://smotretanime.ru/translations/embed/2320445",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (KroshkaRu & Molodoy)",
+        "watchesCount": 2,
+        "uploader": "smakealpha"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 970229,
+        "url": "https://smotretanime.ru/translations/embed/193027",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Patlabor OVA2",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1021064,
+        "url": "https://smotretanime.ru/translations/embed/260631",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 46,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1036887,
+        "url": "https://smotretanime.ru/translations/embed/332649",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Faddeich",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1808076,
+        "url": "http://vk.com/video_ext.php?oid=-37290779&id=171260224&hash=24e03b5e68f6a7b1",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 27,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 970205,
+        "url": "https://smotretanime.ru/translations/embed/193002",
+        "language": "original",
+        "quality": "tv",
+        "author": "A-Et",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1021050,
+        "url": "https://smotretanime.ru/translations/embed/260617",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

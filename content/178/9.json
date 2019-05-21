@@ -1,0 +1,65 @@
+{
+  "episode": 9,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 567570,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/2784/2810.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 70,
+        "uploader": ""
+      },
+      {
+        "id": 1727567,
+        "url": "http://smotretanime.ru/translations/embed/260097",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 29,
+        "uploader": "EndymionLight"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 944118,
+        "url": "https://smotretanime.ru/translations/embed/103855",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1106933,
+        "url": "https://smotretanime.ru/translations/embed/501049",
+        "language": "russian",
+        "quality": "tv",
+        "author": "LIME",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 944117,
+        "url": "https://smotretanime.ru/translations/embed/103854",
+        "language": "original",
+        "quality": "tv",
+        "author": "LIME",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1106932,
+        "url": "https://smotretanime.ru/translations/embed/501048",
+        "language": "original",
+        "quality": "tv",
+        "author": "LIME",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

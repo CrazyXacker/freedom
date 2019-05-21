@@ -1,0 +1,74 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 610003,
+        "url": "http://video.sibnet.ru/shell.php?videoid=385996",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 23,
+        "uploader": ""
+      },
+      {
+        "id": 816721,
+        "url": "http://vk.com/video_ext.php?oid=245495945&id=169231760&hash=69fb8f33d6592469",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Gin",
+        "watchesCount": 511,
+        "uploader": "Lisichu"
+      },
+      {
+        "id": 1141035,
+        "url": "https://smotretanime.ru/translations/embed/641057",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "artyfox & hotFlash",
+        "watchesCount": 145,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1141025,
+        "url": "https://smotretanime.ru/translations/embed/641033",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "artyfox & hotFlash",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1184933,
+        "url": "https://smotretanime.ru/translations/embed/705713",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "artyfox & hotFlash",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1813605,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2902564",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Ten",
+        "watchesCount": 39,
+        "uploader": "Rachestahl"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1184932,
+        "url": "https://smotretanime.ru/translations/embed/705712",
+        "language": "original",
+        "quality": "dvd",
+        "author": "2.0 Sound",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

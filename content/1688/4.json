@@ -1,0 +1,83 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 604240,
+        "url": "http://img.mail.ru/r/video2/player_v2.swf?par=http://video.mail.ru/mail/v-moka-v/281/$285",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 708045,
+        "url": "http://video.sibnet.ru/shell.php?videoid=512400",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 26,
+        "uploader": ""
+      },
+      {
+        "id": 862458,
+        "url": "http://vk.com/video_ext.php?oid=-36032446&id=162548780&hash=1966e65b3a3d52b5",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "DiWilliam",
+        "watchesCount": 89,
+        "uploader": "Павел Кравцов"
+      },
+      {
+        "id": 871001,
+        "url": "http://vk.com/video_ext.php?oid=-34600486&id=161910365&hash=db7f379ad37d9699",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 33,
+        "uploader": "Sawansa"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 708034,
+        "url": "http://video.sibnet.ru/shell.php?videoid=512854",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": ""
+      },
+      {
+        "id": 1230591,
+        "url": "http://smotretanime.ru/translations/embed/759099",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Comments",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1230592,
+        "url": "http://smotretanime.ru/translations/embed/759100",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Full",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1230590,
+        "url": "http://smotretanime.ru/translations/embed/759098",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

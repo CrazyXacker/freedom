@@ -1,0 +1,65 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 562761,
+        "url": "http://video.sibnet.ru/shell.php?videoid=418832",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniPower (MetalRus)",
+        "watchesCount": 62,
+        "uploader": ""
+      },
+      {
+        "id": 1458963,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1727107",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniPower (MetalRus)",
+        "watchesCount": 695,
+        "uploader": "baksIII"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 939189,
+        "url": "https://smotretanime.ru/translations/embed/93823",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1926291,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3571680",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "Ази-Дахака"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 939188,
+        "url": "https://smotretanime.ru/translations/embed/93782",
+        "language": "original",
+        "quality": "dvd",
+        "author": "AD-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1926246,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3566356",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Ази-Дахака"
+      }
+    ]
+  }
+}

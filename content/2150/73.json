@@ -1,0 +1,65 @@
+{
+  "episode": 73,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 661930,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1410548",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Профессионально (многоголосый & закадровый перевод)",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 932172,
+        "url": "https://smotretanime.ru/translations/embed/648968",
+        "language": "russian",
+        "quality": "tv",
+        "author": "rus_jpn",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1156594,
+        "url": "https://smotretanime.ru/translations/embed/664519",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 17,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1102562,
+        "url": "https://smotretanime.ru/translations/embed/468623",
+        "language": "russian",
+        "quality": "tv",
+        "author": "jpn",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 932173,
+        "url": "https://smotretanime.ru/translations/embed/850057",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1102563,
+        "url": "https://smotretanime.ru/translations/embed/468624",
+        "language": "original",
+        "quality": "tv",
+        "author": "jpn,sub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

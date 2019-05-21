@@ -1,0 +1,101 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 688454,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1187432",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "GitS",
+        "watchesCount": 324,
+        "uploader": ""
+      },
+      {
+        "id": 1151318,
+        "url": "https://smotretanime.ru/translations/embed/657419",
+        "language": "russian",
+        "quality": "tv",
+        "author": "GitS & SibVic",
+        "watchesCount": 458,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1874502,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3507609",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "GitS",
+        "watchesCount": 490,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 688430,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1187506",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 51,
+        "uploader": ""
+      },
+      {
+        "id": 943824,
+        "url": "https://smotretanime.ru/translations/embed/103163",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SibVic",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 943848,
+        "url": "https://smotretanime.ru/translations/embed/103187",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "C1RZA & Tofik",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1056973,
+        "url": "https://smotretanime.ru/translations/embed/389160",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SibVic",
+        "watchesCount": 647,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1056997,
+        "url": "https://smotretanime.ru/translations/embed/389184",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "C1RZA & Tofik",
+        "watchesCount": 617,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 943872,
+        "url": "https://smotretanime.ru/translations/embed/103211",
+        "language": "original",
+        "quality": "dvd",
+        "author": "RG Genshiken",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1056925,
+        "url": "https://smotretanime.ru/translations/embed/389112",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

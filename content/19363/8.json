@@ -1,0 +1,416 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 654357,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1425284",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Cuba77 & BalFor & Trina_D)",
+        "watchesCount": 391,
+        "uploader": ""
+      },
+      {
+        "id": 714053,
+        "url": "http://vk.com/video_ext.php?oid=-23081559&id=167765041&hash=789b9b2f9ba26c03",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Cuba77 & BalFor & Trina_D)",
+        "watchesCount": 293,
+        "uploader": ""
+      },
+      {
+        "id": 714054,
+        "url": "http://vk.com/video_ext.php?oid=-30500581&id=167970658&hash=8effe4f18af25653",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Absurd & Eladiel",
+        "watchesCount": 1014,
+        "uploader": ""
+      },
+      {
+        "id": 1029436,
+        "url": "https://smotretanime.ru/translations/embed/280909",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Absurd & Eladiel",
+        "watchesCount": 44,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1029447,
+        "url": "https://smotretanime.ru/translations/embed/280920",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Cuba77 & BalFor & Trina_D)",
+        "watchesCount": 521,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1487524,
+        "url": "http://smotretanime.ru/translations/embed/745960",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Cuba77 & BalFor & Trina_D)",
+        "watchesCount": 0,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1605038,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1432626",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (GreyMoon & NesTea)",
+        "watchesCount": 5,
+        "uploader": "Tekatotoki"
+      },
+      {
+        "id": 1605039,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=168501063&hash=761069610a811eb1",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (GreyMoon & NesTea)",
+        "watchesCount": 8,
+        "uploader": "Tekatotoki"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 654348,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1414804",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 63,
+        "uploader": ""
+      },
+      {
+        "id": 714049,
+        "url": "http://vk.com/video_ext.php?oid=-43342147&id=168093558&hash=cd7bccb78015264d",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Kasandra & A.B.K.",
+        "watchesCount": 73,
+        "uploader": ""
+      },
+      {
+        "id": 740975,
+        "url": "http://vk.com/video_ext.php?oid=-67133214&id=168200170&hash=a9b0f44d14916dab",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "A_P Fansub Team",
+        "watchesCount": 134,
+        "uploader": ""
+      },
+      {
+        "id": 915366,
+        "url": "http://vk.com/video_ext.php?oid=-39226968&id=167869615&hash=2607ebde7358f913",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Kasandra & A.B.K.",
+        "watchesCount": 22,
+        "uploader": "kagerou"
+      },
+      {
+        "id": 915377,
+        "url": "http://vk.com/video_ext.php?oid=253149927&id=168229386&hash=edd84395651bc945",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Faceless",
+        "watchesCount": 24,
+        "uploader": "kagerou"
+      },
+      {
+        "id": 1017412,
+        "url": "https://smotretanime.ru/translations/embed/254813",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Hard",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1017423,
+        "url": "https://smotretanime.ru/translations/embed/254824",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Light",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1017434,
+        "url": "https://smotretanime.ru/translations/embed/254836",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Faceless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1017445,
+        "url": "https://smotretanime.ru/translations/embed/254858",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Hariton Harko",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1017456,
+        "url": "https://smotretanime.ru/translations/embed/254870",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Kasandra",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1017467,
+        "url": "https://smotretanime.ru/translations/embed/254881",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Vii",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1029458,
+        "url": "https://smotretanime.ru/translations/embed/280931",
+        "language": "russian",
+        "quality": "bd",
+        "author": "ReinForce",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1029469,
+        "url": "https://smotretanime.ru/translations/embed/280942",
+        "language": "russian",
+        "quality": "bd",
+        "author": "ReinForce",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1044396,
+        "url": "https://smotretanime.ru/translations/embed/360725",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Kasandra & A.B.K.",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1044577,
+        "url": "https://smotretanime.ru/translations/embed/361104",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Vii & Venchik & AniPanic : FanSub Team",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1051716,
+        "url": "https://smotretanime.ru/translations/embed/380377",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1088523,
+        "url": "https://smotretanime.ru/translations/embed/438486",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1088532,
+        "url": "https://smotretanime.ru/translations/embed/438495",
+        "language": "english",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1101486,
+        "url": "https://smotretanime.ru/translations/embed/464389",
+        "language": "russian",
+        "quality": "bd",
+        "author": "ReinForce",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114881,
+        "url": "https://smotretanime.ru/translations/embed/577412",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Hard",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114892,
+        "url": "https://smotretanime.ru/translations/embed/577423",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Light",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114904,
+        "url": "https://smotretanime.ru/translations/embed/577434",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Faceless",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114915,
+        "url": "https://smotretanime.ru/translations/embed/577445",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Hariton Harko",
+        "watchesCount": 82,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114926,
+        "url": "https://smotretanime.ru/translations/embed/577456",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Kasandra",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114937,
+        "url": "https://smotretanime.ru/translations/embed/577467",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Vii",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114948,
+        "url": "https://smotretanime.ru/translations/embed/577500",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114959,
+        "url": "https://smotretanime.ru/translations/embed/577511",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114970,
+        "url": "https://smotretanime.ru/translations/embed/577522",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114981,
+        "url": "https://smotretanime.ru/translations/embed/577533",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1114993,
+        "url": "https://smotretanime.ru/translations/embed/577544",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1115004,
+        "url": "https://smotretanime.ru/translations/embed/577555",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 155,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1115014,
+        "url": "https://smotretanime.ru/translations/embed/577588",
+        "language": "russian",
+        "quality": "tv",
+        "author": "A.B.K. & Shojosei",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1115024,
+        "url": "https://smotretanime.ru/translations/embed/577599",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1017393,
+        "url": "https://smotretanime.ru/translations/embed/254763",
+        "language": "original",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1017482,
+        "url": "https://smotretanime.ru/translations/embed/254930",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1029422,
+        "url": "https://smotretanime.ru/translations/embed/280895",
+        "language": "original",
+        "quality": "bd",
+        "author": "ReinForce",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1250218,
+        "url": "http://smotretanime.ru/translations/embed/886086",
+        "language": "original",
+        "quality": "bd",
+        "author": "ReinForce",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

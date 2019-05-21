@@ -1,0 +1,65 @@
+{
+  "episode": 11,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 704130,
+        "url": "http://video.sibnet.ru/shell.php?videoid=627227",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AnimeGroup (Юки)",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 826872,
+        "url": "http://vk.com/video_ext.php?oid=-16861152&id=163393971&hash=48f7f65eea47c8c1",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 1185894,
+        "url": "https://smotretanime.ru/translations/embed/706820",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 535621,
+        "url": "http://video.sibnet.ru/shell.php?videoid=626688",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": ""
+      },
+      {
+        "id": 956681,
+        "url": "https://smotretanime.ru/translations/embed/127734",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 956689,
+        "url": "https://smotretanime.ru/translations/embed/127743",
+        "language": "original",
+        "quality": "dvd",
+        "author": "CASO",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

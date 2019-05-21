@@ -1,0 +1,65 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 735396,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/begemot91/115/165.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 26,
+        "uploader": ""
+      },
+      {
+        "id": 1372064,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2419898",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": "rfhfgep"
+      },
+      {
+        "id": 1828608,
+        "url": "http://vk.com/video_ext.php?oid=-37074141&id=166054118&hash=8f68b4fef17a2b66",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Дмитрий Толмачёв",
+        "watchesCount": 21,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1003121,
+        "url": "https://smotretanime.ru/translations/embed/233024",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AirMaster",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1119468,
+        "url": "https://smotretanime.ru/translations/embed/591401",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AonE & HQA & N!",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1003120,
+        "url": "https://smotretanime.ru/translations/embed/233023",
+        "language": "original",
+        "quality": "tv",
+        "author": "AonE&HQA&N!",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

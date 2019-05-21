@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 597998,
+        "url": "http://video.sibnet.ru/shell.php?videoid=411840",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 929126,
+        "url": "https://smotretanime.ru/translations/embed/851375",
+        "language": "english",
+        "quality": "tv",
+        "author": "AnY-FnT (Английские субтитры)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 929128,
+        "url": "https://smotretanime.ru/translations/embed/306438",
+        "language": "russian",
+        "quality": "tv",
+        "author": "redbull",
+        "watchesCount": 27,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 929127,
+        "url": "https://smotretanime.ru/translations/embed/437216",
+        "language": "original",
+        "quality": "tv",
+        "author": "AnY-FnT",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

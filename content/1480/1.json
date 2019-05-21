@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 613734,
+        "url": "http://img.mail.ru/r/video2/player_v2.swf?par=http://video.mail.ru/mail/kirioel/8760/$8762",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 6,
+        "uploader": ""
+      },
+      {
+        "id": 1277996,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1694620",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Azazel",
+        "watchesCount": 53,
+        "uploader": "sunwind"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1269104,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1694618",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": "Tomorin"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1247450,
+        "url": "http://smotretanime.ru/translations/embed/866609",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

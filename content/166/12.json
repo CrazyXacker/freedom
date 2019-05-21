@@ -1,0 +1,83 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 793604,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1701835",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "MC Entertainment",
+        "watchesCount": 297,
+        "uploader": ""
+      },
+      {
+        "id": 793630,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1712764",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Сузаку",
+        "watchesCount": 9,
+        "uploader": ""
+      },
+      {
+        "id": 979997,
+        "url": "https://smotretanime.ru/translations/embed/179661",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "MC Entertainment",
+        "watchesCount": 321,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 793579,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1701877",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 42,
+        "uploader": ""
+      },
+      {
+        "id": 1053478,
+        "url": "https://smotretanime.ru/translations/embed/382360",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1116097,
+        "url": "https://smotretanime.ru/translations/embed/581085",
+        "language": "russian",
+        "quality": "bd",
+        "author": "MC Ent. & fixed",
+        "watchesCount": 161,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 979980,
+        "url": "https://smotretanime.ru/translations/embed/179639",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1116073,
+        "url": "https://smotretanime.ru/translations/embed/581033",
+        "language": "original",
+        "quality": "bd",
+        "author": "arkaiz",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

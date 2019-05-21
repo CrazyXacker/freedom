@@ -1,0 +1,65 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 593902,
+        "url": "http://video.sibnet.ru/shell.php?videoid=618477",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 823956,
+        "url": "http://vk.com/video_ext.php?oid=-32105974&id=163074185&hash=a58ffbd958b710d2",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AniDUB (Inspector_Gadjet)",
+        "watchesCount": 37,
+        "uploader": "ASCIZ"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 593901,
+        "url": "http://video.sibnet.ru/shell.php?videoid=617477",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 960404,
+        "url": "https://smotretanime.ru/translations/embed/133958",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1103540,
+        "url": "https://smotretanime.ru/translations/embed/472405",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 960392,
+        "url": "https://smotretanime.ru/translations/embed/133946",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

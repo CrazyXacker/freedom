@@ -1,0 +1,92 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 567722,
+        "url": "http://video.sibnet.ru/shell.php?videoid=553027",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 494,
+        "uploader": ""
+      },
+      {
+        "id": 1183869,
+        "url": "https://smotretanime.ru/translations/embed/704149",
+        "language": "english",
+        "quality": "tv",
+        "author": "Funimation",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1183870,
+        "url": "https://smotretanime.ru/translations/embed/704150",
+        "language": "english",
+        "quality": "tv",
+        "author": "Funimation",
+        "watchesCount": 22,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1251991,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2567485",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zodik",
+        "watchesCount": 178,
+        "uploader": "Zodik2"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 567721,
+        "url": "http://video.sibnet.ru/shell.php?videoid=524098",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 228,
+        "uploader": ""
+      },
+      {
+        "id": 1183871,
+        "url": "https://smotretanime.ru/translations/embed/704151",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 22,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 944751,
+        "url": "https://smotretanime.ru/translations/embed/105232",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1080389,
+        "url": "https://smotretanime.ru/translations/embed/428357",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1230656,
+        "url": "http://smotretanime.ru/translations/embed/759161",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 840028,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1797898",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SHIZA Project (Snowly & Ruri & Aska)",
+        "watchesCount": 4,
+        "uploader": ""
+      },
+      {
+        "id": 1081294,
+        "url": "https://smotretanime.ru/translations/embed/429391",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 35,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1092632,
+        "url": "https://smotretanime.ru/translations/embed/446038",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Snowly & Ruri & Aska)",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1937153,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=171648335&hash=9fc8db2a4b0bebe0",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SHIZA Project (Aska & Snowly & Ruri)",
+        "watchesCount": 1,
+        "uploader": "Hickito"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 839324,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1797514",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": ""
+      },
+      {
+        "id": 1081679,
+        "url": "https://smotretanime.ru/translations/embed/429813",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BO3DYX",
+        "watchesCount": 42,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1081681,
+        "url": "https://smotretanime.ru/translations/embed/429815",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1081680,
+        "url": "https://smotretanime.ru/translations/embed/429814",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

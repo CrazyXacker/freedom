@@ -1,0 +1,38 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1530082,
+        "url": "http://youtube.com/embed/5nSLEEcpQwY",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MeLarie",
+        "watchesCount": 118,
+        "uploader": "Hange Zoe"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1798988,
+        "url": "http://smotretanime.ru/translations/embed/1473928",
+        "language": "english",
+        "quality": "bd",
+        "author": "Clarice",
+        "watchesCount": 17,
+        "uploader": "YuzuruNishimiya"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1798999,
+        "url": "http://smotretanime.ru/translations/embed/1473927",
+        "language": "original",
+        "quality": "bd",
+        "author": "Clarice",
+        "watchesCount": 0,
+        "uploader": "YuzuruNishimiya"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 710230,
+        "url": "http://video.sibnet.ru/shell.php?videoid=479889",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "JAM",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 710282,
+        "url": "http://video.sibnet.ru/shell.php?videoid=479162",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 748872,
+        "url": "http://vk.com/video_ext.php?oid=-13912875&id=162718810&hash=31c51a38d9b338e2",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "JAM",
+        "watchesCount": 444,
+        "uploader": ""
+      },
+      {
+        "id": 969417,
+        "url": "http://vk.com/video_ext.php?oid=-43011590&id=166112775&hash=2ea9032fecfd85ec",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Eniliu & Nuriko",
+        "watchesCount": 422,
+        "uploader": "Sawansa"
+      },
+      {
+        "id": 1091993,
+        "url": "https://smotretanime.ru/translations/embed/444952",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria",
+        "watchesCount": 70,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1097823,
+        "url": "https://smotretanime.ru/translations/embed/454642",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 145,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1846552,
+        "url": "http://vk.com/video_ext.php?oid=-28532279&id=456243487&hash=11a44109f5a5b9c9",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 16,
+        "uploader": "Dale"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1019813,
+        "url": "https://smotretanime.ru/translations/embed/258123",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

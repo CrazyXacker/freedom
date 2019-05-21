@@ -1,0 +1,47 @@
+{
+  "episode": 16,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1842662,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2784455",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Кошка Бестия",
+        "watchesCount": 44,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 939554,
+        "url": "https://smotretanime.ru/translations/embed/94595",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1843949,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2000103",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 939410,
+        "url": "https://smotretanime.ru/translations/embed/94452",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

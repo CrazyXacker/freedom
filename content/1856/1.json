@@ -1,0 +1,45 @@
+{
+  "episode": 1,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 901587,
+        "url": "http://video.sibnet.ru/shell.php?videoid=533395",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 21,
+        "uploader": ""
+      },
+      {
+        "id": 955867,
+        "url": "https://smotretanime.ru/translations/embed/126377",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Ayu Mayu Theater OVA",
+        "watchesCount": 109,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1121063,
+        "url": "https://smotretanime.ru/translations/embed/594321",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Q-R",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 955868,
+        "url": "https://smotretanime.ru/translations/embed/126378",
+        "language": "original",
+        "quality": "tv",
+        "author": "Q-R",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

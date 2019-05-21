@@ -1,0 +1,47 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1842759,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3470978",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 6,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1009547,
+        "url": "https://smotretanime.ru/translations/embed/243354",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1785827,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1637497",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "RaymanM",
+        "watchesCount": 7,
+        "uploader": "Сашка Распутин"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1081725,
+        "url": "https://smotretanime.ru/translations/embed/429869",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

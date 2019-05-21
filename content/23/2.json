@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1260091,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2570856",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zodik",
+        "watchesCount": 7,
+        "uploader": "Zodik2"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 948407,
+        "url": "https://smotretanime.ru/translations/embed/113452",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Ring ni Kakero 1",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1037389,
+        "url": "https://smotretanime.ru/translations/embed/335849",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Harulover (МБВМ) & Trance (МБВМ) & Ramix (МБВМ)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 948401,
+        "url": "https://smotretanime.ru/translations/embed/113446",
+        "language": "original",
+        "quality": "tv",
+        "author": "МБВМ",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

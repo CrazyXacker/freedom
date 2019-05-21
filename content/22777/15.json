@@ -1,0 +1,56 @@
+{
+  "episode": 15,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 836999,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1582361",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Shoker",
+        "watchesCount": 214,
+        "uploader": ""
+      },
+      {
+        "id": 1083532,
+        "url": "https://smotretanime.ru/translations/embed/431916",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 328,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1248785,
+        "url": "http://smotretanime.ru/translations/embed/877415",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Hatsuyuki",
+        "watchesCount": 150,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1248965,
+        "url": "http://smotretanime.ru/translations/embed/878566",
+        "language": "english",
+        "quality": "tv",
+        "author": "Hatsuyuki",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1248786,
+        "url": "http://smotretanime.ru/translations/embed/877416",
+        "language": "original",
+        "quality": "tv",
+        "author": "Hatsuyuki",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

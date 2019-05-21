@@ -1,0 +1,83 @@
+{
+  "episode": 30,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 800867,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1724184",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 367,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 1137767,
+        "url": "https://smotretanime.ru/translations/embed/634504",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 1000,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 801382,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1725244",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Honyaku-subs",
+        "watchesCount": 110,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 939825,
+        "url": "https://smotretanime.ru/translations/embed/95027",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Honyaku-subs",
+        "watchesCount": 132,
+        "uploader": "NerV"
+      },
+      {
+        "id": 940028,
+        "url": "https://smotretanime.ru/translations/embed/95321",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1069168,
+        "url": "https://smotretanime.ru/translations/embed/410444",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1122985,
+        "url": "https://smotretanime.ru/translations/embed/601181",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Kagura",
+        "watchesCount": 48,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 939903,
+        "url": "https://smotretanime.ru/translations/embed/95140",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

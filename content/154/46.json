@@ -1,0 +1,74 @@
+{
+  "episode": 46,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1744196,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2888362",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jetix",
+        "watchesCount": 1015,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1815307,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2888429",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Юки Нацуи",
+        "watchesCount": 11,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1941580,
+        "url": "http://vk.com/video_ext.php?oid=-21707134&id=161267732&hash=3b4691446f393e2b",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Jetix",
+        "watchesCount": 39,
+        "uploader": "Hickito"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 795999,
+        "url": "http://video.sibnet.ru/shell.php?videoid=458848",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Anime Desu FanSub & Dez",
+        "watchesCount": 224,
+        "uploader": "Arimasu"
+      },
+      {
+        "id": 982948,
+        "url": "https://smotretanime.ru/translations/embed/198922",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 87,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 973081,
+        "url": "https://smotretanime.ru/translations/embed/198923",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 973149,
+        "url": "https://smotretanime.ru/translations/embed/199071",
+        "language": "original",
+        "quality": "dvd",
+        "author": "VeryNiuB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

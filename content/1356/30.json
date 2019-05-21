@@ -1,0 +1,74 @@
+{
+  "episode": 30,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1324079,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2489118",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OldFQ (Kallaider)",
+        "watchesCount": 155,
+        "uploader": "naidlek"
+      },
+      {
+        "id": 1452032,
+        "url": "http://smotretanime.ru/translations/embed/835288",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OldFQ (Kallaider)",
+        "watchesCount": 128,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 981265,
+        "url": "https://smotretanime.ru/translations/embed/191489",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 63,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1109978,
+        "url": "https://smotretanime.ru/translations/embed/548184",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "640x480 DivX5",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1911037,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1883680",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AlexMalkavian & Bor & ChuBAKA & Redwolf",
+        "watchesCount": 8,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 969547,
+        "url": "https://smotretanime.ru/translations/embed/191488",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1109977,
+        "url": "https://smotretanime.ru/translations/embed/548183",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

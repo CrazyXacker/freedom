@@ -1,0 +1,74 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 604243,
+        "url": "http://img.mail.ru/r/video2/player_v2.swf?par=http://video.mail.ru/mail/v-moka-v/281/$284",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 708044,
+        "url": "http://video.sibnet.ru/shell.php?videoid=512388",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 28,
+        "uploader": ""
+      },
+      {
+        "id": 862457,
+        "url": "http://vk.com/video_ext.php?oid=-36032446&id=162451131&hash=47d2d5f3a2622b62",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "DiWilliam",
+        "watchesCount": 97,
+        "uploader": "Павел Кравцов"
+      },
+      {
+        "id": 870999,
+        "url": "http://vk.com/video_ext.php?oid=-34600486&id=161910363&hash=92378188325c3a59",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 55,
+        "uploader": "Sawansa"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 708033,
+        "url": "http://video.sibnet.ru/shell.php?videoid=512785",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": ""
+      },
+      {
+        "id": 1230436,
+        "url": "http://smotretanime.ru/translations/embed/758996",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Comments",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1230435,
+        "url": "http://smotretanime.ru/translations/embed/758995",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

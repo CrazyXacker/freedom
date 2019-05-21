@@ -1,0 +1,83 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1262500,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2108797",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OldFQ (Kallaider)",
+        "watchesCount": 133,
+        "uploader": "naidlek"
+      },
+      {
+        "id": 1817397,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2546834",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "StarFlame Studio (Абдул Исмаилов & Майя Мяуриция & Евгений Киян)",
+        "watchesCount": 13,
+        "uploader": "Kurt_Solo"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 736761,
+        "url": "http://video.sibnet.ru/shell.php?videoid=381445",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 946158,
+        "url": "https://smotretanime.ru/translations/embed/107916",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SAINT SEIYA (N)",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 946159,
+        "url": "https://smotretanime.ru/translations/embed/107917",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 44,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1040217,
+        "url": "https://smotretanime.ru/translations/embed/349449",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Anku & Cracknight & mutagenb",
+        "watchesCount": 17,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1057138,
+        "url": "https://smotretanime.ru/translations/embed/389359",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "ZA",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 946006,
+        "url": "https://smotretanime.ru/translations/embed/107763",
+        "language": "original",
+        "quality": "dvd",
+        "author": "ZA",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

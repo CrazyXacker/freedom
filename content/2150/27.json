@@ -1,0 +1,83 @@
+{
+  "episode": 27,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 661884,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1410151",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Профессионально (многоголосый & закадровый перевод)",
+        "watchesCount": 5,
+        "uploader": ""
+      },
+      {
+        "id": 931992,
+        "url": "https://smotretanime.ru/translations/embed/850182",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 931997,
+        "url": "https://smotretanime.ru/translations/embed/648922",
+        "language": "russian",
+        "quality": "tv",
+        "author": "rus_pol_eng_fin_jpn",
+        "watchesCount": 30,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1156543,
+        "url": "https://smotretanime.ru/translations/embed/664468",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 26,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1102499,
+        "url": "https://smotretanime.ru/translations/embed/468545",
+        "language": "russian",
+        "quality": "tv",
+        "author": "jpn",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 931991,
+        "url": "https://smotretanime.ru/translations/embed/850181",
+        "language": "original",
+        "quality": "tv",
+        "author": "TVP-1",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 931998,
+        "url": "https://smotretanime.ru/translations/embed/850184",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1102500,
+        "url": "https://smotretanime.ru/translations/embed/468546",
+        "language": "original",
+        "quality": "tv",
+        "author": "jpn,sub",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

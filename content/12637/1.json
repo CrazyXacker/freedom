@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 1499157,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1004866",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "YakuSub Studio",
+        "watchesCount": 401,
+        "uploader": "Tenno Haruka"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 649829,
+        "url": "http://vk.com/video_ext.php?oid=175708234&id=164348463&hash=449bf333aa54692e",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 254,
+        "uploader": "Karasuma"
+      },
+      {
+        "id": 1470872,
+        "url": "http://vk.com/video_ext.php?oid=150307378&id=456239177&hash=c5db40628f419fb3",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 205,
+        "uploader": "Гость"
+      }
+    ]
+  }
+}

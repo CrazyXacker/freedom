@@ -1,0 +1,83 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 587230,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/10794/10828.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 205,
+        "uploader": ""
+      },
+      {
+        "id": 1708239,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1836400",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Siesta",
+        "watchesCount": 625,
+        "uploader": "Евгений Сагалов"
+      },
+      {
+        "id": 1919322,
+        "url": "http://youtube.com/embed/Sfl_OLeDvEo",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Evdmal",
+        "watchesCount": 33,
+        "uploader": "Evdmal"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1032792,
+        "url": "https://smotretanime.ru/translations/embed/291343",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Tenkose",
+        "watchesCount": 227,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1086749,
+        "url": "https://smotretanime.ru/translations/embed/436090",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 59,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1355511,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1834803",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Tenkose",
+        "watchesCount": 105,
+        "uploader": "kagerou"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 806447,
+        "url": "http://vk.com/video_ext.php?oid=-91680259&id=171009267&hash=1235742b7d830d24",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Tenkose",
+        "watchesCount": 5,
+        "uploader": "Kuroisuki_Sute"
+      },
+      {
+        "id": 965325,
+        "url": "https://smotretanime.ru/translations/embed/142782",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

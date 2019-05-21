@@ -1,0 +1,65 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1534651,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1896376",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Liberal Project (Helona)",
+        "watchesCount": 23,
+        "uploader": "RambessCOM"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1115604,
+        "url": "https://smotretanime.ru/translations/embed/579392",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Palace",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1188408,
+        "url": "https://smotretanime.ru/translations/embed/709893",
+        "language": "english",
+        "quality": "tv",
+        "author": "PCSS",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1248065,
+        "url": "http://smotretanime.ru/translations/embed/873240",
+        "language": "russian",
+        "quality": "tv",
+        "author": "unknown",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1115609,
+        "url": "https://smotretanime.ru/translations/embed/579398",
+        "language": "original",
+        "quality": "tv",
+        "author": "PCSS",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1534585,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2596540",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "RambessCOM"
+      }
+    ]
+  }
+}

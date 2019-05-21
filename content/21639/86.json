@@ -1,0 +1,47 @@
+{
+  "episode": 86,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1842977,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2750526",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay (Mustadio)",
+        "watchesCount": 8,
+        "uploader": "Dale"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1193571,
+        "url": "https://smotretanime.ru/translations/embed/717396",
+        "language": "english",
+        "quality": "tv",
+        "author": "MonoSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1193574,
+        "url": "https://smotretanime.ru/translations/embed/717399",
+        "language": "english",
+        "quality": "tv",
+        "author": "MonoSubs",
+        "watchesCount": 53,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1193570,
+        "url": "https://smotretanime.ru/translations/embed/717395",
+        "language": "original",
+        "quality": "tv",
+        "author": "MonoSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

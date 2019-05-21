@@ -1,0 +1,47 @@
+{
+  "episode": 92,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1842978,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2826982",
+        "language": "russian",
+        "quality": "tv",
+        "author": "DeadLine Studio (Mustadio)",
+        "watchesCount": 9,
+        "uploader": "Dale"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 921932,
+        "url": "https://smotretanime.ru/translations/embed/845749",
+        "language": "english",
+        "quality": "tv",
+        "author": "MonoSubs",
+        "watchesCount": 24,
+        "uploader": "NerV"
+      },
+      {
+        "id": 921933,
+        "url": "https://smotretanime.ru/translations/embed/845760",
+        "language": "original",
+        "quality": "tv",
+        "author": "MonoSubs",
+        "watchesCount": 48,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 921931,
+        "url": "https://smotretanime.ru/translations/embed/845748",
+        "language": "original",
+        "quality": "tv",
+        "author": "MonoSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

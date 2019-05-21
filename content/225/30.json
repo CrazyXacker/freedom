@@ -1,0 +1,47 @@
+{
+  "episode": 30,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 567665,
+        "url": "http://video.sibnet.ru/shell.php?videoid=599673",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 144,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 567664,
+        "url": "http://video.sibnet.ru/shell.php?videoid=544958",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 91,
+        "uploader": ""
+      },
+      {
+        "id": 944755,
+        "url": "https://smotretanime.ru/translations/embed/105249",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dragon_Ball_GT",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1139987,
+        "url": "https://smotretanime.ru/translations/embed/639083",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

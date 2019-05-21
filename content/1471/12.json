@@ -1,0 +1,56 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1912233,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3557417",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 7,
+        "uploader": "Юлия Калимулина"
+      },
+      {
+        "id": 1912234,
+        "url": "http://vk.com/video_ext.php?oid=-53947445&id=456242343&hash=7eace2a7f34605fc",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 44,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 834573,
+        "url": "http://vk.com/video_ext.php?oid=-46773812&id=164540168&hash=eb63e11dbb847d47",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 14,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 1529773,
+        "url": "http://smotretanime.ru/translations/embed/472940",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 142,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1529889,
+        "url": "http://smotretanime.ru/translations/embed/1158106",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

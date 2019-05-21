@@ -1,0 +1,38 @@
+{
+  "episode": 170,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1649780,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3036690",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CactusTeam (Miori)",
+        "watchesCount": 50,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 923024,
+        "url": "https://smotretanime.ru/translations/embed/847133",
+        "language": "english",
+        "quality": "tv",
+        "author": "Mezashite",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 923025,
+        "url": "https://smotretanime.ru/translations/embed/847132",
+        "language": "original",
+        "quality": "tv",
+        "author": "Mezashite",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

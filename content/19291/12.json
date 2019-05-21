@@ -1,0 +1,47 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1732564,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2586310",
+        "language": "russian",
+        "quality": "tv",
+        "author": "2x2",
+        "watchesCount": 139,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1051168,
+        "url": "https://smotretanime.ru/translations/embed/379610",
+        "language": "english",
+        "quality": "tv",
+        "author": "PM",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1721145,
+        "url": "http://smotretanime.ru/translations/embed/1552872",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FRT Sora",
+        "watchesCount": 17,
+        "uploader": "Warrior"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1051167,
+        "url": "https://smotretanime.ru/translations/embed/379609",
+        "language": "original",
+        "quality": "tv",
+        "author": "PM",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

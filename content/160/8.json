@@ -1,0 +1,56 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 587216,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/10794/10849.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 30,
+        "uploader": ""
+      },
+      {
+        "id": 1708246,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1836408",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Siesta",
+        "watchesCount": 238,
+        "uploader": "Евгений Сагалов"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1355518,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1834811",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Tenkose",
+        "watchesCount": 197,
+        "uploader": "kagerou"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 815706,
+        "url": "http://vk.com/video_ext.php?oid=-40147135&id=167788490&hash=94df560444d6be63",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 22,
+        "uploader": "SkywalterDBZ"
+      },
+      {
+        "id": 965330,
+        "url": "https://smotretanime.ru/translations/embed/142787",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

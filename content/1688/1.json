@@ -1,0 +1,83 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 604249,
+        "url": "http://img.mail.ru/r/video2/player_v2.swf?par=http://video.mail.ru/mail/v-moka-v/281/$282",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 25,
+        "uploader": ""
+      },
+      {
+        "id": 708042,
+        "url": "http://video.sibnet.ru/shell.php?videoid=512361",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 106,
+        "uploader": ""
+      },
+      {
+        "id": 862455,
+        "url": "http://vk.com/video_ext.php?oid=-36032446&id=162389325&hash=086dc509d1810cc5",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "DiWilliam",
+        "watchesCount": 432,
+        "uploader": "Павел Кравцов"
+      },
+      {
+        "id": 870994,
+        "url": "http://vk.com/video_ext.php?oid=-28532279&id=161947251&hash=50d3d404f3c2ee69",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 103,
+        "uploader": "Sawansa"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 708031,
+        "url": "http://video.sibnet.ru/shell.php?videoid=512659",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 38,
+        "uploader": ""
+      },
+      {
+        "id": 1230459,
+        "url": "http://smotretanime.ru/translations/embed/759078",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Comments",
+        "watchesCount": 29,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1230458,
+        "url": "http://smotretanime.ru/translations/embed/759077",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1248720,
+        "url": "http://smotretanime.ru/translations/embed/876918",
+        "language": "original",
+        "quality": "tv",
+        "author": "GPAC ISO Audio Handler",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

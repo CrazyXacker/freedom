@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 684809,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1223361",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "MCShamaN",
+        "watchesCount": 2705,
+        "uploader": ""
+      },
+      {
+        "id": 1906715,
+        "url": "http://ok.ru/videoembed/240399682110",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MCShamaN",
+        "watchesCount": 36,
+        "uploader": "sss111"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 685115,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1222531",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 718,
+        "uploader": ""
+      },
+      {
+        "id": 1547020,
+        "url": "http://smotretanime.ru/translations/embed/1387203",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 875,
+        "uploader": "я котик"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1241244,
+        "url": "http://smotretanime.ru/translations/embed/840900",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1241248,
+        "url": "http://smotretanime.ru/translations/embed/841065",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 23,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

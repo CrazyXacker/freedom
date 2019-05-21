@@ -1,0 +1,56 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1842052,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3324772",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Azazel & Oriko)",
+        "watchesCount": 39,
+        "uploader": "U-Gene"
+      },
+      {
+        "id": 1842650,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2784303",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Кошка Бестия",
+        "watchesCount": 2,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 939569,
+        "url": "https://smotretanime.ru/translations/embed/94610",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1843938,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2000072",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 14,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 939382,
+        "url": "https://smotretanime.ru/translations/embed/94425",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

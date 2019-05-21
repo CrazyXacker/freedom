@@ -1,0 +1,56 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 665279,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1377637",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Cимбад",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1077998,
+        "url": "https://smotretanime.ru/translations/embed/425477",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 625010,
+        "url": "http://vk.com/video_ext.php?oid=-43342147&id=166358534&hash=ce012078046b002d",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 933938,
+        "url": "https://smotretanime.ru/translations/embed/44950",
+        "language": "english",
+        "quality": "tv",
+        "author": "Ruri-Saizen (Английские субтитры)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 933928,
+        "url": "https://smotretanime.ru/translations/embed/44938",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ruri-Saizen",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

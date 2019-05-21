@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 698998,
+        "url": "http://video.sibnet.ru/shell.php?videoid=777902",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Профессиональный (одноголосый)",
+        "watchesCount": 498,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 698996,
+        "url": "http://video.sibnet.ru/shell.php?videoid=777837",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 7,
+        "uploader": ""
+      },
+      {
+        "id": 1011099,
+        "url": "https://smotretanime.ru/translations/embed/245667",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Angel's Feather",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1011100,
+        "url": "https://smotretanime.ru/translations/embed/245668",
+        "language": "original",
+        "quality": "tv",
+        "author": "aarinfantasy",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "episode": 42,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 793748,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1546130",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Gerale",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1043801,
+        "url": "https://smotretanime.ru/translations/embed/359497",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1918211,
+        "url": "http://vk.com/video_ext.php?oid=322059420&id=456239769&hash=7f12904866afc9f7",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "Ази-Дахака"
+      },
+      {
+        "id": 1918801,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3560755",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Ази-Дахака"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 958817,
+        "url": "https://smotretanime.ru/translations/embed/131349",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1918043,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3559701",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Ази-Дахака"
+      },
+      {
+        "id": 1918095,
+        "url": "http://vk.com/video_ext.php?oid=322059420&id=456239671&hash=d22ff75e69dc4bad",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Ази-Дахака"
+      }
+    ]
+  }
+}

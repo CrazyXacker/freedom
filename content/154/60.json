@@ -1,0 +1,83 @@
+{
+  "episode": 60,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1744210,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2888401",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jetix",
+        "watchesCount": 758,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1886442,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3518244",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Юки Нацуи",
+        "watchesCount": 4,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1941595,
+        "url": "http://vk.com/video_ext.php?oid=-21707134&id=161267973&hash=b2f11e154c9dd1a6",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Jetix",
+        "watchesCount": 29,
+        "uploader": "Hickito"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 796013,
+        "url": "http://video.sibnet.ru/shell.php?videoid=460883",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Anime Desu FanSub & Dez",
+        "watchesCount": 202,
+        "uploader": "Arimasu"
+      },
+      {
+        "id": 973175,
+        "url": "https://smotretanime.ru/translations/embed/199098",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 135,
+        "uploader": "NerV"
+      },
+      {
+        "id": 982962,
+        "url": "https://smotretanime.ru/translations/embed/198950",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 973096,
+        "url": "https://smotretanime.ru/translations/embed/198951",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 973176,
+        "url": "https://smotretanime.ru/translations/embed/199099",
+        "language": "original",
+        "quality": "dvd",
+        "author": "VeryNiuB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "episode": 19,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 800889,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1724171",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 468,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 1069179,
+        "url": "https://smotretanime.ru/translations/embed/410464",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (JAM) (+ субтитры)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1137730,
+        "url": "https://smotretanime.ru/translations/embed/634467",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 1250,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 801010,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1725222",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Honyaku-subs",
+        "watchesCount": 138,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 939818,
+        "url": "https://smotretanime.ru/translations/embed/95016",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Honyaku-subs",
+        "watchesCount": 76,
+        "uploader": "NerV"
+      },
+      {
+        "id": 940048,
+        "url": "https://smotretanime.ru/translations/embed/95341",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 104,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1122978,
+        "url": "https://smotretanime.ru/translations/embed/601170",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Kagura",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 939836,
+        "url": "https://smotretanime.ru/translations/embed/95057",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 939865,
+        "url": "https://smotretanime.ru/translations/embed/95102",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1123041,
+        "url": "https://smotretanime.ru/translations/embed/601271",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

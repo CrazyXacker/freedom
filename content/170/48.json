@@ -1,0 +1,83 @@
+{
+  "episode": 48,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 800792,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1724204",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 305,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 1069400,
+        "url": "https://smotretanime.ru/translations/embed/410765",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (JAM) (+ субтитры)",
+        "watchesCount": 56,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1137768,
+        "url": "https://smotretanime.ru/translations/embed/634505",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 825,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 801400,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1725277",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Honyaku-subs",
+        "watchesCount": 113,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 939989,
+        "url": "https://smotretanime.ru/translations/embed/95282",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1069162,
+        "url": "https://smotretanime.ru/translations/embed/410438",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 29,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1122999,
+        "url": "https://smotretanime.ru/translations/embed/601199",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Kagura",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 939918,
+        "url": "https://smotretanime.ru/translations/embed/95155",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

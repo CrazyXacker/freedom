@@ -1,0 +1,101 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 602765,
+        "url": "http://video.sibnet.ru/shell.php?videoid=446686",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 134,
+        "uploader": ""
+      },
+      {
+        "id": 1670525,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3225084",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OldFQ (Kallaider)",
+        "watchesCount": 102,
+        "uploader": "naidlek"
+      },
+      {
+        "id": 1844653,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2263347",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "OpenDub (VoknorovNikola)",
+        "watchesCount": 13,
+        "uploader": "Dale"
+      },
+      {
+        "id": 1903539,
+        "url": "http://vk.com/video_ext.php?oid=-99371689&id=456239499&hash=44adfe39191dec3a",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "OldFQ (Kallaider)",
+        "watchesCount": 46,
+        "uploader": "naidlek"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 992916,
+        "url": "https://smotretanime.ru/translations/embed/218264",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Salaryman Kintarou",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1038284,
+        "url": "https://smotretanime.ru/translations/embed/340842",
+        "language": "russian",
+        "quality": "tv",
+        "author": "tadeus",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1124387,
+        "url": "https://smotretanime.ru/translations/embed/605836",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 42,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1243535,
+        "url": "http://smotretanime.ru/translations/embed/848449",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OpenDub",
+        "watchesCount": 17,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 992902,
+        "url": "https://smotretanime.ru/translations/embed/218250",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1243534,
+        "url": "http://smotretanime.ru/translations/embed/848448",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

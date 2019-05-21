@@ -1,0 +1,47 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1534654,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2565028",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Liberal Project (Helona)",
+        "watchesCount": 35,
+        "uploader": "RambessCOM"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1832961,
+        "url": "http://smotretanime.ru/translations/embed/873243",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 6,
+        "uploader": "FrozenAngel"
+      },
+      {
+        "id": 1832962,
+        "url": "http://smotretanime.ru/translations/embed/1758157",
+        "language": "english",
+        "quality": "tv",
+        "author": "PCSS",
+        "watchesCount": 0,
+        "uploader": "FrozenAngel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1534589,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2596543",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "RambessCOM"
+      }
+    ]
+  }
+}

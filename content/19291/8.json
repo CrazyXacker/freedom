@@ -1,0 +1,47 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1732560,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2586278",
+        "language": "russian",
+        "quality": "tv",
+        "author": "2x2",
+        "watchesCount": 153,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1084979,
+        "url": "https://smotretanime.ru/translations/embed/433803",
+        "language": "english",
+        "quality": "tv",
+        "author": "PM",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1719658,
+        "url": "http://smotretanime.ru/translations/embed/359444",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Inokenty & Schum",
+        "watchesCount": 183,
+        "uploader": "Warrior"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1084978,
+        "url": "https://smotretanime.ru/translations/embed/433802",
+        "language": "original",
+        "quality": "tv",
+        "author": "PM",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 691236,
+        "url": "http://video.sibnet.ru/shell.php?videoid=611496",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "MCShamaN",
+        "watchesCount": 23,
+        "uploader": ""
+      },
+      {
+        "id": 691255,
+        "url": "http://video.sibnet.ru/shell.php?videoid=582724",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Shoker",
+        "watchesCount": 54,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 750006,
+        "url": "http://video.sibnet.ru/shell.php?videoid=585406",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 946347,
+        "url": "https://smotretanime.ru/translations/embed/108594",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1181984,
+        "url": "https://smotretanime.ru/translations/embed/702061",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 946407,
+        "url": "https://smotretanime.ru/translations/embed/108654",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

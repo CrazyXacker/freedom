@@ -1,0 +1,56 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 800908,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1724144",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 480,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 1137732,
+        "url": "https://smotretanime.ru/translations/embed/634469",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 1848,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 800996,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1725194",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Honyaku-subs",
+        "watchesCount": 247,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 1673367,
+        "url": "http://smotretanime.ru/translations/embed/95004",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Honyaku-subs",
+        "watchesCount": 150,
+        "uploader": "Ger4og"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 939853,
+        "url": "https://smotretanime.ru/translations/embed/95091",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,938 @@
+{
+  "episode": 459,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1261392,
+        "url": "http://smotretanime.ru/translations/embed/918346",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 145,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261413,
+        "url": "http://smotretanime.ru/translations/embed/918351",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 168,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261523,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2574300",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (OVERLORDS)",
+        "watchesCount": 31,
+        "uploader": "Yukiko Yachi"
+      },
+      {
+        "id": 1261569,
+        "url": "http://vk.com/video_ext.php?oid=-50452265&id=456239094&hash=0d4b4373d4c46fa6",
+        "language": "russian",
+        "quality": "tv",
+        "author": "WAT Studio (AnubiasDK & TwistedMind)",
+        "watchesCount": 41,
+        "uploader": "AnubiasDK"
+      },
+      {
+        "id": 1261594,
+        "url": "http://vk.com/video_ext.php?oid=-25001687&id=456239029&hash=eb0ae21fe3338745",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Rain.Death",
+        "watchesCount": 522,
+        "uploader": "Steve_Ostin"
+      },
+      {
+        "id": 1261640,
+        "url": "http://smotretanime.ru/translations/embed/918453",
+        "language": "russian",
+        "quality": "tv",
+        "author": "WAT Studio",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261889,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2576840",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SHIZA Project (NIKITOS)",
+        "watchesCount": 196,
+        "uploader": ""
+      },
+      {
+        "id": 1262252,
+        "url": "http://vk.com/video_ext.php?oid=-37468416&id=456239306&hash=20ff296a0ac05eae",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lupin & Silv)",
+        "watchesCount": 2401,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1263006,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2579090",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Ancord)",
+        "watchesCount": 1441,
+        "uploader": ""
+      },
+      {
+        "id": 1280719,
+        "url": "http://vk.com/video_ext.php?oid=-34269876&id=456239048&hash=c721c77f02fe4f4e",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ancord)",
+        "watchesCount": 6918,
+        "uploader": "Jactito Meta"
+      },
+      {
+        "id": 1307821,
+        "url": "http://smotretanime.ru/translations/embed/978431",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ancord)",
+        "watchesCount": 1320,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1338735,
+        "url": "http://smotretanime.ru/translations/embed/1067005",
+        "language": "russian",
+        "quality": "tv",
+        "author": "WAT Studio",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1341686,
+        "url": "http://smotretanime.ru/translations/embed/1072224",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (NIKITOS)",
+        "watchesCount": 254,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1773910,
+        "url": "http://vk.com/video_ext.php?oid=-11374984&id=456239058&hash=1228945d5365698b",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Naruto-Base (FaSt)",
+        "watchesCount": 114,
+        "uploader": "Meztinos"
+      },
+      {
+        "id": 1812641,
+        "url": "http://vk.com/video_ext.php?oid=-15925276&id=456239107&hash=4cf8623e78eb3b2b",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (NIKITOS)",
+        "watchesCount": 116,
+        "uploader": "Ruwasu"
+      },
+      {
+        "id": 1912431,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2574564",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lupin & Silv)",
+        "watchesCount": 1,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1261367,
+        "url": "http://smotretanime.ru/translations/embed/918333",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 19,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261408,
+        "url": "http://smotretanime.ru/translations/embed/918348",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 84,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261503,
+        "url": "http://smotretanime.ru/translations/embed/918401",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261505,
+        "url": "http://smotretanime.ru/translations/embed/918404",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 414,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261617,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2574395",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 70,
+        "uploader": ""
+      },
+      {
+        "id": 1261635,
+        "url": "http://smotretanime.ru/translations/embed/918428",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261647,
+        "url": "http://smotretanime.ru/translations/embed/918437",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 106,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261887,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2576843",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 75,
+        "uploader": ""
+      },
+      {
+        "id": 1261953,
+        "url": "http://smotretanime.ru/translations/embed/918719",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261954,
+        "url": "http://smotretanime.ru/translations/embed/918718",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261955,
+        "url": "http://smotretanime.ru/translations/embed/918682",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 420,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1269085,
+        "url": "http://smotretanime.ru/translations/embed/926881",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Faktoreal & PunisherFPS69 & Salender & FixeR & Frodo-Ich & Stan WarHammer",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1298456,
+        "url": "http://smotretanime.ru/translations/embed/969612",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1298462,
+        "url": "http://smotretanime.ru/translations/embed/969627",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1298727,
+        "url": "http://smotretanime.ru/translations/embed/969945",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1298737,
+        "url": "http://smotretanime.ru/translations/embed/969930",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299343,
+        "url": "http://smotretanime.ru/translations/embed/970763",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299346,
+        "url": "http://smotretanime.ru/translations/embed/970779",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299891,
+        "url": "http://smotretanime.ru/translations/embed/971303",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299900,
+        "url": "http://smotretanime.ru/translations/embed/971319",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1301157,
+        "url": "http://smotretanime.ru/translations/embed/972409",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1301166,
+        "url": "http://smotretanime.ru/translations/embed/972393",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1302843,
+        "url": "http://smotretanime.ru/translations/embed/973906",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1302848,
+        "url": "http://smotretanime.ru/translations/embed/973888",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1302964,
+        "url": "http://smotretanime.ru/translations/embed/974031",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1302977,
+        "url": "http://smotretanime.ru/translations/embed/974049",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303239,
+        "url": "http://smotretanime.ru/translations/embed/974373",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303284,
+        "url": "http://smotretanime.ru/translations/embed/974355",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304210,
+        "url": "http://smotretanime.ru/translations/embed/975004",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304222,
+        "url": "http://smotretanime.ru/translations/embed/975022",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306001,
+        "url": "http://smotretanime.ru/translations/embed/976520",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306052,
+        "url": "http://smotretanime.ru/translations/embed/976502",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 32,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306897,
+        "url": "http://smotretanime.ru/translations/embed/977363",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306907,
+        "url": "http://smotretanime.ru/translations/embed/977382",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306961,
+        "url": "http://smotretanime.ru/translations/embed/977451",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306974,
+        "url": "http://smotretanime.ru/translations/embed/977470",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1307308,
+        "url": "http://smotretanime.ru/translations/embed/977800",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1307319,
+        "url": "http://smotretanime.ru/translations/embed/977819",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1307992,
+        "url": "http://smotretanime.ru/translations/embed/978802",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308002,
+        "url": "http://smotretanime.ru/translations/embed/978821",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313843,
+        "url": "http://smotretanime.ru/translations/embed/986169",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313856,
+        "url": "http://smotretanime.ru/translations/embed/986149",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315495,
+        "url": "http://smotretanime.ru/translations/embed/987720",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315510,
+        "url": "http://smotretanime.ru/translations/embed/987740",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316506,
+        "url": "http://smotretanime.ru/translations/embed/988494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316512,
+        "url": "http://smotretanime.ru/translations/embed/988472",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316782,
+        "url": "http://smotretanime.ru/translations/embed/989223",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316794,
+        "url": "http://smotretanime.ru/translations/embed/989244",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317452,
+        "url": "http://smotretanime.ru/translations/embed/989787",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317477,
+        "url": "http://smotretanime.ru/translations/embed/989808",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318571,
+        "url": "http://smotretanime.ru/translations/embed/991248",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318586,
+        "url": "http://smotretanime.ru/translations/embed/991227",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329371,
+        "url": "http://smotretanime.ru/translations/embed/1013871",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329412,
+        "url": "http://smotretanime.ru/translations/embed/1013903",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329667,
+        "url": "http://smotretanime.ru/translations/embed/1014306",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329710,
+        "url": "http://smotretanime.ru/translations/embed/1014330",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330506,
+        "url": "http://smotretanime.ru/translations/embed/1015377",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330536,
+        "url": "http://smotretanime.ru/translations/embed/1015401",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1332216,
+        "url": "http://smotretanime.ru/translations/embed/1042756",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1332243,
+        "url": "http://smotretanime.ru/translations/embed/1042781",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1335866,
+        "url": "http://smotretanime.ru/translations/embed/1058201",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1335886,
+        "url": "http://smotretanime.ru/translations/embed/1058230",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1335935,
+        "url": "http://smotretanime.ru/translations/embed/1059134",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1335959,
+        "url": "http://smotretanime.ru/translations/embed/1059165",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1336356,
+        "url": "http://smotretanime.ru/translations/embed/1060218",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1336493,
+        "url": "http://smotretanime.ru/translations/embed/1060190",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1338993,
+        "url": "http://smotretanime.ru/translations/embed/1067087",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1339007,
+        "url": "http://smotretanime.ru/translations/embed/1067056",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Redgar-firegorn & 8Bochan8 & Achivary & Igorek1102 & Nucha & UzurpatorKel",
+        "watchesCount": 106,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1341682,
+        "url": "http://smotretanime.ru/translations/embed/1018203",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1203,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376075,
+        "url": "http://smotretanime.ru/translations/embed/1115304",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376076,
+        "url": "http://smotretanime.ru/translations/embed/1115292",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Faktoreal & PunisherFPS69 & Salender & FixeR & Frodo-Ich & Stan WarHammer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376117,
+        "url": "http://smotretanime.ru/translations/embed/1115326",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Faktoreal & PunisherFPS69 & Salender & FixeR & Frodo-Ich & Stan WarHammer",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376640,
+        "url": "http://smotretanime.ru/translations/embed/1116011",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Faktoreal & PunisherFPS69 & Salender & FixeR & Frodo-Ich & Stan WarHammer",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1378248,
+        "url": "http://smotretanime.ru/translations/embed/1118191",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Faktoreal & PunisherFPS69 & Salender & FixeR & Frodo-Ich & Stan WarHammer",
+        "watchesCount": 162,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1835692,
+        "url": "http://vk.com/video_ext.php?oid=-463673&id=456239215&hash=1ff6ce93d78747b0",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 644,
+        "uploader": "sēarian"
+      },
+      {
+        "id": 1912378,
+        "url": "http://www.myvi.top/embed/kiese8yxp7uwtmtgufgtsd9f5w",
+        "language": "russian",
+        "quality": "tv",
+        "author": "блиннуукк & Jimm",
+        "watchesCount": 0,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1912379,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2574349",
+        "language": "russian",
+        "quality": "tv",
+        "author": "блиннуукк & Jimm",
+        "watchesCount": 0,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1926918,
+        "url": "http://www.myvi.top/embed/prxxr5ixpjmr8x4a4erinau6rh",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Firegorn Team",
+        "watchesCount": 17,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1927794,
+        "url": "http://mp4upload.com/embed-q4kaptn9gy8y.html",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Firegorn Team",
+        "watchesCount": 3,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1261368,
+        "url": "http://smotretanime.ru/translations/embed/918332",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261407,
+        "url": "http://smotretanime.ru/translations/embed/918350",
+        "language": "original",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261409,
+        "url": "http://smotretanime.ru/translations/embed/918349",
+        "language": "original",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1261956,
+        "url": "http://smotretanime.ru/translations/embed/918684",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1337325,
+        "url": "http://smotretanime.ru/translations/embed/1063312",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1341683,
+        "url": "http://smotretanime.ru/translations/embed/1018204",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376077,
+        "url": "http://smotretanime.ru/translations/embed/1115298",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1432607,
+        "url": "http://smotretanime.ru/translations/embed/1163441",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

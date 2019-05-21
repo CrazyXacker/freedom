@@ -1,0 +1,38 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1813271,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3138770",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 16,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1784636,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1637479",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "RaymanM",
+        "watchesCount": 13,
+        "uploader": "Сашка Распутин"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1245836,
+        "url": "http://smotretanime.ru/translations/embed/855870",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}
