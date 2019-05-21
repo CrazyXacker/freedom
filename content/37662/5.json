@@ -1,0 +1,74 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1945469,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3595881",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 1,
+        "uploader": "ЗЕФNR"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1800894,
+        "url": "http://smotretanime.ru/translations/embed/1895508",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1800895,
+        "url": "http://smotretanime.ru/translations/embed/1895485",
+        "language": "english",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1801087,
+        "url": "http://smotretanime.ru/translations/embed/1894849",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1800896,
+        "url": "http://smotretanime.ru/translations/embed/1895507",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1801086,
+        "url": "http://smotretanime.ru/translations/embed/1894850",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1801141,
+        "url": "http://smotretanime.ru/translations/embed/1895875",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

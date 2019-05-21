@@ -1,0 +1,47 @@
+{
+  "episode": 11,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1875894,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3509915",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Эйс)",
+        "watchesCount": 32,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1873549,
+        "url": "http://smotretanime.ru/translations/embed/2061117",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 8,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1887237,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3528008",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 11,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1873503,
+        "url": "http://smotretanime.ru/translations/embed/2061026",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1868812,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3501543",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 89,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1873012,
+        "url": "http://smotretanime.ru/translations/embed/2046788",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 38,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1873598,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3507435",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Lonely Dragon)",
+        "watchesCount": 109,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1892621,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3534614",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 11,
+        "uploader": "ЗЕФNR"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1868847,
+        "url": "http://smotretanime.ru/translations/embed/2046850",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 33,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1872866,
+        "url": "http://smotretanime.ru/translations/embed/2059529",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 15,
+        "uploader": "Fleaurenta"
+      },
+      {
+        "id": 1873071,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3506847",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 59,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1868848,
+        "url": "http://smotretanime.ru/translations/embed/2046851",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

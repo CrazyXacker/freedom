@@ -1,0 +1,45 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1948696,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3599184",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Tina",
+        "watchesCount": 21,
+        "uploader": "Tina"
+      },
+      {
+        "id": 1957248,
+        "url": "http://vk.com/video_ext.php?oid=-52680906&id=456240462&hash=be7c451667d472eb",
+        "language": "russian",
+        "quality": "web",
+        "author": "Tina",
+        "watchesCount": 0,
+        "uploader": "one season per night"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1838058,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3463087",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 90,
+        "uploader": "Айрин Вольф"
+      },
+      {
+        "id": 1957241,
+        "url": "http://vk.com/video_ext.php?oid=217468265&id=456239965&hash=3a0f46f18e028b7a",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "one season per night"
+      }
+    ]
+  }
+}

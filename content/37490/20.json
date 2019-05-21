@@ -1,0 +1,56 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1920935,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3565517",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 161,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1921810,
+        "url": "http://smotretanime.ru/translations/embed/2320332",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 43,
+        "uploader": "Dyrel Berg"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1921087,
+        "url": "http://smotretanime.ru/translations/embed/2320635",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 21,
+        "uploader": "Dyrel Berg"
+      },
+      {
+        "id": 1928198,
+        "url": "http://smotretanime.ru/translations/embed/2329951",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 39,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1921089,
+        "url": "http://smotretanime.ru/translations/embed/2320636",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "Dyrel Berg"
+      }
+    ]
+  }
+}

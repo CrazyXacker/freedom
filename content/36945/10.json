@@ -1,0 +1,65 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1875893,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3509911",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Эйс)",
+        "watchesCount": 27,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1875913,
+        "url": "http://vk.com/video_ext.php?oid=-46949318&id=456244283&hash=59d4c5c5aa314328",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Эйс)",
+        "watchesCount": 13,
+        "uploader": "Ruwasu"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1869669,
+        "url": "http://smotretanime.ru/translations/embed/2048417",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 11,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1887236,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3528007",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 10,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1869534,
+        "url": "http://smotretanime.ru/translations/embed/2048338",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1869668,
+        "url": "http://smotretanime.ru/translations/embed/2048418",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

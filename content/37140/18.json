@@ -1,0 +1,83 @@
+{
+  "episode": 18,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1791770,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3406284",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 29,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1791776,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3406325",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Zunder)",
+        "watchesCount": 61,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1792036,
+        "url": "http://smotretanime.ru/translations/embed/1884436",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 56,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1791760,
+        "url": "http://smotretanime.ru/translations/embed/1884380",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 5,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1795540,
+        "url": "http://smotretanime.ru/translations/embed/1889199",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anidesu Team",
+        "watchesCount": 25,
+        "uploader": "Nanammi"
+      },
+      {
+        "id": 1841532,
+        "url": "http://smotretanime.ru/translations/embed/1902788",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 14,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1791761,
+        "url": "http://smotretanime.ru/translations/embed/1884381",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1792035,
+        "url": "http://smotretanime.ru/translations/embed/1884362",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1737416,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3305801",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 11,
+        "uploader": "Lina Fair"
+      },
+      {
+        "id": 1753573,
+        "url": "http://ok.ru/videoembed/1431994501713",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 0,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1729089,
+        "url": "http://smotretanime.ru/translations/embed/1791520",
+        "language": "english",
+        "quality": "web",
+        "author": "Erai-raws",
+        "watchesCount": 2,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1729090,
+        "url": "http://smotretanime.ru/translations/embed/1791531",
+        "language": "russian",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1729088,
+        "url": "http://smotretanime.ru/translations/embed/1791530",
+        "language": "original",
+        "quality": "web",
+        "author": "Erai-raws",
+        "watchesCount": 5,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1729100,
+        "url": "http://smotretanime.ru/translations/embed/1792596",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

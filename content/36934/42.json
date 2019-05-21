@@ -1,0 +1,74 @@
+{
+  "episode": 42,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1892100,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3533834",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Horie)",
+        "watchesCount": 177,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1892634,
+        "url": "http://smotretanime.ru/translations/embed/2222607",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Horie)",
+        "watchesCount": 71,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1902637,
+        "url": "http://smotretanime.ru/translations/embed/2259116",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 7,
+        "uploader": "diozavrik"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1902634,
+        "url": "http://smotretanime.ru/translations/embed/2225138",
+        "language": "english",
+        "quality": "tv",
+        "author": "DeadFish",
+        "watchesCount": 0,
+        "uploader": "diozavrik"
+      },
+      {
+        "id": 1902636,
+        "url": "http://smotretanime.ru/translations/embed/2224941",
+        "language": "english",
+        "quality": "tv",
+        "author": "CTF",
+        "watchesCount": 1,
+        "uploader": "diozavrik"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1892633,
+        "url": "http://smotretanime.ru/translations/embed/2223168",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1902635,
+        "url": "http://smotretanime.ru/translations/embed/2224942",
+        "language": "original",
+        "quality": "tv",
+        "author": "CTF",
+        "watchesCount": 0,
+        "uploader": "diozavrik"
+      }
+    ]
+  }
+}

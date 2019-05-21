@@ -1,0 +1,56 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1891962,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3517087",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "LE-Production",
+        "watchesCount": 23,
+        "uploader": "Kiol"
+      },
+      {
+        "id": 1900435,
+        "url": "http://smotretanime.ru/translations/embed/2265037",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMaunt (leoneo & Veda)",
+        "watchesCount": 21,
+        "uploader": "leoneo"
+      },
+      {
+        "id": 1900438,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3542296",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMaunt (leoneo & Veda)",
+        "watchesCount": 13,
+        "uploader": "leoneo"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1871197,
+        "url": "http://vk.com/video_ext.php?oid=218250315&id=456239339&hash=eeca7b0358307a08",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 58,
+        "uploader": "Parart"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1870564,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3504779",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": "Parart"
+      }
+    ]
+  }
+}

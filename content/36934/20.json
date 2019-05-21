@@ -1,0 +1,92 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1806693,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3416660",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Zunder)",
+        "watchesCount": 251,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1806852,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3416936",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Horie)",
+        "watchesCount": 99,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1815342,
+        "url": "http://smotretanime.ru/translations/embed/1922454",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Horie)",
+        "watchesCount": 106,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1845382,
+        "url": "http://vk.com/video_ext.php?oid=-131670045&id=456240454&hash=82b866251d905192",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Horie)",
+        "watchesCount": 38,
+        "uploader": "Dale"
+      },
+      {
+        "id": 1845383,
+        "url": "http://vk.com/video_ext.php?oid=-148949790&id=456239162&hash=928d0fc318dfca74",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Zunder)",
+        "watchesCount": 33,
+        "uploader": "Dale"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1838517,
+        "url": "http://smotretanime.ru/translations/embed/1949821",
+        "language": "english",
+        "quality": "tv",
+        "author": "DeadFish",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1838519,
+        "url": "http://smotretanime.ru/translations/embed/1909035",
+        "language": "english",
+        "quality": "tv",
+        "author": "CTF",
+        "watchesCount": 6,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1838516,
+        "url": "http://smotretanime.ru/translations/embed/1906302",
+        "language": "original",
+        "quality": "tv",
+        "author": "CTF",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1838518,
+        "url": "http://smotretanime.ru/translations/embed/1905923",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

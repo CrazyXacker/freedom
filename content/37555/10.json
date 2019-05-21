@@ -1,0 +1,65 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1879692,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3515808",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 104,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1886390,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3525930",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Gecep & Vel)",
+        "watchesCount": 227,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1882903,
+        "url": "http://smotretanime.ru/translations/embed/2173370",
+        "language": "english",
+        "quality": "tv",
+        "author": "DeadFish",
+        "watchesCount": 2,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1879662,
+        "url": "http://smotretanime.ru/translations/embed/2136191",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 3,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1882901,
+        "url": "http://smotretanime.ru/translations/embed/2185116",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1882902,
+        "url": "http://smotretanime.ru/translations/embed/2175382",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

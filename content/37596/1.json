@@ -1,0 +1,92 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1933186,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3584399",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Horie)",
+        "watchesCount": 200,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1946393,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3596462",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный) (Часть 1)",
+        "watchesCount": 84,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1946394,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3596475",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный) (Часть 2)",
+        "watchesCount": 18,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1933102,
+        "url": "http://smotretanime.ru/translations/embed/2359086",
+        "language": "russian",
+        "quality": "web",
+        "author": "Crunchyroll",
+        "watchesCount": 140,
+        "uploader": "Kurono_Kei"
+      },
+      {
+        "id": 1933832,
+        "url": "http://vk.com/video_ext.php?oid=-146305865&id=456239094&hash=c8c5b8c13eb4853d",
+        "language": "russian",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 131,
+        "uploader": "kagerou"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1933097,
+        "url": "http://smotretanime.ru/translations/embed/2359060",
+        "language": "original",
+        "quality": "unknown",
+        "author": "Ohys-Raws (Часть 1)",
+        "watchesCount": 10,
+        "uploader": "Kurono_Kei"
+      },
+      {
+        "id": 1933099,
+        "url": "http://smotretanime.ru/translations/embed/2359061",
+        "language": "original",
+        "quality": "unknown",
+        "author": "Ohys-Raws (Часть 2)",
+        "watchesCount": 3,
+        "uploader": "Kurono_Kei"
+      },
+      {
+        "id": 1933119,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3584037",
+        "language": "original",
+        "quality": "unknown",
+        "author": "Ohys-Raws (Часть 1)",
+        "watchesCount": 1,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1933120,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3584040",
+        "language": "original",
+        "quality": "unknown",
+        "author": "Ohys-Raws (Часть 2)",
+        "watchesCount": 0,
+        "uploader": "Probni"
+      }
+    ]
+  }
+}

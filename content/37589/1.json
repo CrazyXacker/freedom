@@ -1,0 +1,74 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1787104,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3400854",
+        "language": "russian",
+        "quality": "web",
+        "author": "AniTime (Ryoki)",
+        "watchesCount": 401,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1874303,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3508485",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Tina",
+        "watchesCount": 19,
+        "uploader": "Tina"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1749626,
+        "url": "http://vk.com/video_ext.php?oid=-256132&id=456239372&hash=81a58f4e05ca4dd6",
+        "language": "russian",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 340,
+        "uploader": "KyoAni"
+      },
+      {
+        "id": 1855312,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3305740",
+        "language": "russian",
+        "quality": "web",
+        "author": "Ri-nyan",
+        "watchesCount": 22,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1714250,
+        "url": "http://vk.com/video_ext.php?oid=217468265&id=456239618&hash=e1b793a54bc0ffc0",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 456,
+        "uploader": "one season per night"
+      },
+      {
+        "id": 1740887,
+        "url": "http://youtube.com/embed/WBDuJJHzddQ",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "one season per night"
+      },
+      {
+        "id": 1741935,
+        "url": "http://youtube.com/embed/p6Waf2b5Txk",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 61,
+        "uploader": "HN71"
+      }
+    ]
+  }
+}

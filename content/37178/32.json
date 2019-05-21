@@ -1,0 +1,47 @@
+{
+  "episode": 32,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1937332,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3588146",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 17,
+        "uploader": "ЗЕФNR"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1864322,
+        "url": "http://smotretanime.ru/translations/embed/2015027",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sonaru",
+        "watchesCount": 12,
+        "uploader": "Dale"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1854805,
+        "url": "http://smotretanime.ru/translations/embed/2013018",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 1,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1960439,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3485104",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "GGbukinGG"
+      }
+    ]
+  }
+}

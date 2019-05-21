@@ -1,0 +1,326 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1719317,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3294582",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Mutsuko Air)",
+        "watchesCount": 218,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1719355,
+        "url": "http://smotretanime.ru/translations/embed/1795873",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Zunder)",
+        "watchesCount": 138,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1725661,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3298376",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FRONDA (Mashylika5 & MyDuck)",
+        "watchesCount": 14,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1733445,
+        "url": "http://vk.com/video_ext.php?oid=-131670045&id=456239763&hash=86ab546e9605e09e",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (Mutsuko Air)",
+        "watchesCount": 16,
+        "uploader": "WarlikeLaux"
+      },
+      {
+        "id": 1830502,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3301840",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Oni & Berserk)",
+        "watchesCount": 60,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1850510,
+        "url": "http://vk.com/video_ext.php?oid=-39376197&id=456240788&hash=ed73c988f6d6e037",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 36,
+        "uploader": "YJOS"
+      },
+      {
+        "id": 1850536,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3304373",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 5,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1719340,
+        "url": "http://smotretanime.ru/translations/embed/1795831",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1719357,
+        "url": "http://smotretanime.ru/translations/embed/1795829",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 27,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1719446,
+        "url": "http://smotretanime.ru/translations/embed/1796019",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 118,
+        "uploader": "kawaiiseet"
+      },
+      {
+        "id": 1719448,
+        "url": "http://vk.com/video_ext.php?oid=-158435497&id=456242307&hash=7b02f8e1a7b9c3c3",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 178,
+        "uploader": "kawaiiseet"
+      },
+      {
+        "id": 1719619,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3294760",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 47,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1724282,
+        "url": "http://smotretanime.ru/translations/embed/1801613",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1724359,
+        "url": "http://smotretanime.ru/translations/embed/1801642",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1724839,
+        "url": "http://smotretanime.ru/translations/embed/1802387",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1725308,
+        "url": "http://smotretanime.ru/translations/embed/1803412",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1726695,
+        "url": "http://smotretanime.ru/translations/embed/1805370",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1735624,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3298208",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 19,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1747979,
+        "url": "http://smotretanime.ru/translations/embed/1830505",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1747990,
+        "url": "http://smotretanime.ru/translations/embed/1830518",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1748417,
+        "url": "http://smotretanime.ru/translations/embed/1831065",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1749104,
+        "url": "http://smotretanime.ru/translations/embed/1831713",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1760053,
+        "url": "http://smotretanime.ru/translations/embed/1842173",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1761479,
+        "url": "http://smotretanime.ru/translations/embed/1842956",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1763935,
+        "url": "http://smotretanime.ru/translations/embed/1844912",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1765719,
+        "url": "http://smotretanime.ru/translations/embed/1846364",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1765901,
+        "url": "http://smotretanime.ru/translations/embed/1846402",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1766698,
+        "url": "http://smotretanime.ru/translations/embed/1847296",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1769323,
+        "url": "http://smotretanime.ru/translations/embed/1849934",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (Doppelganger & Arashi-sama & Nika_Elrik)",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1719344,
+        "url": "http://smotretanime.ru/translations/embed/1795835",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1773855,
+        "url": "http://smotretanime.ru/translations/embed/1813974",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1773864,
+        "url": "http://smotretanime.ru/translations/embed/1859705",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1773886,
+        "url": "http://smotretanime.ru/translations/embed/1859767",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1773900,
+        "url": "http://smotretanime.ru/translations/embed/1859788",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1773901,
+        "url": "http://smotretanime.ru/translations/embed/1859790",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "DayRuby"
+      }
+    ]
+  }
+}

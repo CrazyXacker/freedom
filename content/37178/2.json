@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1928569,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3422837",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 32,
+        "uploader": "ЗЕФNR"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1775849,
+        "url": "http://smotretanime.ru/translations/embed/1864248",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sonaru",
+        "watchesCount": 101,
+        "uploader": "そなる"
+      },
+      {
+        "id": 1813732,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3286576",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sonaru",
+        "watchesCount": 4,
+        "uploader": "そなる"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1711118,
+        "url": "http://smotretanime.ru/translations/embed/1779892",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 24,
+        "uploader": "TRAY_MAX"
+      }
+    ]
+  }
+}

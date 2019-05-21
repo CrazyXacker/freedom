@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1923129,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3568641",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Mirona)",
+        "watchesCount": 28,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1923587,
+        "url": "http://vk.com/video_ext.php?oid=-46949318&id=456246699&hash=55c4bd507051666d",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Mirona)",
+        "watchesCount": 34,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1922803,
+        "url": "http://smotretanime.ru/translations/embed/2324410",
+        "language": "english",
+        "quality": "tv",
+        "author": "BakedFish",
+        "watchesCount": 0,
+        "uploader": "Dyrel Berg"
+      },
+      {
+        "id": 1922806,
+        "url": "http://smotretanime.ru/translations/embed/2324295",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "Dyrel Berg"
+      },
+      {
+        "id": 1922807,
+        "url": "http://smotretanime.ru/translations/embed/2324565",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 19,
+        "uploader": "Dyrel Berg"
+      },
+      {
+        "id": 1922858,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3567895",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 18,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1922802,
+        "url": "http://smotretanime.ru/translations/embed/2324296",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "Dyrel Berg"
+      },
+      {
+        "id": 1922804,
+        "url": "http://smotretanime.ru/translations/embed/2324291",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 1,
+        "uploader": "Dyrel Berg"
+      }
+    ]
+  }
+}

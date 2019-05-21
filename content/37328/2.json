@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1878510,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3512917",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 4,
+        "uploader": "ЗЕФNR"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1792029,
+        "url": "http://smotretanime.ru/translations/embed/1876666",
+        "language": "english",
+        "quality": "tv",
+        "author": "bitmap",
+        "watchesCount": 2,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1792027,
+        "url": "http://smotretanime.ru/translations/embed/1876667",
+        "language": "original",
+        "quality": "tv",
+        "author": "bitmap",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1792028,
+        "url": "http://smotretanime.ru/translations/embed/1867977",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 1,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

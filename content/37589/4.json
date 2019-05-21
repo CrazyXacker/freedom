@@ -1,0 +1,38 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1908953,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3553728",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Tina",
+        "watchesCount": 109,
+        "uploader": "Tina"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1828087,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3388350",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Ri-nyan",
+        "watchesCount": 203,
+        "uploader": "Айрин Вольф"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1773520,
+        "url": "http://youtube.com/embed/F0qpk-Ww-wE",
+        "language": "original",
+        "quality": "web",
+        "author": "",
+        "watchesCount": 92,
+        "uploader": "HN71"
+      }
+    ]
+  }
+}

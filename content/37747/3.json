@@ -1,0 +1,83 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1893231,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3535082",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Mirona)",
+        "watchesCount": 47,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1893328,
+        "url": "http://vk.com/video_ext.php?oid=-46949318&id=456245115&hash=8e4408aee50b427e",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Mirona)",
+        "watchesCount": 105,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1892356,
+        "url": "http://smotretanime.ru/translations/embed/2223429",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 4,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1892644,
+        "url": "http://smotretanime.ru/translations/embed/2223460",
+        "language": "english",
+        "quality": "tv",
+        "author": "BakedFish",
+        "watchesCount": 1,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1892683,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3534679",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 32,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1892686,
+        "url": "http://smotretanime.ru/translations/embed/2224017",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio",
+        "watchesCount": 26,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1892330,
+        "url": "http://smotretanime.ru/translations/embed/2223376",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 5,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1892643,
+        "url": "http://smotretanime.ru/translations/embed/2223430",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

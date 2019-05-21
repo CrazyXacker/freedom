@@ -1,0 +1,65 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1929271,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3577560",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 10,
+        "uploader": "ЗЕФNR"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1810542,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3420649",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sonaru",
+        "watchesCount": 9,
+        "uploader": "そなる"
+      },
+      {
+        "id": 1810544,
+        "url": "http://smotretanime.ru/translations/embed/1914476",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sonaru",
+        "watchesCount": 26,
+        "uploader": "そなる"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1809877,
+        "url": "http://smotretanime.ru/translations/embed/1912577",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 4,
+        "uploader": "YuzuruNishimiya"
+      },
+      {
+        "id": 1815004,
+        "url": "http://smotretanime.ru/translations/embed/1922085",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1960423,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3420455",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "GGbukinGG"
+      }
+    ]
+  }
+}

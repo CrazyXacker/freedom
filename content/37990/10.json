@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1868544,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3501335",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (rj24)",
+        "watchesCount": 61,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1945091,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3595408",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 1,
+        "uploader": "ЗЕФNR"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1868219,
+        "url": "http://smotretanime.ru/translations/embed/2046058",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 5,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1868947,
+        "url": "http://smotretanime.ru/translations/embed/2047246",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 6,
+        "uploader": "mutterblue"
+      },
+      {
+        "id": 1868951,
+        "url": "http://vk.com/video_ext.php?oid=-158435497&id=456245281&hash=3c2b5d91411ae4b2",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 16,
+        "uploader": "mutterblue"
+      },
+      {
+        "id": 1869610,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3502297",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 6,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1868218,
+        "url": "http://smotretanime.ru/translations/embed/2046078",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 3,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1868328,
+        "url": "http://smotretanime.ru/translations/embed/2046060",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}

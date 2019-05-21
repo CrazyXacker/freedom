@@ -1,0 +1,83 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1724566,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3298407",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (OVERLORDS)",
+        "watchesCount": 2234,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1782366,
+        "url": "http://smotretanime.ru/translations/embed/1871269",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Alexzonder",
+        "watchesCount": 1074,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1833693,
+        "url": "http://smotretanime.ru/translations/embed/1957663",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Amazing Dubbing (Belo4ka & G_Ray)",
+        "watchesCount": 241,
+        "uploader": "Holy"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1738589,
+        "url": "http://smotretanime.ru/translations/embed/1823289",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 849,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1738982,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3320837",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniPlay",
+        "watchesCount": 377,
+        "uploader": "q8025"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1723800,
+        "url": "http://vk.com/video_ext.php?oid=19153510&id=456239079&hash=138e30d6ccfebc37",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 16,
+        "uploader": "andreikobzev"
+      },
+      {
+        "id": 1723824,
+        "url": "http://smotretanime.ru/translations/embed/1800822",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": "andreikobzev"
+      },
+      {
+        "id": 1723834,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3297647",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "andreikobzev"
+      }
+    ]
+  }
+}

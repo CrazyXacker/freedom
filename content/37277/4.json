@@ -1,0 +1,74 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1765402,
+        "url": "http://ok.ru/videoembed/1487213234769",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 23,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1795806,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3408913",
+        "language": "russian",
+        "quality": "tv",
+        "author": "StreamSound (Kurgan & Minaka)",
+        "watchesCount": 10,
+        "uploader": "Диана Шоева"
+      },
+      {
+        "id": 1795808,
+        "url": "http://vk.com/video_ext.php?oid=-151973433&id=456239670&hash=7cfde5be999fb94a",
+        "language": "russian",
+        "quality": "tv",
+        "author": "StreamSound (Kurgan & Minaka)",
+        "watchesCount": 7,
+        "uploader": "Диана Шоева"
+      },
+      {
+        "id": 1852727,
+        "url": "http://vk.com/video_ext.php?oid=-39376197&id=456241074&hash=afe0ecb2c52ce5f3",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KANSAI Studio",
+        "watchesCount": 13,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1744449,
+        "url": "http://smotretanime.ru/translations/embed/1827998",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1744450,
+        "url": "http://smotretanime.ru/translations/embed/1828000",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 12,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1744451,
+        "url": "http://smotretanime.ru/translations/embed/1828004",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "Iwazaru"
+      }
+    ]
+  }
+}

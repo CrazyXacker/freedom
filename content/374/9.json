@@ -1,0 +1,65 @@
+{
+  "episode": 9,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1364003,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1172844",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1701234,
+        "url": "http://vk.com/video_ext.php?oid=-29488020&id=166457316&hash=12851229893aac61",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1701247,
+        "url": "http://smotretanime.ru/translations/embed/1572246",
+        "language": "english",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1364005,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1174132",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1701253,
+        "url": "http://smotretanime.ru/translations/embed/482954",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Phil",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1701262,
+        "url": "http://smotretanime.ru/translations/embed/1572247",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

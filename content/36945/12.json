@@ -1,0 +1,47 @@
+{
+  "episode": 12,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1887244,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3513072",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Эйс)",
+        "watchesCount": 10,
+        "uploader": "Ohisama"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1887238,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3528010",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 11,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1887241,
+        "url": "http://smotretanime.ru/translations/embed/2103408",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1887240,
+        "url": "http://smotretanime.ru/translations/embed/2103411",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

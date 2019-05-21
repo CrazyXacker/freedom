@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1363969,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1172191",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 18,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1701230,
+        "url": "http://vk.com/video_ext.php?oid=246173742&id=456239018&hash=97d2d17c01883b51",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Suzaku (E. Лурье)",
+        "watchesCount": 16,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1701240,
+        "url": "http://smotretanime.ru/translations/embed/1572248",
+        "language": "english",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1363971,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1173154",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1701251,
+        "url": "http://smotretanime.ru/translations/embed/482946",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Phil",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1701254,
+        "url": "http://smotretanime.ru/translations/embed/1572249",
+        "language": "original",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

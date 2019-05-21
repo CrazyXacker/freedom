@@ -1,0 +1,74 @@
+{
+  "episode": 42,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1900157,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3541754",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 17,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1900260,
+        "url": "http://smotretanime.ru/translations/embed/2264160",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Xelenum)",
+        "watchesCount": 13,
+        "uploader": "Ohisama"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1900257,
+        "url": "http://smotretanime.ru/translations/embed/2264125",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 4,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1962301,
+        "url": "http://smotretanime.ru/translations/embed/2360064",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1900258,
+        "url": "http://smotretanime.ru/translations/embed/2264155",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1901128,
+        "url": "http://smotretanime.ru/translations/embed/2264128",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1901129,
+        "url": "http://smotretanime.ru/translations/embed/2264135",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "AndroMazel"
+      }
+    ]
+  }
+}
