@@ -1,0 +1,515 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1559689,
+        "url": "http://smotretanime.ru/translations/embed/1443573",
+        "language": "original",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563270,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3038520",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Chokoba & Mutsuko Air)",
+        "watchesCount": 98,
+        "uploader": "man from Chiba"
+      },
+      {
+        "id": 1591527,
+        "url": "http://smotretanime.ru/translations/embed/1513295",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 65,
+        "uploader": "GODSLAYER1"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1559688,
+        "url": "http://smotretanime.ru/translations/embed/1443572",
+        "language": "english",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1560109,
+        "url": "http://smotretanime.ru/translations/embed/1444213",
+        "language": "english",
+        "quality": "tv",
+        "author": "DeadFish",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1560685,
+        "url": "http://smotretanime.ru/translations/embed/1445338",
+        "language": "english",
+        "quality": "tv",
+        "author": "Amenohabakiri",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562213,
+        "url": "http://smotretanime.ru/translations/embed/1449146",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562214,
+        "url": "http://smotretanime.ru/translations/embed/1449152",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562250,
+        "url": "http://smotretanime.ru/translations/embed/1449256",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1562257,
+        "url": "http://smotretanime.ru/translations/embed/1449250",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563190,
+        "url": "http://smotretanime.ru/translations/embed/1451197",
+        "language": "english",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563217,
+        "url": "http://smotretanime.ru/translations/embed/1451260",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1563224,
+        "url": "http://smotretanime.ru/translations/embed/1451254",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1564832,
+        "url": "http://smotretanime.ru/translations/embed/1454450",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1564839,
+        "url": "http://smotretanime.ru/translations/embed/1454444",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568094,
+        "url": "http://smotretanime.ru/translations/embed/1459431",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568096,
+        "url": "http://smotretanime.ru/translations/embed/1459438",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568136,
+        "url": "http://smotretanime.ru/translations/embed/1459462",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568140,
+        "url": "http://smotretanime.ru/translations/embed/1459469",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568374,
+        "url": "http://smotretanime.ru/translations/embed/1459972",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568378,
+        "url": "http://smotretanime.ru/translations/embed/1459979",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568914,
+        "url": "http://smotretanime.ru/translations/embed/1460494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1568922,
+        "url": "http://smotretanime.ru/translations/embed/1460487",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1575583,
+        "url": "http://smotretanime.ru/translations/embed/1475392",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 119,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578674,
+        "url": "http://smotretanime.ru/translations/embed/1496495",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578678,
+        "url": "http://smotretanime.ru/translations/embed/1496491",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578686,
+        "url": "http://smotretanime.ru/translations/embed/1496504",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578741,
+        "url": "http://smotretanime.ru/translations/embed/1496548",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578745,
+        "url": "http://smotretanime.ru/translations/embed/1496557",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578914,
+        "url": "http://smotretanime.ru/translations/embed/1497119",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1578922,
+        "url": "http://smotretanime.ru/translations/embed/1497110",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581393,
+        "url": "http://smotretanime.ru/translations/embed/1504192",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1581396,
+        "url": "http://smotretanime.ru/translations/embed/1504201",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1583015,
+        "url": "http://smotretanime.ru/translations/embed/1507843",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1583020,
+        "url": "http://smotretanime.ru/translations/embed/1507854",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1583167,
+        "url": "http://smotretanime.ru/translations/embed/1508159",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1583172,
+        "url": "http://smotretanime.ru/translations/embed/1508170",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1583633,
+        "url": "http://smotretanime.ru/translations/embed/1508843",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1583642,
+        "url": "http://smotretanime.ru/translations/embed/1508854",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1584323,
+        "url": "http://smotretanime.ru/translations/embed/1510135",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1584333,
+        "url": "http://smotretanime.ru/translations/embed/1510124",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1592316,
+        "url": "http://smotretanime.ru/translations/embed/1528422",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1592319,
+        "url": "http://smotretanime.ru/translations/embed/1528436",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601187,
+        "url": "http://smotretanime.ru/translations/embed/1543677",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601191,
+        "url": "http://smotretanime.ru/translations/embed/1543692",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601343,
+        "url": "http://smotretanime.ru/translations/embed/1543871",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601362,
+        "url": "http://smotretanime.ru/translations/embed/1543887",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601848,
+        "url": "http://smotretanime.ru/translations/embed/1550008",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601854,
+        "url": "http://smotretanime.ru/translations/embed/1550023",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1602640,
+        "url": "http://smotretanime.ru/translations/embed/1551792",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1602644,
+        "url": "http://smotretanime.ru/translations/embed/1551807",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JohnnyZB",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1829085,
+        "url": "http://smotretanime.ru/translations/embed/1945016",
+        "language": "russian",
+        "quality": "bd",
+        "author": "JohnnyZB",
+        "watchesCount": 9,
+        "uploader": "Finago"
+      },
+      {
+        "id": 1878200,
+        "url": "http://vk.com/video_ext.php?oid=-168121156&id=456239041&hash=7929ad542ff6697d",
+        "language": "russian",
+        "quality": "bd",
+        "author": "RuSubsDATTO (JohnnyZB)",
+        "watchesCount": 21,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1553082,
+        "url": "http://smotretanime.ru/translations/embed/1425435",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 45,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1560686,
+        "url": "http://smotretanime.ru/translations/embed/1445358",
+        "language": "original",
+        "quality": "tv",
+        "author": "Amenohabakiri",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1575267,
+        "url": "http://smotretanime.ru/translations/embed/1475399",
+        "language": "original",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

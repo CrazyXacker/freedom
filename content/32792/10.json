@@ -1,0 +1,74 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1272555,
+        "url": "http://smotretanime.ru/translations/embed/932141",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 206,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1274217,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2600903",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Salplak)",
+        "watchesCount": 9,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1274223,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2600918",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (TonyFrozen)",
+        "watchesCount": 32,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1286550,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2644143",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 133,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1272152,
+        "url": "http://smotretanime.ru/translations/embed/931776",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1274221,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2600710",
+        "language": "russian",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 60,
+        "uploader": "sttany"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1272153,
+        "url": "http://smotretanime.ru/translations/embed/931775",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

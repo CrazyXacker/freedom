@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1946705,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3596854",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (SovaSia & Jevis)",
+        "watchesCount": 13,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1943534,
+        "url": "http://smotretanime.ru/translations/embed/2381833",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sonaru",
+        "watchesCount": 1,
+        "uploader": "Михаил Дёмичев"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1941649,
+        "url": "http://smotretanime.ru/translations/embed/2378256",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 7,
+        "uploader": "Михаил Дёмичев"
+      },
+      {
+        "id": 1960463,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3592671",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "GGbukinGG"
+      }
+    ]
+  }
+}

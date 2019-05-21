@@ -1,0 +1,56 @@
+{
+  "episode": 23,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1468509,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2867840",
+        "language": "russian",
+        "quality": "web",
+        "author": "Jart-team (Matuko)",
+        "watchesCount": 256,
+        "uploader": "Matuko"
+      },
+      {
+        "id": 1475597,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2876861",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 535,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1477089,
+        "url": "http://smotretanime.ru/translations/embed/1233111",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 418,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1479236,
+        "url": "http://smotretanime.ru/translations/embed/1234903",
+        "language": "russian",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 113,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1479237,
+        "url": "http://smotretanime.ru/translations/embed/1234902",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

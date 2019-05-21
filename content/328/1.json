@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1714954,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3287755",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Azazel & Chigusa)",
+        "watchesCount": 25,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1718282,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1439394",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "FassaD & Sakura",
+        "watchesCount": 2,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1910150,
+        "url": "http://smotretanime.ru/translations/embed/2294295",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Chigusa)",
+        "watchesCount": 3,
+        "uploader": "Михаил Дёмичев"
+      },
+      {
+        "id": 1910160,
+        "url": "http://smotretanime.ru/translations/embed/2294332",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FassaD & Sakura",
+        "watchesCount": 0,
+        "uploader": "Михаил Дёмичев"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 977033,
+        "url": "https://smotretanime.ru/translations/embed/168309",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Piano",
+        "watchesCount": 40,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 977032,
+        "url": "https://smotretanime.ru/translations/embed/168308",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1243248,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2563912",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 1265912,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2586420",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": ""
+      },
+      {
+        "id": 1276748,
+        "url": "http://vk.com/video_ext.php?oid=-100541044&id=456239734&hash=a9eec69115e9a599",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Esther & Torgil)",
+        "watchesCount": 128,
+        "uploader": "q8025"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1269205,
+        "url": "http://smotretanime.ru/translations/embed/914538",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 86,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1292174,
+        "url": "http://smotretanime.ru/translations/embed/902819",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1684790,
+        "url": "http://smotretanime.ru/translations/embed/1104398",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Kasandra & Poccu9i",
+        "watchesCount": 10,
+        "uploader": "NovaLiS"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1242640,
+        "url": "http://vk.com/video_ext.php?oid=-96426546&id=456239021&hash=d4e27780bf5d920e",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Liliraune"
+      },
+      {
+        "id": 1269206,
+        "url": "http://smotretanime.ru/translations/embed/914536",
+        "language": "original",
+        "quality": "bd",
+        "author": "Ohys-Raws",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

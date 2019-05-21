@@ -1,0 +1,65 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 667299,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1368168",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SPAWN",
+        "watchesCount": 24,
+        "uploader": ""
+      },
+      {
+        "id": 1064946,
+        "url": "https://smotretanime.ru/translations/embed/402693",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 125,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 667295,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1368243",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 16,
+        "uploader": ""
+      },
+      {
+        "id": 944745,
+        "url": "https://smotretanime.ru/translations/embed/105226",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1064951,
+        "url": "https://smotretanime.ru/translations/embed/402699",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 35,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 944748,
+        "url": "https://smotretanime.ru/translations/embed/105229",
+        "language": "original",
+        "quality": "dvd",
+        "author": "IFS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1328352,
+        "url": "http://smotretanime.ru/translations/embed/1012737",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 1012,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329359,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2709876",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "MyAska & Senpai",
+        "watchesCount": 14,
+        "uploader": ""
+      },
+      {
+        "id": 1330307,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2708808",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1330308,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2708491",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (Slayer)",
+        "watchesCount": 38,
+        "uploader": ""
+      },
+      {
+        "id": 1332293,
+        "url": "http://vk.com/video_ext.php?oid=-100541044&id=456241173&hash=276bdf2d5b11efbd",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Esther & Demetra & Cuba77)",
+        "watchesCount": 4565,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1332757,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2714185",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB",
+        "watchesCount": 459,
+        "uploader": ""
+      },
+      {
+        "id": 1347659,
+        "url": "http://vk.com/video_ext.php?oid=-60978545&id=456239020&hash=bb8d93cf8e56abb0",
+        "language": "russian",
+        "quality": "web",
+        "author": "MyAska & Senpai",
+        "watchesCount": 34,
+        "uploader": "AayeSharky"
+      },
+      {
+        "id": 1407222,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2713411",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 144,
+        "uploader": ""
+      },
+      {
+        "id": 1595759,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/prizrak_666_svg/75/2019.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Esther & Demetra & Cuba77)",
+        "watchesCount": 230,
+        "uploader": "Федор Иванов"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1328609,
+        "url": "http://smotretanime.ru/translations/embed/1012699",
+        "language": "english",
+        "quality": "tv",
+        "author": "Ctrl+K8Subs",
+        "watchesCount": 34,
+        "uploader": "alblks3"
+      },
+      {
+        "id": 1328782,
+        "url": "http://smotretanime.ru/translations/embed/1013363",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 85,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1328783,
+        "url": "http://smotretanime.ru/translations/embed/1013355",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1328964,
+        "url": "http://smotretanime.ru/translations/embed/1013409",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2339,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329347,
+        "url": "http://smotretanime.ru/translations/embed/1013778",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329414,
+        "url": "http://smotretanime.ru/translations/embed/1013907",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329587,
+        "url": "http://smotretanime.ru/translations/embed/1014290",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330496,
+        "url": "http://smotretanime.ru/translations/embed/1015358",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1332188,
+        "url": "http://smotretanime.ru/translations/embed/1042724",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333139,
+        "url": "http://smotretanime.ru/translations/embed/1043638",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333158,
+        "url": "http://smotretanime.ru/translations/embed/1043648",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333947,
+        "url": "http://smotretanime.ru/translations/embed/1047140",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1337755,
+        "url": "http://smotretanime.ru/translations/embed/1064275",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1337786,
+        "url": "http://smotretanime.ru/translations/embed/1064301",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1339093,
+        "url": "http://smotretanime.ru/translations/embed/1067281",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1342207,
+        "url": "http://smotretanime.ru/translations/embed/1073269",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344793,
+        "url": "http://smotretanime.ru/translations/embed/1079485",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345138,
+        "url": "http://smotretanime.ru/translations/embed/1080072",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345156,
+        "url": "http://smotretanime.ru/translations/embed/1080087",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345309,
+        "url": "http://smotretanime.ru/translations/embed/1080441",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346556,
+        "url": "http://smotretanime.ru/translations/embed/1082408",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348312,
+        "url": "http://smotretanime.ru/translations/embed/1084851",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351176,
+        "url": "http://smotretanime.ru/translations/embed/1090984",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351188,
+        "url": "http://smotretanime.ru/translations/embed/1091000",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351519,
+        "url": "http://smotretanime.ru/translations/embed/1091380",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352174,
+        "url": "http://smotretanime.ru/translations/embed/1092527",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353550,
+        "url": "http://smotretanime.ru/translations/embed/1094373",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362620,
+        "url": "http://smotretanime.ru/translations/embed/1100138",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362913,
+        "url": "http://smotretanime.ru/translations/embed/1101419",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365466,
+        "url": "http://smotretanime.ru/translations/embed/1106586",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 26,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1380829,
+        "url": "http://smotretanime.ru/translations/embed/1126548",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1380839,
+        "url": "http://smotretanime.ru/translations/embed/1126498",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1380935,
+        "url": "http://smotretanime.ru/translations/embed/1126734",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1380957,
+        "url": "http://smotretanime.ru/translations/embed/1126815",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1381650,
+        "url": "http://smotretanime.ru/translations/embed/1127521",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1383221,
+        "url": "http://smotretanime.ru/translations/embed/1129199",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1385910,
+        "url": "http://smotretanime.ru/translations/embed/1133344",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1386023,
+        "url": "http://smotretanime.ru/translations/embed/1133598",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1386058,
+        "url": "http://smotretanime.ru/translations/embed/1133631",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1386587,
+        "url": "http://smotretanime.ru/translations/embed/1134593",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1390091,
+        "url": "http://smotretanime.ru/translations/embed/1135609",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391789,
+        "url": "http://smotretanime.ru/translations/embed/1137815",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392446,
+        "url": "http://smotretanime.ru/translations/embed/1138474",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392654,
+        "url": "http://smotretanime.ru/translations/embed/1138824",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1393684,
+        "url": "http://smotretanime.ru/translations/embed/1139363",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1397259,
+        "url": "http://smotretanime.ru/translations/embed/1142558",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1405481,
+        "url": "http://smotretanime.ru/translations/embed/1150800",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1405497,
+        "url": "http://smotretanime.ru/translations/embed/1150819",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1405707,
+        "url": "http://smotretanime.ru/translations/embed/1151052",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406164,
+        "url": "http://smotretanime.ru/translations/embed/1151720",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406436,
+        "url": "http://smotretanime.ru/translations/embed/1152178",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406506,
+        "url": "http://smotretanime.ru/translations/embed/1152208",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406631,
+        "url": "http://smotretanime.ru/translations/embed/1152456",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1407112,
+        "url": "http://smotretanime.ru/translations/embed/1152998",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1409141,
+        "url": "http://smotretanime.ru/translations/embed/1154073",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gerale & Komugi-chan & Tousaka Jun",
+        "watchesCount": 403,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1328784,
+        "url": "http://smotretanime.ru/translations/embed/1013356",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1328963,
+        "url": "http://smotretanime.ru/translations/embed/1013408",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1332095,
+        "url": "http://smotretanime.ru/translations/embed/1042630",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 61,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1332167,
+        "url": "http://smotretanime.ru/translations/embed/1042697",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1337942,
+        "url": "http://smotretanime.ru/translations/embed/1057463",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Double-Raws",
+        "watchesCount": 17,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1424840,
+        "url": "http://smotretanime.ru/translations/embed/1159515",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

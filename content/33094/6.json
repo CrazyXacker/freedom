@@ -1,0 +1,803 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1351044,
+        "url": "http://smotretanime.ru/translations/embed/1088768",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Shoker)",
+        "watchesCount": 428,
+        "uploader": "Valgous"
+      },
+      {
+        "id": 1351047,
+        "url": "http://smotretanime.ru/translations/embed/1088773",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (OnLy)",
+        "watchesCount": 366,
+        "uploader": "Valgous"
+      },
+      {
+        "id": 1351581,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2738092",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniMaunt (Ban)",
+        "watchesCount": 53,
+        "uploader": ""
+      },
+      {
+        "id": 1356155,
+        "url": "http://smotretanime.ru/translations/embed/1096176",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Demetra & Cuba77)",
+        "watchesCount": 942,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1389498,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2743450",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Demetra & Cuba77)",
+        "watchesCount": 1179,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1409776,
+        "url": "http://smotretanime.ru/translations/embed/1154695",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (Ban)",
+        "watchesCount": 83,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1606253,
+        "url": "http://online.animedia.tv/embed/9473/4/6",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Nazel & Freya)",
+        "watchesCount": 14,
+        "uploader": "danilooo"
+      },
+      {
+        "id": 1693478,
+        "url": "http://smotretanime.ru/translations/embed/1617043",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniMedia",
+        "watchesCount": 181,
+        "uploader": "C_R_4_P"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1349919,
+        "url": "http://smotretanime.ru/translations/embed/1088757",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BudLightSubs",
+        "watchesCount": 151,
+        "uploader": "iTelefon"
+      },
+      {
+        "id": 1349948,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2736884",
+        "language": "russian",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 32,
+        "uploader": "猫は勇者である"
+      },
+      {
+        "id": 1349965,
+        "url": "http://smotretanime.ru/translations/embed/1088750",
+        "language": "english",
+        "quality": "tv",
+        "author": "BudLightSubs",
+        "watchesCount": 3,
+        "uploader": "alblks3"
+      },
+      {
+        "id": 1350373,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2737388",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Risens Team",
+        "watchesCount": 16,
+        "uploader": ""
+      },
+      {
+        "id": 1350468,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2737116",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 25,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1350942,
+        "url": "http://smotretanime.ru/translations/embed/1090524",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350943,
+        "url": "http://smotretanime.ru/translations/embed/1090001",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350944,
+        "url": "http://smotretanime.ru/translations/embed/1089863",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351262,
+        "url": "http://smotretanime.ru/translations/embed/1091096",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 26,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351992,
+        "url": "http://smotretanime.ru/translations/embed/1092291",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 22,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352122,
+        "url": "http://sovetromantica.com/embed/episode_176_6-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 381,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1353317,
+        "url": "http://smotretanime.ru/translations/embed/1094106",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 22,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1356612,
+        "url": "http://smotretanime.ru/translations/embed/1096867",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357310,
+        "url": "http://smotretanime.ru/translations/embed/1097940",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362299,
+        "url": "http://smotretanime.ru/translations/embed/1099836",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369069,
+        "url": "http://smotretanime.ru/translations/embed/1110290",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369242,
+        "url": "http://smotretanime.ru/translations/embed/1110463",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369725,
+        "url": "http://smotretanime.ru/translations/embed/1110983",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1370347,
+        "url": "http://smotretanime.ru/translations/embed/1112033",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372910,
+        "url": "http://smotretanime.ru/translations/embed/1113971",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375076,
+        "url": "http://smotretanime.ru/translations/embed/1114801",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375642,
+        "url": "http://smotretanime.ru/translations/embed/1114803",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 150,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376903,
+        "url": "http://smotretanime.ru/translations/embed/1095494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS",
+        "watchesCount": 85,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1377136,
+        "url": "http://smotretanime.ru/translations/embed/1116698",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1378223,
+        "url": "http://smotretanime.ru/translations/embed/1117951",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1380607,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2761272",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniPlay",
+        "watchesCount": 47,
+        "uploader": ""
+      },
+      {
+        "id": 1391280,
+        "url": "http://smotretanime.ru/translations/embed/1137169",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391389,
+        "url": "http://smotretanime.ru/translations/embed/1137297",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391859,
+        "url": "http://smotretanime.ru/translations/embed/1137729",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391961,
+        "url": "http://smotretanime.ru/translations/embed/1138018",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392091,
+        "url": "http://smotretanime.ru/translations/embed/1138134",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1393407,
+        "url": "http://smotretanime.ru/translations/embed/1139139",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1394567,
+        "url": "http://smotretanime.ru/translations/embed/1140312",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1395175,
+        "url": "http://smotretanime.ru/translations/embed/1141187",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1395192,
+        "url": "http://smotretanime.ru/translations/embed/1141193",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1395769,
+        "url": "http://smotretanime.ru/translations/embed/1141399",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1396785,
+        "url": "http://smotretanime.ru/translations/embed/1142318",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1396791,
+        "url": "http://smotretanime.ru/translations/embed/1142312",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1396912,
+        "url": "http://smotretanime.ru/translations/embed/1142416",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1399823,
+        "url": "http://smotretanime.ru/translations/embed/1145692",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1400126,
+        "url": "http://smotretanime.ru/translations/embed/1145866",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1401056,
+        "url": "http://smotretanime.ru/translations/embed/1146502",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1401066,
+        "url": "http://smotretanime.ru/translations/embed/1146508",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1401454,
+        "url": "http://smotretanime.ru/translations/embed/1146643",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402360,
+        "url": "http://smotretanime.ru/translations/embed/1147697",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404274,
+        "url": "http://smotretanime.ru/translations/embed/1149030",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404288,
+        "url": "http://smotretanime.ru/translations/embed/1149023",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404307,
+        "url": "http://smotretanime.ru/translations/embed/1149078",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404330,
+        "url": "http://smotretanime.ru/translations/embed/1149085",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404517,
+        "url": "http://smotretanime.ru/translations/embed/1149386",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 84,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404804,
+        "url": "http://smotretanime.ru/translations/embed/1149766",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404811,
+        "url": "http://smotretanime.ru/translations/embed/1149753",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1405262,
+        "url": "http://smotretanime.ru/translations/embed/1150446",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1405266,
+        "url": "http://smotretanime.ru/translations/embed/1150439",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406279,
+        "url": "http://smotretanime.ru/translations/embed/1151859",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406286,
+        "url": "http://smotretanime.ru/translations/embed/1151852",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406511,
+        "url": "http://smotretanime.ru/translations/embed/1152218",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406519,
+        "url": "http://smotretanime.ru/translations/embed/1152227",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406546,
+        "url": "http://smotretanime.ru/translations/embed/1152254",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406549,
+        "url": "http://smotretanime.ru/translations/embed/1152247",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406647,
+        "url": "http://smotretanime.ru/translations/embed/1152477",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1406654,
+        "url": "http://smotretanime.ru/translations/embed/1152470",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1407125,
+        "url": "http://smotretanime.ru/translations/embed/1153011",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1407131,
+        "url": "http://smotretanime.ru/translations/embed/1153018",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1408114,
+        "url": "http://smotretanime.ru/translations/embed/1153487",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1408122,
+        "url": "http://smotretanime.ru/translations/embed/1153479",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1408824,
+        "url": "http://smotretanime.ru/translations/embed/1153847",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1408838,
+        "url": "http://smotretanime.ru/translations/embed/1153839",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1410690,
+        "url": "http://smotretanime.ru/translations/embed/1155820",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1410698,
+        "url": "http://smotretanime.ru/translations/embed/1155832",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1432419,
+        "url": "http://smotretanime.ru/translations/embed/1163101",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1432428,
+        "url": "http://smotretanime.ru/translations/embed/1163109",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1432963,
+        "url": "http://smotretanime.ru/translations/embed/1163853",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1433103,
+        "url": "http://smotretanime.ru/translations/embed/1163877",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1433855,
+        "url": "http://smotretanime.ru/translations/embed/1165454",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1433905,
+        "url": "http://smotretanime.ru/translations/embed/1165462",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1435466,
+        "url": "http://smotretanime.ru/translations/embed/1168043",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1435486,
+        "url": "http://smotretanime.ru/translations/embed/1168053",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1350945,
+        "url": "http://smotretanime.ru/translations/embed/1089877",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376904,
+        "url": "http://smotretanime.ru/translations/embed/1095493",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

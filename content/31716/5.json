@@ -1,0 +1,524 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1290042,
+        "url": "http://smotretanime.ru/translations/embed/961285",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Sintop)",
+        "watchesCount": 236,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1290045,
+        "url": "http://smotretanime.ru/translations/embed/961291",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 113,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1290541,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2653906",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Sintop)",
+        "watchesCount": 9,
+        "uploader": "Yukiko Yachi"
+      },
+      {
+        "id": 1290593,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2654084",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 1293042,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2658421",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ancord & Jade & Trina_D)",
+        "watchesCount": 1891,
+        "uploader": "UrAgAnChIk"
+      },
+      {
+        "id": 1293099,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2658260",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Ancord & Jade & Trina_D)",
+        "watchesCount": 13,
+        "uploader": ""
+      },
+      {
+        "id": 1295135,
+        "url": "http://smotretanime.ru/translations/embed/966605",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay (Zhami Okami & nDrOiDze)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1295136,
+        "url": "http://smotretanime.ru/translations/embed/966604",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay (Zhami Okami & nDrOiDze)",
+        "watchesCount": 38,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303906,
+        "url": "http://smotretanime.ru/translations/embed/966449",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lupin & Cleo-chan)",
+        "watchesCount": 2641,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1312889,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2666187",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lupin & Cleo-chan)",
+        "watchesCount": 183,
+        "uploader": "WaFee"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1290027,
+        "url": "http://smotretanime.ru/translations/embed/961261",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 52,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1290425,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2654458",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS FanSUB",
+        "watchesCount": 25,
+        "uploader": "blackbloodoff"
+      },
+      {
+        "id": 1290565,
+        "url": "http://smotretanime.ru/translations/embed/961821",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1290567,
+        "url": "http://smotretanime.ru/translations/embed/961817",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS FanSUB",
+        "watchesCount": 430,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1290595,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2654599",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 52,
+        "uploader": ""
+      },
+      {
+        "id": 1291158,
+        "url": "http://smotretanime.ru/translations/embed/962417",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1291176,
+        "url": "http://smotretanime.ru/translations/embed/962418",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 167,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303886,
+        "url": "http://smotretanime.ru/translations/embed/974761",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303888,
+        "url": "http://smotretanime.ru/translations/embed/974760",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303898,
+        "url": "http://smotretanime.ru/translations/embed/974765",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303899,
+        "url": "http://smotretanime.ru/translations/embed/974767",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303900,
+        "url": "http://smotretanime.ru/translations/embed/966452",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303945,
+        "url": "http://smotretanime.ru/translations/embed/974807",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303947,
+        "url": "http://smotretanime.ru/translations/embed/974805",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303948,
+        "url": "http://smotretanime.ru/translations/embed/974801",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303949,
+        "url": "http://smotretanime.ru/translations/embed/974800",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304290,
+        "url": "http://smotretanime.ru/translations/embed/975123",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304292,
+        "url": "http://smotretanime.ru/translations/embed/975121",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304297,
+        "url": "http://smotretanime.ru/translations/embed/975117",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304298,
+        "url": "http://smotretanime.ru/translations/embed/975116",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306660,
+        "url": "http://smotretanime.ru/translations/embed/977203",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306663,
+        "url": "http://smotretanime.ru/translations/embed/977196",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306666,
+        "url": "http://smotretanime.ru/translations/embed/977197",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306668,
+        "url": "http://smotretanime.ru/translations/embed/977201",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317779,
+        "url": "http://smotretanime.ru/translations/embed/990172",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317781,
+        "url": "http://smotretanime.ru/translations/embed/990170",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317786,
+        "url": "http://smotretanime.ru/translations/embed/990163",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317789,
+        "url": "http://smotretanime.ru/translations/embed/990164",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317835,
+        "url": "http://smotretanime.ru/translations/embed/990218",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317837,
+        "url": "http://smotretanime.ru/translations/embed/990216",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317846,
+        "url": "http://smotretanime.ru/translations/embed/990210",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317847,
+        "url": "http://smotretanime.ru/translations/embed/990209",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318017,
+        "url": "http://smotretanime.ru/translations/embed/990517",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318019,
+        "url": "http://smotretanime.ru/translations/embed/990515",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318023,
+        "url": "http://smotretanime.ru/translations/embed/990509",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318024,
+        "url": "http://smotretanime.ru/translations/embed/990508",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320236,
+        "url": "http://smotretanime.ru/translations/embed/992536",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320238,
+        "url": "http://smotretanime.ru/translations/embed/992534",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320248,
+        "url": "http://smotretanime.ru/translations/embed/992527",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320250,
+        "url": "http://smotretanime.ru/translations/embed/992526",
+        "language": "russian",
+        "quality": "tv",
+        "author": "gorodoshnik",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1340725,
+        "url": "http://smotretanime.ru/translations/embed/1020465",
+        "language": "russian",
+        "quality": "tv",
+        "author": "kvaking & ElSwanko",
+        "watchesCount": 33,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1290026,
+        "url": "http://smotretanime.ru/translations/embed/961260",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1290566,
+        "url": "http://smotretanime.ru/translations/embed/961820",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303901,
+        "url": "http://smotretanime.ru/translations/embed/964154",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303902,
+        "url": "http://smotretanime.ru/translations/embed/964158",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303903,
+        "url": "http://smotretanime.ru/translations/embed/961904",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1340726,
+        "url": "http://smotretanime.ru/translations/embed/1020466",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Double-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

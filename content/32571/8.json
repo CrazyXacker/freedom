@@ -1,0 +1,74 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1946699,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3596707",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel)",
+        "watchesCount": 0,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1270779,
+        "url": "http://smotretanime.ru/translations/embed/929532",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1270949,
+        "url": "http://smotretanime.ru/translations/embed/929674",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1270950,
+        "url": "http://smotretanime.ru/translations/embed/929675",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310566,
+        "url": "http://smotretanime.ru/translations/embed/982110",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310570,
+        "url": "http://smotretanime.ru/translations/embed/982109",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1270778,
+        "url": "http://smotretanime.ru/translations/embed/929531",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

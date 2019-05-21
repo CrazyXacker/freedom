@@ -1,0 +1,45 @@
+{
+  "episode": 20,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 852575,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1847066",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 30,
+        "uploader": ""
+      },
+      {
+        "id": 1084982,
+        "url": "https://smotretanime.ru/translations/embed/433817",
+        "language": "english",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1085204,
+        "url": "https://smotretanime.ru/translations/embed/434157",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sora_P3_Heaven",
+        "watchesCount": 121,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1084981,
+        "url": "https://smotretanime.ru/translations/embed/433816",
+        "language": "original",
+        "quality": "tv",
+        "author": "Commie",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

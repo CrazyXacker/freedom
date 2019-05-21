@@ -1,0 +1,497 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1293559,
+        "url": "http://smotretanime.ru/translations/embed/964552",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 29,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1293989,
+        "url": "http://smotretanime.ru/translations/embed/964926",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294092,
+        "url": "http://smotretanime.ru/translations/embed/964935",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294148,
+        "url": "http://smotretanime.ru/translations/embed/965897",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294152,
+        "url": "http://smotretanime.ru/translations/embed/965908",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294379,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2659504",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": ""
+      },
+      {
+        "id": 1295431,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2660220",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": ""
+      },
+      {
+        "id": 1297894,
+        "url": "http://vk.com/video_ext.php?oid=-23081559&id=456239103&hash=a36ef071735c3423",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Oni & Esther & Nika Lenina)",
+        "watchesCount": 177,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1298224,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2666475",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Oni & Esther & Nika Lenina)",
+        "watchesCount": 2,
+        "uploader": "UrAgAnChIk"
+      },
+      {
+        "id": 1309129,
+        "url": "http://smotretanime.ru/translations/embed/980475",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 164,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318916,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2690844",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Oni & Esther & Nika Lenina)",
+        "watchesCount": 48,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1475626,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2863949",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shira",
+        "watchesCount": 0,
+        "uploader": "Shira"
+      },
+      {
+        "id": 1816231,
+        "url": "http://vk.com/video_ext.php?oid=-64282268&id=456241534&hash=f611fa6b6d822800",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Oni & Esther & Nika Lenina)",
+        "watchesCount": 60,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1293441,
+        "url": "http://smotretanime.ru/translations/embed/964503",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1293684,
+        "url": "http://smotretanime.ru/translations/embed/964628",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1293887,
+        "url": "http://smotretanime.ru/translations/embed/964629",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 42,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294378,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2659500",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 6,
+        "uploader": ""
+      },
+      {
+        "id": 1294627,
+        "url": "http://smotretanime.ru/translations/embed/966056",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294629,
+        "url": "http://smotretanime.ru/translations/embed/966051",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294666,
+        "url": "http://smotretanime.ru/translations/embed/966078",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294927,
+        "url": "http://smotretanime.ru/translations/embed/966390",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1295357,
+        "url": "http://smotretanime.ru/translations/embed/966821",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1296209,
+        "url": "http://smotretanime.ru/translations/embed/967738",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299250,
+        "url": "http://smotretanime.ru/translations/embed/970737",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299294,
+        "url": "http://smotretanime.ru/translations/embed/970744",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299622,
+        "url": "http://smotretanime.ru/translations/embed/971089",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300091,
+        "url": "http://smotretanime.ru/translations/embed/971660",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1301442,
+        "url": "http://smotretanime.ru/translations/embed/972652",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303405,
+        "url": "http://smotretanime.ru/translations/embed/974528",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303422,
+        "url": "http://smotretanime.ru/translations/embed/974550",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304056,
+        "url": "http://smotretanime.ru/translations/embed/974939",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304732,
+        "url": "http://smotretanime.ru/translations/embed/975518",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306076,
+        "url": "http://smotretanime.ru/translations/embed/976576",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306125,
+        "url": "http://smotretanime.ru/translations/embed/976670",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306349,
+        "url": "http://smotretanime.ru/translations/embed/976879",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1307152,
+        "url": "http://smotretanime.ru/translations/embed/977690",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308215,
+        "url": "http://smotretanime.ru/translations/embed/978962",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308280,
+        "url": "http://smotretanime.ru/translations/embed/978998",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308509,
+        "url": "http://smotretanime.ru/translations/embed/979441",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1309145,
+        "url": "http://smotretanime.ru/translations/embed/980483",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310801,
+        "url": "http://smotretanime.ru/translations/embed/982318",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316361,
+        "url": "http://smotretanime.ru/translations/embed/988425",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316444,
+        "url": "http://smotretanime.ru/translations/embed/988437",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316535,
+        "url": "http://smotretanime.ru/translations/embed/988464",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316798,
+        "url": "http://smotretanime.ru/translations/embed/989209",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317470,
+        "url": "http://smotretanime.ru/translations/embed/989767",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318553,
+        "url": "http://smotretanime.ru/translations/embed/991262",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1319110,
+        "url": "http://smotretanime.ru/translations/embed/991730",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1319146,
+        "url": "http://smotretanime.ru/translations/embed/991756",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1319604,
+        "url": "http://smotretanime.ru/translations/embed/992125",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320620,
+        "url": "http://smotretanime.ru/translations/embed/992791",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1326411,
+        "url": "http://smotretanime.ru/translations/embed/1002843",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Oni & Jenia aka Zub",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1293442,
+        "url": "http://smotretanime.ru/translations/embed/964502",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294628,
+        "url": "http://smotretanime.ru/translations/embed/966053",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

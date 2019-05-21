@@ -1,0 +1,713 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1287960,
+        "url": "http://smotretanime.ru/translations/embed/959320",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Slayer)",
+        "watchesCount": 269,
+        "uploader": "KindOfKind"
+      },
+      {
+        "id": 1287961,
+        "url": "http://smotretanime.ru/translations/embed/959291",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Mensh)",
+        "watchesCount": 149,
+        "uploader": "KindOfKind"
+      },
+      {
+        "id": 1289119,
+        "url": "http://smotretanime.ru/translations/embed/960605",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lupin & Itashi)",
+        "watchesCount": 796,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1289125,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2651006",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniLibria (Lupin & Itashi)",
+        "watchesCount": 282,
+        "uploader": ""
+      },
+      {
+        "id": 1290781,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2650903",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "RainDub",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 1292552,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2657621",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный & Jade)",
+        "watchesCount": 1477,
+        "uploader": "UrAgAnChIk"
+      },
+      {
+        "id": 1395488,
+        "url": "http://smotretanime.ru/translations/embed/996707",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный & Jade)",
+        "watchesCount": 2758,
+        "uploader": "EndymionLight"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1287880,
+        "url": "http://smotretanime.ru/translations/embed/959256",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 70,
+        "uploader": "KindOfKind"
+      },
+      {
+        "id": 1288253,
+        "url": "http://smotretanime.ru/translations/embed/959575",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 646,
+        "uploader": "Dasha Aki"
+      },
+      {
+        "id": 1288786,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2649589",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1290780,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2649891",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 44,
+        "uploader": ""
+      },
+      {
+        "id": 1291479,
+        "url": "http://smotretanime.ru/translations/embed/962816",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1291494,
+        "url": "http://smotretanime.ru/translations/embed/962839",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1291603,
+        "url": "http://smotretanime.ru/translations/embed/962999",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1291624,
+        "url": "http://smotretanime.ru/translations/embed/963028",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1291763,
+        "url": "http://smotretanime.ru/translations/embed/963229",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1291952,
+        "url": "http://smotretanime.ru/translations/embed/963327",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1291957,
+        "url": "http://smotretanime.ru/translations/embed/963329",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 172,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1292006,
+        "url": "http://smotretanime.ru/translations/embed/963419",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1292203,
+        "url": "http://smotretanime.ru/translations/embed/963430",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1292478,
+        "url": "http://smotretanime.ru/translations/embed/963530",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1292911,
+        "url": "http://smotretanime.ru/translations/embed/963920",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1293209,
+        "url": "http://smotretanime.ru/translations/embed/964191",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1293707,
+        "url": "http://smotretanime.ru/translations/embed/964647",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1293719,
+        "url": "http://smotretanime.ru/translations/embed/964665",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1293894,
+        "url": "http://smotretanime.ru/translations/embed/964819",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1294668,
+        "url": "http://smotretanime.ru/translations/embed/966098",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1295770,
+        "url": "http://smotretanime.ru/translations/embed/967303",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1295844,
+        "url": "http://smotretanime.ru/translations/embed/967423",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1296098,
+        "url": "http://smotretanime.ru/translations/embed/967630",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1296099,
+        "url": "http://smotretanime.ru/translations/embed/967644",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1297399,
+        "url": "http://smotretanime.ru/translations/embed/968644",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1297415,
+        "url": "http://smotretanime.ru/translations/embed/968663",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1297617,
+        "url": "http://smotretanime.ru/translations/embed/968828",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1297738,
+        "url": "http://smotretanime.ru/translations/embed/968960",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1297756,
+        "url": "http://smotretanime.ru/translations/embed/968984",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1298087,
+        "url": "http://smotretanime.ru/translations/embed/969386",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1298784,
+        "url": "http://smotretanime.ru/translations/embed/970027",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299869,
+        "url": "http://smotretanime.ru/translations/embed/971281",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299877,
+        "url": "http://smotretanime.ru/translations/embed/971274",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300063,
+        "url": "http://smotretanime.ru/translations/embed/971541",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300412,
+        "url": "http://smotretanime.ru/translations/embed/971966",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1302165,
+        "url": "http://smotretanime.ru/translations/embed/973376",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1302221,
+        "url": "http://smotretanime.ru/translations/embed/973462",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1302446,
+        "url": "http://smotretanime.ru/translations/embed/973727",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303044,
+        "url": "http://smotretanime.ru/translations/embed/974181",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303092,
+        "url": "http://smotretanime.ru/translations/embed/974208",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1303358,
+        "url": "http://smotretanime.ru/translations/embed/974495",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304356,
+        "url": "http://smotretanime.ru/translations/embed/975147",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1305067,
+        "url": "http://smotretanime.ru/translations/embed/975944",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1305085,
+        "url": "http://smotretanime.ru/translations/embed/975967",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1306343,
+        "url": "http://smotretanime.ru/translations/embed/976882",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308209,
+        "url": "http://smotretanime.ru/translations/embed/978965",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308285,
+        "url": "http://smotretanime.ru/translations/embed/979001",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308503,
+        "url": "http://smotretanime.ru/translations/embed/979444",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308628,
+        "url": "http://smotretanime.ru/translations/embed/979566",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308681,
+        "url": "http://smotretanime.ru/translations/embed/979597",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1308996,
+        "url": "http://smotretanime.ru/translations/embed/980287",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1311080,
+        "url": "http://smotretanime.ru/translations/embed/982736",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313517,
+        "url": "http://smotretanime.ru/translations/embed/985948",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313540,
+        "url": "http://smotretanime.ru/translations/embed/985994",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313909,
+        "url": "http://smotretanime.ru/translations/embed/986275",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1314555,
+        "url": "http://smotretanime.ru/translations/embed/986821",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316871,
+        "url": "http://smotretanime.ru/translations/embed/989315",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317537,
+        "url": "http://smotretanime.ru/translations/embed/989883",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318846,
+        "url": "http://smotretanime.ru/translations/embed/991490",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324501,
+        "url": "http://smotretanime.ru/translations/embed/1000941",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324606,
+        "url": "http://smotretanime.ru/translations/embed/1000648",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324624,
+        "url": "http://smotretanime.ru/translations/embed/1000638",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324709,
+        "url": "http://smotretanime.ru/translations/embed/1000504",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1325017,
+        "url": "http://smotretanime.ru/translations/embed/1001483",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1326502,
+        "url": "http://smotretanime.ru/translations/embed/1002904",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329592,
+        "url": "http://smotretanime.ru/translations/embed/1014226",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1329955,
+        "url": "http://smotretanime.ru/translations/embed/1014466",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330700,
+        "url": "http://smotretanime.ru/translations/embed/1015540",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1332509,
+        "url": "http://smotretanime.ru/translations/embed/1042972",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 39,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1599634,
+        "url": "http://sovetromantica.com/embed/episode_111_3-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 256,
+        "uploader": "NovaLiS"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1287881,
+        "url": "http://smotretanime.ru/translations/embed/959255",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": "KindOfKind"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1702830,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3270648",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anything Group (Sad_Kit)",
+        "watchesCount": 68,
+        "uploader": "Anything_Group"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1349793,
+        "url": "http://smotretanime.ru/translations/embed/1088552",
+        "language": "english",
+        "quality": "tv",
+        "author": "Matcha",
+        "watchesCount": 71,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1699897,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3266220",
+        "language": "russian",
+        "quality": "tv",
+        "author": "YakuSub Studio (SeshaRim & Aero & Nika_Elrik)",
+        "watchesCount": 29,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1349794,
+        "url": "http://smotretanime.ru/translations/embed/1088551",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Matcha",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

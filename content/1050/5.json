@@ -1,0 +1,47 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1868550,
+        "url": "http://video.sibnet.ru/shell.php?videoid=326149",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 5,
+        "uploader": "Dale"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1862276,
+        "url": "http://smotretanime.ru/translations/embed/1377049",
+        "language": "english",
+        "quality": "tv",
+        "author": "HnG-Hajike",
+        "watchesCount": 8,
+        "uploader": "Dale"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 970848,
+        "url": "https://smotretanime.ru/translations/embed/193915",
+        "language": "original",
+        "quality": "tv",
+        "author": "Double Souble",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1108554,
+        "url": "https://smotretanime.ru/translations/embed/528156",
+        "language": "original",
+        "quality": "tv",
+        "author": "Double Souble",
+        "watchesCount": 30,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

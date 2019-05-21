@@ -1,0 +1,47 @@
+{
+  "episode": 9,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1957064,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3608989",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel)",
+        "watchesCount": 0,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1274898,
+        "url": "http://smotretanime.ru/translations/embed/937307",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1276008,
+        "url": "http://smotretanime.ru/translations/embed/937314",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1274899,
+        "url": "http://smotretanime.ru/translations/embed/937306",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

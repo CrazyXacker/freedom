@@ -1,0 +1,45 @@
+{
+  "episode": 11,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1450031,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2831724",
+        "language": "russian",
+        "quality": "web",
+        "author": "AnimeVost",
+        "watchesCount": 986,
+        "uploader": "SiLweR"
+      },
+      {
+        "id": 1905013,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2831584",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 0,
+        "uploader": "Bang"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1650542,
+        "url": "http://smotretanime.ru/translations/embed/952156",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Скай",
+        "watchesCount": 105,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1650565,
+        "url": "http://smotretanime.ru/translations/embed/1609914",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

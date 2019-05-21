@@ -1,0 +1,587 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 920710,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2244836",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniMedia (Nazel & Freya & Komuro)",
+        "watchesCount": 16,
+        "uploader": ""
+      },
+      {
+        "id": 921235,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2205770",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (Zunder)",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 921284,
+        "url": "http://vk.com/video_ext.php?oid=-69328224&id=171669776&hash=d95a29cba83699b3",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный)",
+        "watchesCount": 4993,
+        "uploader": "Snayper"
+      },
+      {
+        "id": 921315,
+        "url": "https://smotretanime.ru/translations/embed/844393",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный)",
+        "watchesCount": 934,
+        "uploader": "NerV"
+      },
+      {
+        "id": 921920,
+        "url": "http://vk.com/video_ext.php?oid=75808504&id=171567675&hash=a85e438e69741404",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AnimeMovie (Traiter & Wizzar63)",
+        "watchesCount": 6,
+        "uploader": "Wizzẵŕ63"
+      },
+      {
+        "id": 921921,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2266137",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AnimeMovie (Traiter & Wizzar63)",
+        "watchesCount": 1,
+        "uploader": "Wizzẵŕ63"
+      },
+      {
+        "id": 922569,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2263052",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный)",
+        "watchesCount": 306,
+        "uploader": ""
+      },
+      {
+        "id": 922571,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2263053",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniLibria (Mikrobelka & WhiteCroW)",
+        "watchesCount": 48,
+        "uploader": ""
+      },
+      {
+        "id": 922645,
+        "url": "http://vk.com/video_ext.php?oid=-11560005&id=171769034&hash=6f8d4213b3967c36",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AnimeJet (Zuten & Lady_Candy)",
+        "watchesCount": 15,
+        "uploader": "Zuten"
+      },
+      {
+        "id": 932900,
+        "url": "http://vk.com/video_ext.php?oid=-37468416&id=171844330&hash=b7547f81b966f41f",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AniLibria (Mikrobelka & WhiteCroW)",
+        "watchesCount": 433,
+        "uploader": "Wckd sck"
+      },
+      {
+        "id": 974322,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2372762",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "DeadLine Studio (Mustadio & Leona Crosszeria)",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 978216,
+        "url": "https://smotretanime.ru/translations/embed/866800",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Snowly & Lianna & Viki)",
+        "watchesCount": 63,
+        "uploader": "NerV"
+      },
+      {
+        "id": 980968,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2372529",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniFilm (Mustadio & Lamia)",
+        "watchesCount": 30,
+        "uploader": ""
+      },
+      {
+        "id": 981694,
+        "url": "http://vk.com/video_ext.php?oid=-105008194&id=171880439&hash=2611d6cda31ce78d",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniFame (Chenaski)",
+        "watchesCount": 412,
+        "uploader": "FrankyD"
+      },
+      {
+        "id": 991147,
+        "url": "http://vk.com/video_ext.php?oid=-71747499&id=171703964&hash=418190f8c7dbc7d8",
+        "language": "russian",
+        "quality": "tv",
+        "author": "ANIvoice (Shira & Scrake)",
+        "watchesCount": 3,
+        "uploader": "Shira"
+      },
+      {
+        "id": 996922,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2419938",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SHIZA Project (Snowly & Lianna & Viki)",
+        "watchesCount": 14,
+        "uploader": ""
+      },
+      {
+        "id": 1240752,
+        "url": "http://smotretanime.ru/translations/embed/840045",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 50,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1240836,
+        "url": "http://smotretanime.ru/translations/embed/840203",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Zunder)",
+        "watchesCount": 47,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1400911,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2525340",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Onibaku Group (Zendos & Ruri)",
+        "watchesCount": 18,
+        "uploader": ""
+      },
+      {
+        "id": 1595285,
+        "url": "http://smotretanime.ru/translations/embed/1048781",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Mikrobelka & WhiteCroW)",
+        "watchesCount": 223,
+        "uploader": "セルゲイサルタン"
+      },
+      {
+        "id": 1595286,
+        "url": "http://smotretanime.ru/translations/embed/1058426",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniZone (MoonLord & Myako)",
+        "watchesCount": 3,
+        "uploader": "セルゲイサルタン"
+      },
+      {
+        "id": 1611220,
+        "url": "http://vk.com/video_ext.php?oid=-87281667&id=172135532&hash=c8978c48af9a50f0",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MiraiDuB (Panda_Ksyao & Дядюшка Scooby Doo)",
+        "watchesCount": 3,
+        "uploader": "~Panda_Ksyao~"
+      },
+      {
+        "id": 1660186,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=172106629&hash=e7b8ebd0155735a3",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Snowly & Lianna & Viki)",
+        "watchesCount": 39,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1702314,
+        "url": "http://online.animedia.tv/embed/13890/1/5",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Freya & Nazel & Komuro)",
+        "watchesCount": 0,
+        "uploader": "Grimmdzhou"
+      },
+      {
+        "id": 1784880,
+        "url": "http://ok.ru/videoembed/502656404020",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Snowly & Lianna & Viki)",
+        "watchesCount": 2,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1784900,
+        "url": "http://ok.ru/videoembed/775014910537",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Onibaku Group (Zendos & Ruri)",
+        "watchesCount": 7,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1784913,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/animedub.ru3/27/514.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Onibaku Group (Zendos & Ruri)",
+        "watchesCount": 1,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1784925,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2912250",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Onibaku Group (Zendos & Ruri)",
+        "watchesCount": 11,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1784941,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2984211",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniMedia (Freya & Nazel & Komuro)",
+        "watchesCount": 12,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1784952,
+        "url": "http://ok.ru/videoembed/775197559369",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniMedia (Freya & Nazel & Komuro)",
+        "watchesCount": 0,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1784966,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/animedub.ru3/26/1137.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniMedia (Freya & Nazel & Komuro)",
+        "watchesCount": 0,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1784995,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2984200",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniLibria (Mikrobelka & WhiteCroW)",
+        "watchesCount": 143,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1785007,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/animedub.ru3/25/1121.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniLibria (Mikrobelka & WhiteCroW)",
+        "watchesCount": 0,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1785023,
+        "url": "http://ok.ru/videoembed/775148538441",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniLibria (Mikrobelka & WhiteCroW)",
+        "watchesCount": 3,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1817639,
+        "url": "http://vk.com/video_ext.php?oid=-64282268&id=456239973&hash=bde1caeb0114deac",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный)",
+        "watchesCount": 1237,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 918462,
+        "url": "https://smotretanime.ru/translations/embed/840495",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Японская Таверна",
+        "watchesCount": 148,
+        "uploader": "Gumpelt"
+      },
+      {
+        "id": 918681,
+        "url": "http://vk.com/video_ext.php?oid=-64292596&id=171816317&hash=20eeedea1aa58938",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AniPlay",
+        "watchesCount": 846,
+        "uploader": "Miho"
+      },
+      {
+        "id": 919156,
+        "url": "https://smotretanime.ru/translations/embed/842122",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Brave & Xander",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 919250,
+        "url": "https://smotretanime.ru/translations/embed/842084",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 38,
+        "uploader": "NerV"
+      },
+      {
+        "id": 920708,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2244838",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 97,
+        "uploader": ""
+      },
+      {
+        "id": 920902,
+        "url": "https://smotretanime.ru/translations/embed/843678",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zero",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 921161,
+        "url": "https://smotretanime.ru/translations/embed/844083",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zero",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 921163,
+        "url": "https://smotretanime.ru/translations/embed/844084",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zero",
+        "watchesCount": 48,
+        "uploader": "NerV"
+      },
+      {
+        "id": 921555,
+        "url": "https://smotretanime.ru/translations/embed/844546",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & SapogaN & licuma",
+        "watchesCount": 39,
+        "uploader": "NerV"
+      },
+      {
+        "id": 939014,
+        "url": "https://smotretanime.ru/translations/embed/853115",
+        "language": "russian",
+        "quality": "tv",
+        "author": "NT Subs",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 951299,
+        "url": "https://smotretanime.ru/translations/embed/854586",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 146,
+        "uploader": "NerV"
+      },
+      {
+        "id": 980285,
+        "url": "https://smotretanime.ru/translations/embed/862168",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 980290,
+        "url": "https://smotretanime.ru/translations/embed/862167",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Constantum & Vaisiliok",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 980346,
+        "url": "https://smotretanime.ru/translations/embed/862165",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Brave & Xander",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 999866,
+        "url": "https://smotretanime.ru/translations/embed/889223",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 343,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1133523,
+        "url": "https://smotretanime.ru/translations/embed/897760",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Aopy & Elk & LoneCoder & Miko & Nippa & Q Beast & Tatsuya",
+        "watchesCount": 23,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1240944,
+        "url": "http://smotretanime.ru/translations/embed/840328",
+        "language": "english",
+        "quality": "tv",
+        "author": "Mori",
+        "watchesCount": 52,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1241126,
+        "url": "http://smotretanime.ru/translations/embed/840614",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 123,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1255775,
+        "url": "http://smotretanime.ru/translations/embed/905408",
+        "language": "russian",
+        "quality": "tv",
+        "author": "HenryHig & Narwen & Yukki14 & almirachan & kis kis & kuma!",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1598932,
+        "url": "http://sovetromantica.com/embed/episode_74_5-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 325,
+        "uploader": "NovaLiS"
+      },
+      {
+        "id": 1665314,
+        "url": "http://smotretanime.ru/translations/embed/840580",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 132,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1785040,
+        "url": "http://ok.ru/videoembed/774822627913",
+        "language": "russian",
+        "quality": "bd",
+        "author": "YakuSub Studio (Nika_Elrik & SapogaN & licuma)",
+        "watchesCount": 7,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1785052,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2912229",
+        "language": "russian",
+        "quality": "bd",
+        "author": "YakuSub Studio (Nika_Elrik & SapogaN & licuma)",
+        "watchesCount": 39,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1785064,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/animedub.ru3/23/502.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "YakuSub Studio (Nika_Elrik & SapogaN & licuma)",
+        "watchesCount": 2,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 919155,
+        "url": "https://smotretanime.ru/translations/embed/842123",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 920895,
+        "url": "https://smotretanime.ru/translations/embed/843582",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 920896,
+        "url": "https://smotretanime.ru/translations/embed/841704",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 921165,
+        "url": "https://smotretanime.ru/translations/embed/843676",
+        "language": "original",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1240942,
+        "url": "http://smotretanime.ru/translations/embed/840327",
+        "language": "original",
+        "quality": "tv",
+        "author": "Mori",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

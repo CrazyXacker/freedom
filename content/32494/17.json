@@ -1,0 +1,416 @@
+{
+  "episode": 17,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1345199,
+        "url": "http://smotretanime.ru/translations/embed/1080253",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 757,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345206,
+        "url": "http://smotretanime.ru/translations/embed/1080221",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 666,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1347836,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2730624",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1347838,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2730851",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 26,
+        "uploader": ""
+      },
+      {
+        "id": 1348906,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2735134",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ancord & Jade)",
+        "watchesCount": 1085,
+        "uploader": "xxjuxx"
+      },
+      {
+        "id": 1351113,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2737727",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Dancel & Snowly & Lianna)",
+        "watchesCount": 17,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1351178,
+        "url": "http://smotretanime.ru/translations/embed/1090780",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Dancel & Snowly & Lianna)",
+        "watchesCount": 161,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353352,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2738325",
+        "language": "russian",
+        "quality": "tv",
+        "author": "JWA Project (MorviK & Apollo & Zer0 & Lucifer & Лёша hAl & Kanade Eu)",
+        "watchesCount": 43,
+        "uploader": "Хакиро Маясуджи"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1345200,
+        "url": "http://smotretanime.ru/translations/embed/1080239",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 31,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345328,
+        "url": "http://sovetromantica.com/embed/episode_112_17-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 260,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1345390,
+        "url": "http://smotretanime.ru/translations/embed/1080495",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1347837,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2730969",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1347839,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2733118",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 41,
+        "uploader": ""
+      },
+      {
+        "id": 1348196,
+        "url": "http://smotretanime.ru/translations/embed/1085799",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348446,
+        "url": "http://smotretanime.ru/translations/embed/1083969",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351567,
+        "url": "http://smotretanime.ru/translations/embed/1091442",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351602,
+        "url": "http://smotretanime.ru/translations/embed/1091498",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351929,
+        "url": "http://smotretanime.ru/translations/embed/1092097",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352537,
+        "url": "http://smotretanime.ru/translations/embed/1093074",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352844,
+        "url": "http://smotretanime.ru/translations/embed/1093403",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352881,
+        "url": "http://smotretanime.ru/translations/embed/1093463",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353581,
+        "url": "http://smotretanime.ru/translations/embed/1094480",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357225,
+        "url": "http://smotretanime.ru/translations/embed/1097747",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1361550,
+        "url": "http://smotretanime.ru/translations/embed/1098930",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1361966,
+        "url": "http://smotretanime.ru/translations/embed/1099092",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 71,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362237,
+        "url": "http://smotretanime.ru/translations/embed/1099779",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365537,
+        "url": "http://smotretanime.ru/translations/embed/1106643",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1371950,
+        "url": "http://smotretanime.ru/translations/embed/1112806",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372003,
+        "url": "http://smotretanime.ru/translations/embed/1112848",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372396,
+        "url": "http://smotretanime.ru/translations/embed/1113484",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1373334,
+        "url": "http://smotretanime.ru/translations/embed/1114542",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1377727,
+        "url": "http://smotretanime.ru/translations/embed/1117351",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1382083,
+        "url": "http://smotretanime.ru/translations/embed/1127736",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1383591,
+        "url": "http://smotretanime.ru/translations/embed/1129856",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1384150,
+        "url": "http://smotretanime.ru/translations/embed/1130950",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1385333,
+        "url": "http://smotretanime.ru/translations/embed/1132126",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1389844,
+        "url": "http://smotretanime.ru/translations/embed/1135383",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1390661,
+        "url": "http://smotretanime.ru/translations/embed/1136493",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391909,
+        "url": "http://smotretanime.ru/translations/embed/1137663",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392750,
+        "url": "http://smotretanime.ru/translations/embed/1138994",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1392779,
+        "url": "http://smotretanime.ru/translations/embed/1139103",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1393958,
+        "url": "http://smotretanime.ru/translations/embed/1139601",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1394853,
+        "url": "http://smotretanime.ru/translations/embed/1140773",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nika_Elrik & Red-blue_heart & licuma",
+        "watchesCount": 91,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1345201,
+        "url": "http://smotretanime.ru/translations/embed/1080238",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1505403,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2786552",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "Tomoe-d"
+      }
+    ]
+  }
+}

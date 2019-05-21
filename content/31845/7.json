@@ -1,0 +1,785 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1299200,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2667753",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (Sintop)",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 1299228,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2667914",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AnimeVost (Mensh)",
+        "watchesCount": 52,
+        "uploader": ""
+      },
+      {
+        "id": 1299288,
+        "url": "http://smotretanime.ru/translations/embed/970648",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 205,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300118,
+        "url": "http://smotretanime.ru/translations/embed/971702",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Kari & Lali)",
+        "watchesCount": 155,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300882,
+        "url": "http://vk.com/video_ext.php?oid=-37468416&id=456239761&hash=7ae0c8db89f582cb",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Amikiri & Kari & Lali)",
+        "watchesCount": 4014,
+        "uploader": "WaFee"
+      },
+      {
+        "id": 1303375,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2672515",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Dancel & Pandora)",
+        "watchesCount": 83,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1317235,
+        "url": "http://smotretanime.ru/translations/embed/989594",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ancord & Jade & Гамлетка Цезаревна)",
+        "watchesCount": 2019,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317480,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2688475",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ancord & Jade & Гамлетка Цезаревна)",
+        "watchesCount": 369,
+        "uploader": "IAmTheDoctor"
+      },
+      {
+        "id": 1548665,
+        "url": "http://online.animedia.tv/embed/14615/1/7",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Kobayashi & Wayfarer)",
+        "watchesCount": 4,
+        "uploader": "Flapjack"
+      },
+      {
+        "id": 1620130,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3027104",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Ancord & Jade & Гамлетка Цезаревна)",
+        "watchesCount": 790,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1625360,
+        "url": "http://smotretanime.ru/translations/embed/1305721",
+        "language": "russian",
+        "quality": "bd",
+        "author": "SHIZA Project (Dancel & Pandora)",
+        "watchesCount": 17,
+        "uploader": "NovaLiS"
+      },
+      {
+        "id": 1667386,
+        "url": "http://smotretanime.ru/translations/embed/1305732",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniMedia (Kobayashi & Wayfarer)",
+        "watchesCount": 26,
+        "uploader": "nosdfafsdf"
+      },
+      {
+        "id": 1755346,
+        "url": "http://ok.ru/videoembed/350127852113",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Ancord & Jade & Гамлетка Цезаревна)",
+        "watchesCount": 76,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1755357,
+        "url": "http://ok.ru/videoembed/343109339729",
+        "language": "russian",
+        "quality": "bd",
+        "author": "SHIZA Project (Dancel & Pandora)",
+        "watchesCount": 8,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1909503,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3027083",
+        "language": "russian",
+        "quality": "bd",
+        "author": "SHIZA Project (Dancel & Pandora)",
+        "watchesCount": 8,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1299446,
+        "url": "http://smotretanime.ru/translations/embed/970884",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299477,
+        "url": "http://smotretanime.ru/translations/embed/970936",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 48,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299493,
+        "url": "http://smotretanime.ru/translations/embed/970981",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299495,
+        "url": "http://smotretanime.ru/translations/embed/970978",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299509,
+        "url": "http://smotretanime.ru/translations/embed/970995",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299513,
+        "url": "http://smotretanime.ru/translations/embed/970992",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299701,
+        "url": "http://smotretanime.ru/translations/embed/971192",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 30,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299775,
+        "url": "http://smotretanime.ru/translations/embed/971230",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299777,
+        "url": "http://smotretanime.ru/translations/embed/971227",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1299808,
+        "url": "http://smotretanime.ru/translations/embed/971265",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 76,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300192,
+        "url": "http://smotretanime.ru/translations/embed/971764",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300247,
+        "url": "http://smotretanime.ru/translations/embed/971796",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300249,
+        "url": "http://smotretanime.ru/translations/embed/971799",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300258,
+        "url": "http://smotretanime.ru/translations/embed/971775",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1300267,
+        "url": "http://smotretanime.ru/translations/embed/971778",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 155,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1301491,
+        "url": "http://smotretanime.ru/translations/embed/972763",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 23,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1301570,
+        "url": "http://smotretanime.ru/translations/embed/972797",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1301572,
+        "url": "http://smotretanime.ru/translations/embed/972794",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni",
+        "watchesCount": 26,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304123,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2669191",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 41,
+        "uploader": ""
+      },
+      {
+        "id": 1304387,
+        "url": "http://smotretanime.ru/translations/embed/975186",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304388,
+        "url": "http://smotretanime.ru/translations/embed/975181",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304399,
+        "url": "http://smotretanime.ru/translations/embed/975195",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1304403,
+        "url": "http://smotretanime.ru/translations/embed/975190",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1305183,
+        "url": "http://smotretanime.ru/translations/embed/976035",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1305186,
+        "url": "http://smotretanime.ru/translations/embed/976029",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1307220,
+        "url": "http://smotretanime.ru/translations/embed/977786",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1307227,
+        "url": "http://smotretanime.ru/translations/embed/977781",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1307693,
+        "url": "http://smotretanime.ru/translations/embed/978121",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1309179,
+        "url": "http://smotretanime.ru/translations/embed/980515",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1309222,
+        "url": "http://smotretanime.ru/translations/embed/980546",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1309226,
+        "url": "http://smotretanime.ru/translations/embed/980539",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1309254,
+        "url": "http://smotretanime.ru/translations/embed/980566",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1309355,
+        "url": "http://smotretanime.ru/translations/embed/980594",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1309358,
+        "url": "http://smotretanime.ru/translations/embed/980587",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310231,
+        "url": "http://smotretanime.ru/translations/embed/981443",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310234,
+        "url": "http://smotretanime.ru/translations/embed/981436",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310243,
+        "url": "http://smotretanime.ru/translations/embed/981468",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310246,
+        "url": "http://smotretanime.ru/translations/embed/981461",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310773,
+        "url": "http://smotretanime.ru/translations/embed/982288",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1310776,
+        "url": "http://smotretanime.ru/translations/embed/982281",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1311469,
+        "url": "http://smotretanime.ru/translations/embed/983145",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1312277,
+        "url": "http://smotretanime.ru/translations/embed/984072",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1312280,
+        "url": "http://smotretanime.ru/translations/embed/984065",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313204,
+        "url": "http://smotretanime.ru/translations/embed/985838",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313209,
+        "url": "http://smotretanime.ru/translations/embed/985830",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313256,
+        "url": "http://smotretanime.ru/translations/embed/985896",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313261,
+        "url": "http://smotretanime.ru/translations/embed/985888",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313742,
+        "url": "http://smotretanime.ru/translations/embed/986124",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313747,
+        "url": "http://smotretanime.ru/translations/embed/986116",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1314497,
+        "url": "http://smotretanime.ru/translations/embed/986757",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1314502,
+        "url": "http://smotretanime.ru/translations/embed/986765",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315773,
+        "url": "http://smotretanime.ru/translations/embed/987982",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315810,
+        "url": "http://smotretanime.ru/translations/embed/988059",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316129,
+        "url": "http://smotretanime.ru/translations/embed/988282",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316956,
+        "url": "http://smotretanime.ru/translations/embed/989359",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318814,
+        "url": "http://smotretanime.ru/translations/embed/991485",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318824,
+        "url": "http://smotretanime.ru/translations/embed/991475",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1319010,
+        "url": "http://smotretanime.ru/translations/embed/991617",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1319068,
+        "url": "http://smotretanime.ru/translations/embed/991681",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1319558,
+        "url": "http://smotretanime.ru/translations/embed/992089",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320502,
+        "url": "http://smotretanime.ru/translations/embed/992750",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 161,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330772,
+        "url": "http://smotretanime.ru/translations/embed/1015588",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330783,
+        "url": "http://smotretanime.ru/translations/embed/1015575",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330803,
+        "url": "http://smotretanime.ru/translations/embed/1015632",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330814,
+        "url": "http://smotretanime.ru/translations/embed/1015619",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1331307,
+        "url": "http://smotretanime.ru/translations/embed/1039223",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1331317,
+        "url": "http://smotretanime.ru/translations/embed/1039205",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333318,
+        "url": "http://smotretanime.ru/translations/embed/1043745",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1333329,
+        "url": "http://smotretanime.ru/translations/embed/1043732",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Jenia aka Zub & Oni & Tousaka Jun",
+        "watchesCount": 168,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1299447,
+        "url": "http://smotretanime.ru/translations/embed/970896",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1912265,
+        "url": "http://smotretanime.ru/translations/embed/970644",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "screwbolt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 912270,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2052973",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AnimeVost (OnLy)",
+        "watchesCount": 58,
+        "uploader": ""
+      },
+      {
+        "id": 1213330,
+        "url": "https://smotretanime.ru/translations/embed/741964",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (OnLy)",
+        "watchesCount": 94,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 912401,
+        "url": "http://vk.com/video_ext.php?oid=111602799&id=171351979&hash=20b8bb26a302d7f3",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 21,
+        "uploader": "Lollipop"
+      },
+      {
+        "id": 1213320,
+        "url": "https://smotretanime.ru/translations/embed/741953",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1213319,
+        "url": "https://smotretanime.ru/translations/embed/741952",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

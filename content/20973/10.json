@@ -1,0 +1,74 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 652846,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1425934",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniDUB (JAM)",
+        "watchesCount": 219,
+        "uploader": ""
+      },
+      {
+        "id": 761627,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1521311",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SHIZA Project (Nyasheek & Tina & Oni)",
+        "watchesCount": 133,
+        "uploader": ""
+      },
+      {
+        "id": 1890197,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3531169",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Nyasheek & Tina & Oni)",
+        "watchesCount": 33,
+        "uploader": "Tina"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 755134,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1433097",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "uraharushka"
+      },
+      {
+        "id": 1240811,
+        "url": "http://smotretanime.ru/translations/embed/840155",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Матадор & BO3DYX",
+        "watchesCount": 208,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1240826,
+        "url": "http://smotretanime.ru/translations/embed/840194",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1240825,
+        "url": "http://smotretanime.ru/translations/embed/840188",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

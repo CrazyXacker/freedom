@@ -1,0 +1,83 @@
+{
+  "episode": 8,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 840809,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1680591",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 69,
+        "uploader": "Vika Filippova"
+      },
+      {
+        "id": 1188171,
+        "url": "https://smotretanime.ru/translations/embed/709515",
+        "language": "english",
+        "quality": "tv",
+        "author": "Audio",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1695608,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3258897",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Тахико",
+        "watchesCount": 5,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1027153,
+        "url": "https://smotretanime.ru/translations/embed/274138",
+        "language": "russian",
+        "quality": "tv",
+        "author": "divx5.2.1",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131334,
+        "url": "https://smotretanime.ru/translations/embed/618094",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "DragonCave",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1188172,
+        "url": "https://smotretanime.ru/translations/embed/709516",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1131357,
+        "url": "https://smotretanime.ru/translations/embed/618138",
+        "language": "original",
+        "quality": "dvd",
+        "author": "DragonCave",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131364,
+        "url": "https://smotretanime.ru/translations/embed/618154",
+        "language": "original",
+        "quality": "tv",
+        "author": "divx5.2.1",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

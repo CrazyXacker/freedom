@@ -1,0 +1,92 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 683035,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1244414",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "2x2",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 683069,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1244973",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "2x2",
+        "watchesCount": 71,
+        "uploader": ""
+      },
+      {
+        "id": 1469108,
+        "url": "http://smotretanime.ru/translations/embed/1059251",
+        "language": "russian",
+        "quality": "tv",
+        "author": "2x2",
+        "watchesCount": 160,
+        "uploader": "GODSLAYER1"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 961355,
+        "url": "https://smotretanime.ru/translations/embed/135597",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 961570,
+        "url": "https://smotretanime.ru/translations/embed/136154",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 137,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1073452,
+        "url": "https://smotretanime.ru/translations/embed/417360",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "171",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1073778,
+        "url": "https://smotretanime.ru/translations/embed/418420",
+        "language": "russian",
+        "quality": "tv",
+        "author": "171",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 961386,
+        "url": "https://smotretanime.ru/translations/embed/135626",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 961604,
+        "url": "https://smotretanime.ru/translations/embed/136202",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1718281,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3293040",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Azazel & Chigusa)",
+        "watchesCount": 31,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1910151,
+        "url": "http://smotretanime.ru/translations/embed/2294304",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Chigusa)",
+        "watchesCount": 1,
+        "uploader": "Михаил Дёмичев"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 977035,
+        "url": "https://smotretanime.ru/translations/embed/168311",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Piano",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 977034,
+        "url": "https://smotretanime.ru/translations/embed/168310",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

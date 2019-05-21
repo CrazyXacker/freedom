@@ -1,0 +1,47 @@
+{
+  "episode": 11,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1300418,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2669255",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 267,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1274140,
+        "url": "http://smotretanime.ru/translations/embed/936364",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1274208,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2607210",
+        "language": "russian",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 80,
+        "uploader": "sttany"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1274141,
+        "url": "http://smotretanime.ru/translations/embed/936363",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

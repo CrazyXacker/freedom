@@ -1,0 +1,56 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 707032,
+        "url": "http://video.sibnet.ru/shell.php?videoid=552919",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Е. Лурье",
+        "watchesCount": 5,
+        "uploader": ""
+      },
+      {
+        "id": 855025,
+        "url": "http://vk.com/video_ext.php?oid=-56205791&id=166252854&hash=17cf04a6cfb02b0d",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Е. Лурье",
+        "watchesCount": 125,
+        "uploader": "levilou"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 707046,
+        "url": "http://video.sibnet.ru/shell.php?videoid=548807",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 946431,
+        "url": "https://smotretanime.ru/translations/embed/108693",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 946445,
+        "url": "https://smotretanime.ru/translations/embed/108707",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

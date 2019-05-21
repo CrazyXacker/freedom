@@ -1,0 +1,45 @@
+{
+  "episode": 66,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 1918982,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3563380",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "Ази-Дахака"
+      },
+      {
+        "id": 1919195,
+        "url": "http://vk.com/video_ext.php?oid=322059420&id=456240054&hash=ddd6befc40aa29c9",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Ази-Дахака"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1917941,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3559980",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Ази-Дахака"
+      },
+      {
+        "id": 1919076,
+        "url": "http://vk.com/video_ext.php?oid=322059420&id=456239943&hash=3e50d0f9052bbc4d",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "Ази-Дахака"
+      }
+    ]
+  }
+}

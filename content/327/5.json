@@ -1,0 +1,47 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 840807,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1680579",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 101,
+        "uploader": "Vika Filippova"
+      },
+      {
+        "id": 1695604,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3258892",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Тахико",
+        "watchesCount": 6,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1131343,
+        "url": "https://smotretanime.ru/translations/embed/618110",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "DragonCave",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1131350,
+        "url": "https://smotretanime.ru/translations/embed/618124",
+        "language": "original",
+        "quality": "dvd",
+        "author": "DragonCave",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

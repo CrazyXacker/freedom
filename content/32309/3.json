@@ -1,0 +1,47 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 916060,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2060111",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "AnimeVost (OnLy)",
+        "watchesCount": 43,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1227625,
+        "url": "http://smotretanime.ru/translations/embed/753270",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (OnLy)",
+        "watchesCount": 59,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1227613,
+        "url": "http://smotretanime.ru/translations/embed/753255",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1227612,
+        "url": "http://smotretanime.ru/translations/embed/753254",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

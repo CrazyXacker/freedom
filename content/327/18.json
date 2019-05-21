@@ -1,0 +1,101 @@
+{
+  "episode": 18,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 840820,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1680635",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 41,
+        "uploader": "Vika Filippova"
+      },
+      {
+        "id": 1192191,
+        "url": "https://smotretanime.ru/translations/embed/715985",
+        "language": "english",
+        "quality": "tv",
+        "author": "Audio",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1695618,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3258909",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Тахико",
+        "watchesCount": 1,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1010907,
+        "url": "https://smotretanime.ru/translations/embed/245319",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131337,
+        "url": "https://smotretanime.ru/translations/embed/618100",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "DragonCave",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131372,
+        "url": "https://smotretanime.ru/translations/embed/618168",
+        "language": "russian",
+        "quality": "tv",
+        "author": "XviD",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1192192,
+        "url": "https://smotretanime.ru/translations/embed/715986",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1010906,
+        "url": "https://smotretanime.ru/translations/embed/245318",
+        "language": "original",
+        "quality": "tv",
+        "author": "XviD",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131352,
+        "url": "https://smotretanime.ru/translations/embed/618129",
+        "language": "original",
+        "quality": "dvd",
+        "author": "DragonCave",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131371,
+        "url": "https://smotretanime.ru/translations/embed/618167",
+        "language": "original",
+        "quality": "tv",
+        "author": "XviD",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

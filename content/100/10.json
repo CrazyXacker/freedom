@@ -1,0 +1,65 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 567331,
+        "url": "http://video.sibnet.ru/shell.php?videoid=449309",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 625,
+        "uploader": ""
+      },
+      {
+        "id": 1140234,
+        "url": "https://smotretanime.ru/translations/embed/639577",
+        "language": "russian",
+        "quality": "tv",
+        "author": "10 of 13",
+        "watchesCount": 735,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 567330,
+        "url": "http://video.sibnet.ru/shell.php?videoid=453133",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 139,
+        "uploader": ""
+      },
+      {
+        "id": 1946607,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2321513",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": "リル"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1021219,
+        "url": "https://smotretanime.ru/translations/embed/261125",
+        "language": "original",
+        "quality": "dvd",
+        "author": "Fosky_Fansub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1101413,
+        "url": "https://smotretanime.ru/translations/embed/464110",
+        "language": "original",
+        "quality": "dvd",
+        "author": "Fosky_Fansub",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 681389,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1288900",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 147,
+        "uploader": ""
+      },
+      {
+        "id": 1435668,
+        "url": "http://vk.com/video_ext.php?oid=-61502428&id=456239075&hash=f11c13af5cf0b859",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Raffi",
+        "watchesCount": 179,
+        "uploader": "Hellper"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 681388,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1288867",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 22,
+        "uploader": ""
+      },
+      {
+        "id": 1027134,
+        "url": "https://smotretanime.ru/translations/embed/273986",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 52,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1027133,
+        "url": "https://smotretanime.ru/translations/embed/273985",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 32,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

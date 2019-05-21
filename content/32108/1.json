@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1317079,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2687723",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Gecep & Vel)",
+        "watchesCount": 339,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1389308,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/illuminor/digimon_adventure_tri/383.html",
+        "language": "russian",
+        "quality": "tv",
+        "author": "полный фильм",
+        "watchesCount": 15,
+        "uploader": "Nightcore"
+      },
+      {
+        "id": 1389313,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2525071",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS",
+        "watchesCount": 6,
+        "uploader": "Nightcore"
+      }
+    ]
+  }
+}

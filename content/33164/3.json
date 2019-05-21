@@ -1,0 +1,56 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1290073,
+        "url": "http://vk.com/video_ext.php?oid=-50452265&id=456239183&hash=ec3c93a09c6e0b52",
+        "language": "russian",
+        "quality": "tv",
+        "author": "WAT Studio (TwistedMind & Redis)",
+        "watchesCount": 800,
+        "uploader": "Twisted Mind"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1907843,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2604038",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 26,
+        "uploader": "screwbolt"
+      },
+      {
+        "id": 1907965,
+        "url": "http://ok.ru/videoembed/1319518865953",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 3,
+        "uploader": "screwbolt"
+      },
+      {
+        "id": 1908140,
+        "url": "http://videoapi.my.mail.ru/videos/embed/bk/screwbolt/6/26.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Sa4ko aka Kiyoso",
+        "watchesCount": 2,
+        "uploader": "screwbolt"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1272832,
+        "url": "http://vk.com/video_ext.php?oid=-100198273&id=456239063&hash=90feb1190625523d",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 79,
+        "uploader": "Garrido"
+      }
+    ]
+  }
+}

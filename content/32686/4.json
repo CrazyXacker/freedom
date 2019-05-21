@@ -1,0 +1,965 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1344279,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2728375",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AnimeVost (Step)",
+        "watchesCount": 15,
+        "uploader": ""
+      },
+      {
+        "id": 1344280,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2728382",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar",
+        "watchesCount": 282,
+        "uploader": ""
+      },
+      {
+        "id": 1345151,
+        "url": "http://smotretanime.ru/translations/embed/1080083",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lali & Silv & Ados)",
+        "watchesCount": 401,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345497,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2731054",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Snowly)",
+        "watchesCount": 40,
+        "uploader": "Kira157"
+      },
+      {
+        "id": 1345504,
+        "url": "http://smotretanime.ru/translations/embed/1080741",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Snowly)",
+        "watchesCount": 61,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345515,
+        "url": "http://smotretanime.ru/translations/embed/1080735",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SEKAI PROJECT (Kira)",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346610,
+        "url": "http://smotretanime.ru/translations/embed/1082429",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lali & Silv & Ados)",
+        "watchesCount": 425,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348821,
+        "url": "http://smotretanime.ru/translations/embed/1086363",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 81,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353822,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2740891",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Ancord)",
+        "watchesCount": 986,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1362038,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2746885",
+        "language": "russian",
+        "quality": "tv",
+        "author": "K-Studio (Rin & Shiro & Ninjin & Areta & Matsu)",
+        "watchesCount": 60,
+        "uploader": "Mikvoin"
+      },
+      {
+        "id": 1377678,
+        "url": "http://smotretanime.ru/translations/embed/1087684",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniLibria (Lali & Silv & Ados)",
+        "watchesCount": 2488,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402686,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2729158",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniStar (Sintop & Marie Bibika & Mutsuko Air & Freedom)",
+        "watchesCount": 62,
+        "uploader": ""
+      },
+      {
+        "id": 1811757,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2824215",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Ancord)",
+        "watchesCount": 379,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1344032,
+        "url": "http://smotretanime.ru/translations/embed/1075718",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 104,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344456,
+        "url": "http://sovetromantica.com/embed/episode_191_4-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 654,
+        "uploader": "Lorin_moran"
+      },
+      {
+        "id": 1344722,
+        "url": "http://smotretanime.ru/translations/embed/1079333",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 22,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344724,
+        "url": "http://smotretanime.ru/translations/embed/1079335",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Xander & Несущий Ересь",
+        "watchesCount": 16,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345159,
+        "url": "http://smotretanime.ru/translations/embed/1078469",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345345,
+        "url": "http://smotretanime.ru/translations/embed/1080504",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345370,
+        "url": "http://smotretanime.ru/translations/embed/1080590",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345556,
+        "url": "http://smotretanime.ru/translations/embed/1080796",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 20,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345557,
+        "url": "http://smotretanime.ru/translations/embed/1080784",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345621,
+        "url": "http://smotretanime.ru/translations/embed/1080844",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346117,
+        "url": "http://smotretanime.ru/translations/embed/1081346",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346350,
+        "url": "http://smotretanime.ru/translations/embed/1081976",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346611,
+        "url": "http://smotretanime.ru/translations/embed/1082431",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1347160,
+        "url": "http://smotretanime.ru/translations/embed/1083204",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1347315,
+        "url": "http://smotretanime.ru/translations/embed/1083434",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348166,
+        "url": "http://smotretanime.ru/translations/embed/1085832",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348414,
+        "url": "http://smotretanime.ru/translations/embed/1084132",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 160,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348566,
+        "url": "http://smotretanime.ru/translations/embed/1086116",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348818,
+        "url": "http://smotretanime.ru/translations/embed/1086404",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349225,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2728436",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Risens Team",
+        "watchesCount": 9,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1349899,
+        "url": "http://smotretanime.ru/translations/embed/1088736",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350171,
+        "url": "http://smotretanime.ru/translations/embed/1089434",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350552,
+        "url": "http://smotretanime.ru/translations/embed/1089687",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350585,
+        "url": "http://smotretanime.ru/translations/embed/1089712",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350673,
+        "url": "http://smotretanime.ru/translations/embed/1089770",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350860,
+        "url": "http://smotretanime.ru/translations/embed/1089924",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351148,
+        "url": "http://smotretanime.ru/translations/embed/1090969",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351235,
+        "url": "http://smotretanime.ru/translations/embed/1091062",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351249,
+        "url": "http://smotretanime.ru/translations/embed/1091078",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1351901,
+        "url": "http://smotretanime.ru/translations/embed/1092037",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352006,
+        "url": "http://smotretanime.ru/translations/embed/1092193",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352787,
+        "url": "http://smotretanime.ru/translations/embed/1093270",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353188,
+        "url": "http://smotretanime.ru/translations/embed/1093945",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1353271,
+        "url": "http://smotretanime.ru/translations/embed/1094055",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1355929,
+        "url": "http://smotretanime.ru/translations/embed/1096119",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1356694,
+        "url": "http://smotretanime.ru/translations/embed/1096918",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357075,
+        "url": "http://smotretanime.ru/translations/embed/1097360",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357101,
+        "url": "http://smotretanime.ru/translations/embed/1097371",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357324,
+        "url": "http://smotretanime.ru/translations/embed/1097918",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357374,
+        "url": "http://smotretanime.ru/translations/embed/1098011",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357484,
+        "url": "http://smotretanime.ru/translations/embed/1098084",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1357582,
+        "url": "http://smotretanime.ru/translations/embed/1098112",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1359328,
+        "url": "http://smotretanime.ru/translations/embed/1098437",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362146,
+        "url": "http://smotretanime.ru/translations/embed/1098092",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 49,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1362427,
+        "url": "http://smotretanime.ru/translations/embed/1099896",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365683,
+        "url": "http://smotretanime.ru/translations/embed/1106686",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367130,
+        "url": "http://smotretanime.ru/translations/embed/1108140",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367213,
+        "url": "http://smotretanime.ru/translations/embed/1108171",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367463,
+        "url": "http://smotretanime.ru/translations/embed/1108529",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367473,
+        "url": "http://smotretanime.ru/translations/embed/1108539",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1368046,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2756557",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 95,
+        "uploader": "Makrovkin"
+      },
+      {
+        "id": 1368057,
+        "url": "http://smotretanime.ru/translations/embed/1109077",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 233,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1368183,
+        "url": "http://smotretanime.ru/translations/embed/1109246",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1368250,
+        "url": "http://smotretanime.ru/translations/embed/1109424",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1368467,
+        "url": "http://smotretanime.ru/translations/embed/1109655",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1368696,
+        "url": "http://smotretanime.ru/translations/embed/1109876",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369955,
+        "url": "http://smotretanime.ru/translations/embed/1111181",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1370117,
+        "url": "http://smotretanime.ru/translations/embed/1111661",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Gipacratus",
+        "watchesCount": 14,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1371311,
+        "url": "http://smotretanime.ru/translations/embed/1112361",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1372309,
+        "url": "http://smotretanime.ru/translations/embed/1113322",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1377123,
+        "url": "http://smotretanime.ru/translations/embed/1116714",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1378219,
+        "url": "http://smotretanime.ru/translations/embed/1117957",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1378831,
+        "url": "http://smotretanime.ru/translations/embed/1119145",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1378847,
+        "url": "http://smotretanime.ru/translations/embed/1119215",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1379307,
+        "url": "http://smotretanime.ru/translations/embed/1119992",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1380528,
+        "url": "http://smotretanime.ru/translations/embed/1125471",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1382654,
+        "url": "http://smotretanime.ru/translations/embed/1128572",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1382720,
+        "url": "http://smotretanime.ru/translations/embed/1128633",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1383065,
+        "url": "http://smotretanime.ru/translations/embed/1128978",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1383092,
+        "url": "http://smotretanime.ru/translations/embed/1128992",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1383689,
+        "url": "http://smotretanime.ru/translations/embed/1130231",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1383900,
+        "url": "http://smotretanime.ru/translations/embed/1130450",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1384899,
+        "url": "http://smotretanime.ru/translations/embed/1131499",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1384943,
+        "url": "http://smotretanime.ru/translations/embed/1131531",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391165,
+        "url": "http://smotretanime.ru/translations/embed/1137054",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391433,
+        "url": "http://smotretanime.ru/translations/embed/1137338",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391834,
+        "url": "http://smotretanime.ru/translations/embed/1137758",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1394029,
+        "url": "http://smotretanime.ru/translations/embed/1139703",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1396212,
+        "url": "http://smotretanime.ru/translations/embed/1142036",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1400940,
+        "url": "http://smotretanime.ru/translations/embed/1146323",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1401775,
+        "url": "http://smotretanime.ru/translations/embed/1147182",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1401842,
+        "url": "http://smotretanime.ru/translations/embed/1147266",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402219,
+        "url": "http://smotretanime.ru/translations/embed/1147542",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1402933,
+        "url": "http://smotretanime.ru/translations/embed/1148350",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1403147,
+        "url": "http://smotretanime.ru/translations/embed/1148466",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 192,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1404991,
+        "url": "http://smotretanime.ru/translations/embed/1149998",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Несущий Ересь & Xander",
+        "watchesCount": 33,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1344033,
+        "url": "http://smotretanime.ru/translations/embed/1075717",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344723,
+        "url": "http://smotretanime.ru/translations/embed/1079331",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345558,
+        "url": "http://smotretanime.ru/translations/embed/1080792",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346612,
+        "url": "http://smotretanime.ru/translations/embed/1082422",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HDTV-Rip_720p",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348415,
+        "url": "http://smotretanime.ru/translations/embed/1084133",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Double-Raws",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1348817,
+        "url": "http://smotretanime.ru/translations/embed/1086403",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349900,
+        "url": "http://smotretanime.ru/translations/embed/1088743",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Ohys-Raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

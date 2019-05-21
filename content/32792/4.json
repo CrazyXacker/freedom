@@ -1,0 +1,83 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1242650,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2563650",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost (Salplak)",
+        "watchesCount": 5,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1243434,
+        "url": "http://smotretanime.ru/translations/embed/914734",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar",
+        "watchesCount": 200,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1244324,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2564269",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (TonyFrozen)",
+        "watchesCount": 14,
+        "uploader": "Yukiko Yachi"
+      },
+      {
+        "id": 1264240,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2581937",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 1286446,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2597710",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 151,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1242013,
+        "url": "http://smotretanime.ru/translations/embed/914477",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 30,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1242633,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2563629",
+        "language": "russian",
+        "quality": "tv",
+        "author": "VodkaSubs",
+        "watchesCount": 79,
+        "uploader": "sttany"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1242014,
+        "url": "http://smotretanime.ru/translations/embed/914476",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

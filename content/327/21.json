@@ -1,0 +1,56 @@
+{
+  "episode": 21,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 840823,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1680648",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 53,
+        "uploader": "Vika Filippova"
+      },
+      {
+        "id": 1695621,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3258914",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Тахико",
+        "watchesCount": 2,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1010913,
+        "url": "https://smotretanime.ru/translations/embed/245325",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131375,
+        "url": "https://smotretanime.ru/translations/embed/618174",
+        "language": "russian",
+        "quality": "tv",
+        "author": "XviD",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1010912,
+        "url": "https://smotretanime.ru/translations/embed/245324",
+        "language": "original",
+        "quality": "tv",
+        "author": "XviD",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

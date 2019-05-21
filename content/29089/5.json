@@ -1,0 +1,45 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1905002,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2830563",
+        "language": "russian",
+        "quality": "web",
+        "author": "AnimeLend (Vaipy & Neyden)",
+        "watchesCount": 297,
+        "uploader": "Bang"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 849246,
+        "url": "http://youtube.com/embed/eTFV-zA6WxM",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Happy Potato Translations (англ. саб.)",
+        "watchesCount": 28,
+        "uploader": "Alex Minson"
+      },
+      {
+        "id": 1650534,
+        "url": "http://smotretanime.ru/translations/embed/952164",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Скай",
+        "watchesCount": 192,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1650559,
+        "url": "http://smotretanime.ru/translations/embed/1609911",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1905008,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2830802",
+        "language": "russian",
+        "quality": "web",
+        "author": "AnimeLend (Vaipy & Neyden)",
+        "watchesCount": 240,
+        "uploader": "Bang"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 881748,
+        "url": "http://youtube.com/embed/tvWk50CaI7k",
+        "language": "english",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 69,
+        "uploader": ""
+      },
+      {
+        "id": 1650541,
+        "url": "http://smotretanime.ru/translations/embed/952154",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Скай",
+        "watchesCount": 137,
+        "uploader": "Ohisama"
+      },
+      {
+        "id": 1650564,
+        "url": "http://smotretanime.ru/translations/embed/1609909",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "Ohisama"
+      }
+    ]
+  }
+}

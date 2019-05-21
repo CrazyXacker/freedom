@@ -1,0 +1,560 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1313050,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2683409",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 61,
+        "uploader": ""
+      },
+      {
+        "id": 1313101,
+        "url": "http://smotretanime.ru/translations/embed/985757",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 279,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313191,
+        "url": "http://smotretanime.ru/translations/embed/985822",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313192,
+        "url": "http://smotretanime.ru/translations/embed/985824",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313219,
+        "url": "http://smotretanime.ru/translations/embed/985852",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313241,
+        "url": "http://smotretanime.ru/translations/embed/985829",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 88,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1323093,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2686100",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 84,
+        "uploader": ""
+      },
+      {
+        "id": 1326972,
+        "url": "http://smotretanime.ru/translations/embed/1003343",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 29,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1330037,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2710098",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Торгиль & Esther & Cuba77)",
+        "watchesCount": 934,
+        "uploader": "VelfSan"
+      },
+      {
+        "id": 1349289,
+        "url": "http://smotretanime.ru/translations/embed/1014100",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Торгиль & Esther)",
+        "watchesCount": 3040,
+        "uploader": "Millcream"
+      },
+      {
+        "id": 1405105,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/prizrak_666_svg/46/1083.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB",
+        "watchesCount": 135,
+        "uploader": "Федор Иванов"
+      },
+      {
+        "id": 1477357,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2879859",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Unravel (Nravel & Shira & Nari)",
+        "watchesCount": 15,
+        "uploader": "Nari"
+      },
+      {
+        "id": 1713820,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3285126",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Onibaku Group (Eladiel)",
+        "watchesCount": 43,
+        "uploader": "Веслом по морде"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1312464,
+        "url": "http://smotretanime.ru/translations/embed/984214",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 45,
+        "uploader": "iTelefon"
+      },
+      {
+        "id": 1312583,
+        "url": "http://smotretanime.ru/translations/embed/984252",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 0,
+        "uploader": "Nelar"
+      },
+      {
+        "id": 1312586,
+        "url": "http://smotretanime.ru/translations/embed/984254",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 437,
+        "uploader": "Nelar"
+      },
+      {
+        "id": 1313049,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2683397",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 9,
+        "uploader": ""
+      },
+      {
+        "id": 1313105,
+        "url": "http://smotretanime.ru/translations/embed/985747",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313113,
+        "url": "http://smotretanime.ru/translations/embed/985739",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313134,
+        "url": "http://smotretanime.ru/translations/embed/985213",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 446,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313809,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2684557",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "FDOnLine (BeastRUS)",
+        "watchesCount": 18,
+        "uploader": ""
+      },
+      {
+        "id": 1313887,
+        "url": "http://smotretanime.ru/translations/embed/986256",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1313896,
+        "url": "http://smotretanime.ru/translations/embed/986264",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315665,
+        "url": "http://smotretanime.ru/translations/embed/987923",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315675,
+        "url": "http://smotretanime.ru/translations/embed/987931",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315907,
+        "url": "http://smotretanime.ru/translations/embed/988143",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 46,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315909,
+        "url": "http://smotretanime.ru/translations/embed/988136",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1315914,
+        "url": "http://smotretanime.ru/translations/embed/988148",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1316420,
+        "url": "http://smotretanime.ru/translations/embed/988433",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317044,
+        "url": "http://smotretanime.ru/translations/embed/989426",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317936,
+        "url": "http://smotretanime.ru/translations/embed/990451",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1317946,
+        "url": "http://smotretanime.ru/translations/embed/990441",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318125,
+        "url": "http://smotretanime.ru/translations/embed/990566",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318133,
+        "url": "http://smotretanime.ru/translations/embed/990576",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318313,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2683413",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AniPlay",
+        "watchesCount": 91,
+        "uploader": ""
+      },
+      {
+        "id": 1318548,
+        "url": "http://smotretanime.ru/translations/embed/991275",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318631,
+        "url": "http://smotretanime.ru/translations/embed/991291",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318762,
+        "url": "http://smotretanime.ru/translations/embed/991422",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318774,
+        "url": "http://smotretanime.ru/translations/embed/991452",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1318908,
+        "url": "http://smotretanime.ru/translations/embed/991542",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1319899,
+        "url": "http://smotretanime.ru/translations/embed/992334",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320363,
+        "url": "http://smotretanime.ru/translations/embed/992635",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1320374,
+        "url": "http://smotretanime.ru/translations/embed/992648",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324312,
+        "url": "http://smotretanime.ru/translations/embed/1001206",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324323,
+        "url": "http://smotretanime.ru/translations/embed/1001195",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BeastRUS",
+        "watchesCount": 149,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324601,
+        "url": "http://smotretanime.ru/translations/embed/1000665",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324712,
+        "url": "http://smotretanime.ru/translations/embed/1000498",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324723,
+        "url": "http://smotretanime.ru/translations/embed/1000486",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1324806,
+        "url": "http://smotretanime.ru/translations/embed/1001250",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1325043,
+        "url": "http://smotretanime.ru/translations/embed/1001524",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1325064,
+        "url": "http://smotretanime.ru/translations/embed/1001503",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1325468,
+        "url": "http://smotretanime.ru/translations/embed/1001768",
+        "language": "russian",
+        "quality": "tv",
+        "author": "sanyalitvyak & Seiya Loveless & Surokune",
+        "watchesCount": 73,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1326015,
+        "url": "http://smotretanime.ru/translations/embed/1002268",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Саша Ушкина & Seiya Loveless & Surokune",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1326973,
+        "url": "http://smotretanime.ru/translations/embed/1003345",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia",
+        "watchesCount": 182,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1334140,
+        "url": "http://smotretanime.ru/translations/embed/1049502",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Yamada",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1334143,
+        "url": "http://smotretanime.ru/translations/embed/1049505",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Seiya Loveless & Surokune & sanyalitvyak",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1599958,
+        "url": "http://sovetromantica.com/embed/episode_137_10-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica",
+        "watchesCount": 341,
+        "uploader": "NovaLiS"
+      },
+      {
+        "id": 1696317,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2683509",
+        "language": "russian",
+        "quality": "tv",
+        "author": "FDOnLine (BeastRUS)",
+        "watchesCount": 33,
+        "uploader": "Probni"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1312466,
+        "url": "http://smotretanime.ru/translations/embed/984213",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 13,
+        "uploader": "Nelar"
+      },
+      {
+        "id": 1315908,
+        "url": "http://smotretanime.ru/translations/embed/988142",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 12,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1326886,
+        "url": "http://smotretanime.ru/translations/embed/1003351",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "Leopard-Raws",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

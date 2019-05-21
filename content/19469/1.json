@@ -1,0 +1,74 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1814714,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3425055",
+        "language": "russian",
+        "quality": "web",
+        "author": "Macaron",
+        "watchesCount": 207,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1814715,
+        "url": "http://youtube.com/embed/3bEYImwAqj8",
+        "language": "russian",
+        "quality": "web",
+        "author": "Macaron",
+        "watchesCount": 14,
+        "uploader": "Macaron"
+      },
+      {
+        "id": 1852115,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3482224",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "RavenStudio (BrusnikaM1 & MedySlava)",
+        "watchesCount": 53,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1878522,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3512830",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Macaron)",
+        "watchesCount": 321,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 755239,
+        "url": "http://youtube.com/embed/kYTYIhhVS8Q",
+        "language": "english",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 48,
+        "uploader": "Gerasya"
+      },
+      {
+        "id": 1021862,
+        "url": "https://smotretanime.ru/translations/embed/262731",
+        "language": "english",
+        "quality": "tv",
+        "author": "AM",
+        "watchesCount": 177,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1021407,
+        "url": "https://smotretanime.ru/translations/embed/261557",
+        "language": "original",
+        "quality": "tv",
+        "author": "AM",
+        "watchesCount": 33,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1462662,
+        "url": "http://video.sibnet.ru/shell.php?videoid=124979",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Azazel)",
+        "watchesCount": 258,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1030794,
+        "url": "https://smotretanime.ru/translations/embed/285637",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Q-R",
+        "watchesCount": 60,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1462660,
+        "url": "http://vk.com/video_ext.php?oid=119765687&id=169496863&hash=97407a2585594467",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 22,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1462664,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1377221",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1030806,
+        "url": "https://smotretanime.ru/translations/embed/285649",
+        "language": "original",
+        "quality": "dvd",
+        "author": "Q-R",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

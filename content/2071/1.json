@@ -1,0 +1,56 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 779423,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1601521",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Dez",
+        "watchesCount": 37,
+        "uploader": ""
+      },
+      {
+        "id": 1145188,
+        "url": "https://smotretanime.ru/translations/embed/648250",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "RG Genshiken",
+        "watchesCount": 250,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 779422,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1601537",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 50,
+        "uploader": ""
+      },
+      {
+        "id": 1145187,
+        "url": "https://smotretanime.ru/translations/embed/648249",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Chidori",
+        "watchesCount": 23,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1242714,
+        "url": "http://smotretanime.ru/translations/embed/844479",
+        "language": "original",
+        "quality": "dvd",
+        "author": "2.0",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

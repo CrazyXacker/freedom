@@ -1,0 +1,47 @@
+{
+  "episode": 45,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1818011,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3032370",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 37,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1118996,
+        "url": "https://smotretanime.ru/translations/embed/590121",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 33,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1607525,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2897597",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": "kagerou"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1118975,
+        "url": "https://smotretanime.ru/translations/embed/590029",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

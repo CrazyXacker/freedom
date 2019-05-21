@@ -1,0 +1,551 @@
+{
+  "episode": 794,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1526304,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2961528",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Rain.Death",
+        "watchesCount": 857,
+        "uploader": "Kendo"
+      },
+      {
+        "id": 1528381,
+        "url": "http://online.animedia.tv/embed/9649/5/794",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Nazel)",
+        "watchesCount": 147,
+        "uploader": "Ameno Aoki"
+      },
+      {
+        "id": 1529050,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2964280",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (Shachiburi)",
+        "watchesCount": 295,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1530130,
+        "url": "http://smotretanime.ru/translations/embed/1371820",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 1012,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1553298,
+        "url": "http://smotretanime.ru/translations/embed/1425887",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 383,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1553559,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2972925",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 15,
+        "uploader": "FELIX"
+      },
+      {
+        "id": 1777135,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3392507",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 393,
+        "uploader": "Дмитрий Леманн"
+      },
+      {
+        "id": 1777250,
+        "url": "http://smotretanime.ru/translations/embed/1866247",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 85,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1892658,
+        "url": "http://ok.ru/videoembed/291988245054",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMaunt (Shachiburi)",
+        "watchesCount": 70,
+        "uploader": "Alucardiy"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1525963,
+        "url": "http://smotretanime.ru/translations/embed/1363467",
+        "language": "english",
+        "quality": "tv",
+        "author": "Crunchyroll",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525968,
+        "url": "http://smotretanime.ru/translations/embed/1363541",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 456,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525971,
+        "url": "http://smotretanime.ru/translations/embed/1363537",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1526014,
+        "url": "http://sovetromantica.com/embed/episode_153_42-subtitles",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SоvetRomantica (BadNewsZiggy & Angara)",
+        "watchesCount": 529,
+        "uploader": "BadNewsZiggy"
+      },
+      {
+        "id": 1526163,
+        "url": "http://smotretanime.ru/translations/embed/1363895",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1526222,
+        "url": "http://smotretanime.ru/translations/embed/1364000",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1526677,
+        "url": "http://smotretanime.ru/translations/embed/1365222",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1527252,
+        "url": "http://smotretanime.ru/translations/embed/1367043",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1530149,
+        "url": "http://smotretanime.ru/translations/embed/1371857",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1530219,
+        "url": "http://smotretanime.ru/translations/embed/1371958",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1530689,
+        "url": "http://smotretanime.ru/translations/embed/1372783",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1531231,
+        "url": "http://smotretanime.ru/translations/embed/1375298",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1532596,
+        "url": "http://smotretanime.ru/translations/embed/1377515",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1536165,
+        "url": "http://smotretanime.ru/translations/embed/1384143",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1536219,
+        "url": "http://smotretanime.ru/translations/embed/1384306",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1536617,
+        "url": "http://smotretanime.ru/translations/embed/1385182",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1539041,
+        "url": "http://smotretanime.ru/translations/embed/1390447",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team",
+        "watchesCount": 229,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1543477,
+        "url": "http://smotretanime.ru/translations/embed/1402592",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1543853,
+        "url": "http://smotretanime.ru/translations/embed/1403648",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1544619,
+        "url": "http://smotretanime.ru/translations/embed/1405909",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1548052,
+        "url": "http://smotretanime.ru/translations/embed/1416287",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1548111,
+        "url": "http://smotretanime.ru/translations/embed/1416361",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1548566,
+        "url": "http://smotretanime.ru/translations/embed/1417174",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1549341,
+        "url": "http://smotretanime.ru/translations/embed/1418286",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1551095,
+        "url": "http://smotretanime.ru/translations/embed/1422393",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1553296,
+        "url": "http://smotretanime.ru/translations/embed/1425910",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1553297,
+        "url": "http://smotretanime.ru/translations/embed/1425932",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 68,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1555126,
+        "url": "http://smotretanime.ru/translations/embed/1431093",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1555239,
+        "url": "http://smotretanime.ru/translations/embed/1431226",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1555521,
+        "url": "http://smotretanime.ru/translations/embed/1431713",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1556293,
+        "url": "http://smotretanime.ru/translations/embed/1433704",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SovetRomanticа (BadNewsZiggy & Angara)",
+        "watchesCount": 63,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1600905,
+        "url": "http://smotretanime.ru/translations/embed/1543222",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601012,
+        "url": "http://smotretanime.ru/translations/embed/1543361",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1601592,
+        "url": "http://smotretanime.ru/translations/embed/1544203",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1602325,
+        "url": "http://smotretanime.ru/translations/embed/1551295",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1607176,
+        "url": "http://smotretanime.ru/translations/embed/1564943",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1608880,
+        "url": "http://smotretanime.ru/translations/embed/1569216",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1609258,
+        "url": "http://smotretanime.ru/translations/embed/1569930",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1609867,
+        "url": "http://smotretanime.ru/translations/embed/1571214",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1612116,
+        "url": "http://smotretanime.ru/translations/embed/1573600",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614647,
+        "url": "http://smotretanime.ru/translations/embed/1576539",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1614727,
+        "url": "http://smotretanime.ru/translations/embed/1576678",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615140,
+        "url": "http://smotretanime.ru/translations/embed/1577447",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1615987,
+        "url": "http://smotretanime.ru/translations/embed/1578732",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1617642,
+        "url": "http://smotretanime.ru/translations/embed/1581073",
+        "language": "russian",
+        "quality": "tv",
+        "author": "BadNewsZiggy & Angara",
+        "watchesCount": 24,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1525964,
+        "url": "http://smotretanime.ru/translations/embed/1363598",
+        "language": "original",
+        "quality": "tv",
+        "author": "Erai-raws",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1525972,
+        "url": "http://smotretanime.ru/translations/embed/1363597",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1530440,
+        "url": "http://smotretanime.ru/translations/embed/1372379",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1553292,
+        "url": "http://smotretanime.ru/translations/embed/1426063",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 26,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1553361,
+        "url": "http://smotretanime.ru/translations/embed/1426089",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1554284,
+        "url": "http://smotretanime.ru/translations/embed/1429081",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

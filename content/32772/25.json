@@ -1,0 +1,38 @@
+{
+  "episode": 25,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1462686,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2856034",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Oni & Lonely Dragon)",
+        "watchesCount": 195,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1394118,
+        "url": "http://smotretanime.ru/translations/embed/1139730",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 55,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1394119,
+        "url": "http://smotretanime.ru/translations/embed/1139729",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

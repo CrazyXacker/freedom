@@ -1,0 +1,83 @@
+{
+  "episode": 24,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1467144,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2861662",
+        "language": "russian",
+        "quality": "tv",
+        "author": "DeadLine Studio (Mustadio)",
+        "watchesCount": 23,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1468581,
+        "url": "http://smotretanime.ru/translations/embed/1217024",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 240,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1475457,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2876326",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Гамлетка Цезаревна & 9й Неизвестный)",
+        "watchesCount": 752,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1468583,
+        "url": "http://smotretanime.ru/translations/embed/1215149",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1498694,
+        "url": "http://smotretanime.ru/translations/embed/1233876",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Deadline",
+        "watchesCount": 66,
+        "uploader": "Prog Digi"
+      },
+      {
+        "id": 1709638,
+        "url": "http://smotretanime.ru/translations/embed/1719395",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zero",
+        "watchesCount": 0,
+        "uploader": "DayRuby"
+      },
+      {
+        "id": 1709639,
+        "url": "http://smotretanime.ru/translations/embed/1361248",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AOS Team (Yoite & gansh)",
+        "watchesCount": 60,
+        "uploader": "DayRuby"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1468584,
+        "url": "http://smotretanime.ru/translations/embed/1215148",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

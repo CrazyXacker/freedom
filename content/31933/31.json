@@ -1,0 +1,515 @@
+{
+  "episode": 31,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1347571,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2730266",
+        "language": "russian",
+        "quality": "tv",
+        "author": "KitsuneBox (Zodik)",
+        "watchesCount": 511,
+        "uploader": "LordAnvar"
+      },
+      {
+        "id": 1355054,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2739877",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (ArtLight & Kashi)",
+        "watchesCount": 6681,
+        "uploader": "ArtLight"
+      },
+      {
+        "id": 1355489,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2729518",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Jackie-O)",
+        "watchesCount": 1037,
+        "uploader": ""
+      },
+      {
+        "id": 1404027,
+        "url": "http://smotretanime.ru/translations/embed/1078806",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniStar (Jackie-O)",
+        "watchesCount": 3492,
+        "uploader": "Исекае Рождённый"
+      },
+      {
+        "id": 1432036,
+        "url": "http://smotretanime.ru/translations/embed/1162417",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1674,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1565394,
+        "url": "http://smotretanime.ru/translations/embed/1174073",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Get Smart Group (Persona99) (+ субтитры)",
+        "watchesCount": 153,
+        "uploader": "AndroMazel"
+      },
+      {
+        "id": 1822006,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2811617",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Get Smart Group (Persona99)",
+        "watchesCount": 256,
+        "uploader": "Юлия Калимулина"
+      },
+      {
+        "id": 1880068,
+        "url": "http://online.animedia.tv/embed/15763/1/31",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (ArtLight & Kashi)",
+        "watchesCount": 650,
+        "uploader": "Rex"
+      },
+      {
+        "id": 1944174,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3594502",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 6,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1945007,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3595191",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB",
+        "watchesCount": 406,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1344505,
+        "url": "http://smotretanime.ru/translations/embed/1078700",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 227,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344704,
+        "url": "http://smotretanime.ru/translations/embed/1079381",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1344717,
+        "url": "http://smotretanime.ru/translations/embed/1079368",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 136,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345123,
+        "url": "http://smotretanime.ru/translations/embed/1080045",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 102,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1345865,
+        "url": "http://smotretanime.ru/translations/embed/1081149",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 83,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1346144,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2731432",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "CafeSubs (Anku & mutagenb)",
+        "watchesCount": 112,
+        "uploader": ""
+      },
+      {
+        "id": 1348466,
+        "url": "http://smotretanime.ru/translations/embed/1083884",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 40,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349605,
+        "url": "http://smotretanime.ru/translations/embed/1088394",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1349658,
+        "url": "http://smotretanime.ru/translations/embed/1088415",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 35,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1350893,
+        "url": "http://smotretanime.ru/translations/embed/1090314",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 28,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1352632,
+        "url": "http://smotretanime.ru/translations/embed/1093148",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 25,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1354084,
+        "url": "http://smotretanime.ru/translations/embed/1094858",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1354145,
+        "url": "http://smotretanime.ru/translations/embed/1094893",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1354920,
+        "url": "http://smotretanime.ru/translations/embed/1095094",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1355491,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2730130",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CafeSubs (Anku & mutagenb)",
+        "watchesCount": 3380,
+        "uploader": ""
+      },
+      {
+        "id": 1355494,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2730053",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MedusaSub",
+        "watchesCount": 84,
+        "uploader": ""
+      },
+      {
+        "id": 1356629,
+        "url": "http://smotretanime.ru/translations/embed/1096799",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1361962,
+        "url": "http://smotretanime.ru/translations/embed/1099104",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 31,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1365477,
+        "url": "http://smotretanime.ru/translations/embed/1106570",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367772,
+        "url": "http://smotretanime.ru/translations/embed/1108704",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1367917,
+        "url": "http://smotretanime.ru/translations/embed/1108781",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1368312,
+        "url": "http://smotretanime.ru/translations/embed/1109483",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1369572,
+        "url": "http://smotretanime.ru/translations/embed/1110800",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1371880,
+        "url": "http://smotretanime.ru/translations/embed/1112730",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375772,
+        "url": "http://smotretanime.ru/translations/embed/1115045",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1375810,
+        "url": "http://smotretanime.ru/translations/embed/1115123",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1376432,
+        "url": "http://smotretanime.ru/translations/embed/1115702",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1377737,
+        "url": "http://smotretanime.ru/translations/embed/1117367",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 24,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1381558,
+        "url": "http://smotretanime.ru/translations/embed/1127410",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1381674,
+        "url": "http://smotretanime.ru/translations/embed/1127543",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1382505,
+        "url": "http://smotretanime.ru/translations/embed/1128287",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1384063,
+        "url": "http://smotretanime.ru/translations/embed/1130661",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1386220,
+        "url": "http://smotretanime.ru/translations/embed/1133769",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1390916,
+        "url": "http://smotretanime.ru/translations/embed/1136640",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1391502,
+        "url": "http://smotretanime.ru/translations/embed/1137460",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 9,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1393510,
+        "url": "http://smotretanime.ru/translations/embed/1139224",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 15,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1395818,
+        "url": "http://smotretanime.ru/translations/embed/1141495",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 29,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1399561,
+        "url": "http://smotretanime.ru/translations/embed/1145362",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Anku & mutagenb",
+        "watchesCount": 935,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1401721,
+        "url": "http://smotretanime.ru/translations/embed/1147074",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CafeSubs (Anku & mutagenb)",
+        "watchesCount": 77,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1403921,
+        "url": "http://smotretanime.ru/translations/embed/1148841",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CafeSubs (Anku & mutagenb)",
+        "watchesCount": 536,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1432033,
+        "url": "http://smotretanime.ru/translations/embed/1162443",
+        "language": "russian",
+        "quality": "tv",
+        "author": "CafeSubs (Anku & mutagenb)",
+        "watchesCount": 5284,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1565393,
+        "url": "http://smotretanime.ru/translations/embed/1174064",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 47,
+        "uploader": "AndroMazel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1344506,
+        "url": "http://smotretanime.ru/translations/embed/1078699",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1432034,
+        "url": "http://smotretanime.ru/translations/embed/1162442",
+        "language": "unknown",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1902079,
+        "url": "http://smotretanime.ru/translations/embed/1558785",
+        "language": "original",
+        "quality": "bd",
+        "author": "SFEO-Raws",
+        "watchesCount": 0,
+        "uploader": "diozavrik"
+      },
+      {
+        "id": 1902094,
+        "url": "http://smotretanime.ru/translations/embed/1390924",
+        "language": "original",
+        "quality": "bd",
+        "author": "AreaRaw",
+        "watchesCount": 8,
+        "uploader": "diozavrik"
+      }
+    ]
+  }
+}

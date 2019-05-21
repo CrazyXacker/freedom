@@ -1,0 +1,65 @@
+{
+  "episode": 11,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1274349,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2607607",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Rina Grey",
+        "watchesCount": 91,
+        "uploader": "Гость"
+      },
+      {
+        "id": 1283782,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2636526",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Торгиль & Cuba77)",
+        "watchesCount": 545,
+        "uploader": "q8025"
+      },
+      {
+        "id": 1283983,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2637110",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 67,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1273730,
+        "url": "http://smotretanime.ru/translations/embed/935129",
+        "language": "english",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 47,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1273929,
+        "url": "http://smotretanime.ru/translations/embed/935818",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniPlay",
+        "watchesCount": 927,
+        "uploader": "ATGG"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1273731,
+        "url": "http://smotretanime.ru/translations/embed/935128",
+        "language": "original",
+        "quality": "tv",
+        "author": "HorribleSubs",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}
