@@ -1,0 +1,83 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 573391,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/7886/8013.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": ""
+      },
+      {
+        "id": 573392,
+        "url": "http://video.sibnet.ru/shell.php?videoid=486416",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 19,
+        "uploader": ""
+      },
+      {
+        "id": 1136300,
+        "url": "https://smotretanime.ru/translations/embed/631995",
+        "language": "russian",
+        "quality": "tv",
+        "author": "NAG",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1136301,
+        "url": "https://smotretanime.ru/translations/embed/631996",
+        "language": "russian",
+        "quality": "tv",
+        "author": "NAG",
+        "watchesCount": 45,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 709354,
+        "url": "http://video.sibnet.ru/shell.php?videoid=486718",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 1030836,
+        "url": "https://smotretanime.ru/translations/embed/285814",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1251141,
+        "url": "http://smotretanime.ru/translations/embed/891009",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1251140,
+        "url": "http://smotretanime.ru/translations/embed/891008",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

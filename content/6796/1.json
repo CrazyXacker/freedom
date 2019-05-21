@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 1341426,
+        "url": "http://youtube.com/embed/tET8Ehy3qA0",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "iTelefon"
+      },
+      {
+        "id": 1434853,
+        "url": "http://vk.com/video_ext.php?oid=71347339&id=456239019&hash=753521df998f05aa",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Feral Wolf & Tirass",
+        "watchesCount": 24,
+        "uploader": "6436372775"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1434850,
+        "url": "http://vk.com/video_ext.php?oid=71347339&id=171248992&hash=af8f56eb4713651f",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "6436372775"
+      }
+    ]
+  }
+}

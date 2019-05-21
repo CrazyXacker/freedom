@@ -1,0 +1,45 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1274870,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/vikovalenko/190/970.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Anything Group (Sad_Kit)",
+        "watchesCount": 35,
+        "uploader": "CrazyUndertaker"
+      },
+      {
+        "id": 1391935,
+        "url": "http://video.sibnet.ru/shell.php?videoid=475413",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SHIZA Project (NIKITOS & Viki)",
+        "watchesCount": 1657,
+        "uploader": "EndymionLight"
+      },
+      {
+        "id": 1688073,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3250269",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Anything Group (Sad_Kit)",
+        "watchesCount": 1344,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1891117,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3250262",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Sora_P3_Heaven & Stan WarHammer",
+        "watchesCount": 162,
+        "uploader": "Mikose"
+      }
+    ]
+  }
+}

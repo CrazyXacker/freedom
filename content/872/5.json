@@ -1,0 +1,47 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1688594,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2818034",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Suzaku (E. Лурье) (9-10)",
+        "watchesCount": 82,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 948687,
+        "url": "https://smotretanime.ru/translations/embed/113977",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 61,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1630693,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2817990",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": "GRGames"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 948680,
+        "url": "https://smotretanime.ru/translations/embed/113970",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

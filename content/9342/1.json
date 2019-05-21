@@ -1,0 +1,36 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1749008,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3339714",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Azazel & Стефан & Kesu)",
+        "watchesCount": 13,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1922633,
+        "url": "http://vk.com/video_ext.php?oid=-169959160&id=456239042&hash=b33bd5035a52d626",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "pufique",
+        "watchesCount": 1,
+        "uploader": "pufique"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1324205,
+        "url": "http://vk.com/video_ext.php?oid=342311266&id=171362992&hash=17a00bf90b520304",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": "prostoName"
+      }
+    ]
+  }
+}

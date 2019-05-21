@@ -1,0 +1,74 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 705736,
+        "url": "http://video.sibnet.ru/shell.php?videoid=571596",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "SHIZA Project (Viki)",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 1093305,
+        "url": "https://smotretanime.ru/translations/embed/447616",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Viki)",
+        "watchesCount": 10,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1364645,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=167654358&hash=bcb2b88b1f82c72d",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project (Viki)",
+        "watchesCount": 29,
+        "uploader": "Kira157"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1015298,
+        "url": "https://smotretanime.ru/translations/embed/251328",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1122159,
+        "url": "https://smotretanime.ru/translations/embed/599245",
+        "language": "russian",
+        "quality": "tv",
+        "author": "XviD",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1015297,
+        "url": "https://smotretanime.ru/translations/embed/251321",
+        "language": "original",
+        "quality": "tv",
+        "author": "Mishicorp",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1122157,
+        "url": "https://smotretanime.ru/translations/embed/599239",
+        "language": "original",
+        "quality": "tv",
+        "author": "Mishicorp",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

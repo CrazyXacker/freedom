@@ -1,0 +1,36 @@
+{
+  "episode": 3,
+  "translations": {
+    "субтитры": [
+      {
+        "id": 1029001,
+        "url": "https://smotretanime.ru/translations/embed/279759",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "АнимЕбург (Shalcker & Hamster)",
+        "watchesCount": 94,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1912517,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2883877",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "IMSF",
+        "watchesCount": 10,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1029000,
+        "url": "https://smotretanime.ru/translations/embed/279756",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

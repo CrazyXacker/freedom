@@ -1,0 +1,83 @@
+{
+  "episode": 50,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1472724,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2451970",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zodik",
+        "watchesCount": 274,
+        "uploader": "baksIII"
+      },
+      {
+        "id": 1940151,
+        "url": "http://ok.ru/videoembed/254091790910",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Zodik",
+        "watchesCount": 6,
+        "uploader": "Hickito"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 662608,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1380457",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": ""
+      },
+      {
+        "id": 947034,
+        "url": "https://smotretanime.ru/translations/embed/110651",
+        "language": "russian",
+        "quality": "tv",
+        "author": "(036-107) Фриза",
+        "watchesCount": 37,
+        "uploader": "NerV"
+      },
+      {
+        "id": 947325,
+        "url": "https://smotretanime.ru/translations/embed/110933",
+        "language": "russian",
+        "quality": "tv",
+        "author": "DBZ",
+        "watchesCount": 77,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1061699,
+        "url": "https://smotretanime.ru/translations/embed/397132",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 174,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1869942,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2810976",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Daiver MAB",
+        "watchesCount": 119,
+        "uploader": "Gle6ywka"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 946945,
+        "url": "https://smotretanime.ru/translations/embed/110524",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

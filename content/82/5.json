@@ -1,0 +1,72 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 616980,
+        "url": "http://video.sibnet.ru/shell.php?videoid=386902",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 1128548,
+        "url": "https://smotretanime.ru/translations/embed/612182",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project",
+        "watchesCount": 124,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1843261,
+        "url": "http://vk.com/video_ext.php?oid=-37290779&id=456239881&hash=03cce9ef4914e510",
+        "language": "russian",
+        "quality": "tv",
+        "author": "SHIZA Project",
+        "watchesCount": 41,
+        "uploader": "Makkensi"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1820395,
+        "url": "http://smotretanime.ru/translations/embed/1472340",
+        "language": "english",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 7,
+        "uploader": "Ger4og"
+      },
+      {
+        "id": 1849879,
+        "url": "http://smotretanime.ru/translations/embed/1545531",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Blaise",
+        "watchesCount": 14,
+        "uploader": "Patches"
+      },
+      {
+        "id": 1928154,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3576249",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Blaise",
+        "watchesCount": 0,
+        "uploader": "sataniy"
+      },
+      {
+        "id": 1928219,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3576366",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Blaise",
+        "watchesCount": 2,
+        "uploader": "sataniy"
+      }
+    ]
+  }
+}

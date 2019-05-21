@@ -1,0 +1,65 @@
+{
+  "episode": 19,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 712066,
+        "url": "http://video.sibnet.ru/shell.php?videoid=384448",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 1896322,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1764493",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Helona",
+        "watchesCount": 1,
+        "uploader": "Михаил Дёмичев"
+      },
+      {
+        "id": 1896531,
+        "url": "http://smotretanime.ru/translations/embed/2232788",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Helona",
+        "watchesCount": 2,
+        "uploader": "Михаил Дёмичев"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 945597,
+        "url": "https://smotretanime.ru/translations/embed/106967",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1247785,
+        "url": "http://smotretanime.ru/translations/embed/870096",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 62,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 945554,
+        "url": "https://smotretanime.ru/translations/embed/106904",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "episode": 3,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 683033,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1244412",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "2x2",
+        "watchesCount": 42,
+        "uploader": ""
+      },
+      {
+        "id": 683067,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1244964",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "2x2",
+        "watchesCount": 70,
+        "uploader": ""
+      },
+      {
+        "id": 1469106,
+        "url": "http://smotretanime.ru/translations/embed/1059219",
+        "language": "russian",
+        "quality": "tv",
+        "author": "2x2",
+        "watchesCount": 205,
+        "uploader": "GODSLAYER1"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 961344,
+        "url": "https://smotretanime.ru/translations/embed/135586",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      },
+      {
+        "id": 961549,
+        "url": "https://smotretanime.ru/translations/embed/136152",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 144,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1073449,
+        "url": "https://smotretanime.ru/translations/embed/417355",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "169",
+        "watchesCount": 7,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 961381,
+        "url": "https://smotretanime.ru/translations/embed/135622",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 961602,
+        "url": "https://smotretanime.ru/translations/embed/136198",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

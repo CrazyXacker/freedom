@@ -1,0 +1,47 @@
+{
+  "episode": 123,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1758750,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3350060",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 15,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1758751,
+        "url": "http://vk.com/video_ext.php?oid=-99572187&id=456246422&hash=e6261651cc6e5e4f",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 40,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1494829,
+        "url": "http://smotretanime.ru/translations/embed/1078090",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 40,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1494830,
+        "url": "http://smotretanime.ru/translations/embed/1078337",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

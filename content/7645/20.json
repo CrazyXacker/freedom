@@ -1,0 +1,47 @@
+{
+  "episode": 20,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1896283,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1764494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Helona",
+        "watchesCount": 1,
+        "uploader": "Михаил Дёмичев"
+      },
+      {
+        "id": 1896532,
+        "url": "http://smotretanime.ru/translations/embed/2232789",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Helona",
+        "watchesCount": 3,
+        "uploader": "Михаил Дёмичев"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1832956,
+        "url": "http://smotretanime.ru/translations/embed/106992",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Animegun",
+        "watchesCount": 11,
+        "uploader": "FrozenAngel"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1247760,
+        "url": "http://smotretanime.ru/translations/embed/870070",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

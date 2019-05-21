@@ -1,0 +1,47 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1483833,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2889140",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniDUB (Azazel & Oni)",
+        "watchesCount": 137,
+        "uploader": "VelfSan"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1039051,
+        "url": "https://smotretanime.ru/translations/embed/345089",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Nolf",
+        "watchesCount": 36,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1832074,
+        "url": "http://smotretanime.ru/translations/embed/1548141",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Nolf",
+        "watchesCount": 30,
+        "uploader": "Patches"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1099800,
+        "url": "https://smotretanime.ru/translations/embed/459485",
+        "language": "original",
+        "quality": "bd",
+        "author": "Kamigami",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

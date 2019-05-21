@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 756279,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1499601",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Shina & Стефан",
+        "watchesCount": 15,
+        "uploader": ""
+      },
+      {
+        "id": 1407301,
+        "url": "http://vk.com/video_ext.php?oid=-38794603&id=169292776&hash=9898e8a18936f4d2",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Shina & Стефан",
+        "watchesCount": 65,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 756278,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1499370",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 25,
+        "uploader": ""
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1407303,
+        "url": "http://vk.com/video_ext.php?oid=22920701&id=163865716&hash=c5247df9f7173853",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

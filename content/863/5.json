@@ -1,0 +1,83 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 563231,
+        "url": "http://video.sibnet.ru/shell.php?videoid=419404",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "MC Entertainment",
+        "watchesCount": 22,
+        "uploader": ""
+      },
+      {
+        "id": 563233,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/3793/3808.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 831200,
+        "url": "http://vk.com/video_ext.php?oid=66680538&id=170720655&hash=6528cb8d22ccbbb6",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Фудзимото Ёситака",
+        "watchesCount": 127,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 1156210,
+        "url": "https://smotretanime.ru/translations/embed/664089",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 38,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1180778,
+        "url": "https://smotretanime.ru/translations/embed/700569",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Одноголосая озвучка от knars",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1180780,
+        "url": "https://smotretanime.ru/translations/embed/700571",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 31,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1277504,
+        "url": "http://vk.com/video_ext.php?oid=-22819285&id=158977214&hash=83e98c6b8b412429",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 12,
+        "uploader": "oatmeal"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1180779,
+        "url": "https://smotretanime.ru/translations/embed/700570",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "episode": 4,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1901041,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3543219",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dimka Shalankevich",
+        "watchesCount": 7,
+        "uploader": "Дима Шаланкевич"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 562429,
+        "url": "http://video.sibnet.ru/shell.php?videoid=444751",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 56,
+        "uploader": ""
+      },
+      {
+        "id": 1067794,
+        "url": "https://smotretanime.ru/translations/embed/408245",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 987501,
+        "url": "https://smotretanime.ru/translations/embed/209934",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

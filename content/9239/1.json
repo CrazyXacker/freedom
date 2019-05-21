@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1666668,
+        "url": "http://youtube.com/embed/aVA0QOHet_M",
+        "language": "unknown",
+        "quality": "bd",
+        "author": "итальянский",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1836485,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3460813",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Azazel & KroshkaRu & Molodoy)",
+        "watchesCount": 10,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1481087,
+        "url": "http://vk.com/video_ext.php?oid=77628850&id=456239144&hash=005732ac56d72e97",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 5,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1666666,
+        "url": "http://youtube.com/embed/TwCbuMkjGYI",
+        "language": "english",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1666669,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3072001",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1481083,
+        "url": "http://vk.com/video_ext.php?oid=26300156&id=160167379&hash=f42e36a70a0df32e",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

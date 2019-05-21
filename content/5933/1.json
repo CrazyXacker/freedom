@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1835575,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3459413",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Anything Group (Milirina & Sad_Kit)",
+        "watchesCount": 8,
+        "uploader": "Anything_Group"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1835763,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3459548",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "YakuSub Studio",
+        "watchesCount": 0,
+        "uploader": "Ohisama"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1366726,
+        "url": "http://vk.com/video_ext.php?oid=198094875&id=171259110&hash=bf0d8f1f92ff33c0",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "ＳＡＭＵＲＯ"
+      },
+      {
+        "id": 1524118,
+        "url": "http://youtube.com/embed/imZc5xoedr0",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

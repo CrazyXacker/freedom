@@ -1,0 +1,74 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 700497,
+        "url": "http://video.sibnet.ru/shell.php?videoid=735900",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Azazel",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 1740491,
+        "url": "http://vk.com/video_ext.php?oid=-12323082&id=456244480&hash=a3d3929bad2ba2ea",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SHIZA Project (Azazel)",
+        "watchesCount": 4,
+        "uploader": "Гость"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 700493,
+        "url": "http://video.sibnet.ru/shell.php?videoid=735296",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": ""
+      },
+      {
+        "id": 949085,
+        "url": "https://smotretanime.ru/translations/embed/114568",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OlSkAn",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1063323,
+        "url": "https://smotretanime.ru/translations/embed/400071",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Ame-Lord",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1083124,
+        "url": "https://smotretanime.ru/translations/embed/431448",
+        "language": "english",
+        "quality": "tv",
+        "author": "Ame-Lord",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 949081,
+        "url": "https://smotretanime.ru/translations/embed/114560",
+        "language": "original",
+        "quality": "tv",
+        "author": "Ame-Lord",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "episode": 5,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1702181,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1517802",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (Zendos)",
+        "watchesCount": 129,
+        "uploader": "Ricishi"
+      },
+      {
+        "id": 1837316,
+        "url": "http://smotretanime.ru/translations/embed/470251",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Kashu",
+        "watchesCount": 25,
+        "uploader": "шĪРŌНĒ"
+      },
+      {
+        "id": 1837422,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1517668",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Kashu",
+        "watchesCount": 5,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 982451,
+        "url": "https://smotretanime.ru/translations/embed/196367",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 76,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1102940,
+        "url": "https://smotretanime.ru/translations/embed/470304",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "@shimarino",
+        "watchesCount": 21,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1440025,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1517523",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 58,
+        "uploader": "InkyQuill"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 971888,
+        "url": "https://smotretanime.ru/translations/embed/196391",
+        "language": "original",
+        "quality": "dvd",
+        "author": "@shimarino",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

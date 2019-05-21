@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 550939,
+        "url": "http://video.sibnet.ru/shell.php?videoid=368161",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 8,
+        "uploader": ""
+      },
+      {
+        "id": 550940,
+        "url": "http://video.sibnet.ru/shell.php?videoid=370450",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": ""
+      },
+      {
+        "id": 1211588,
+        "url": "https://smotretanime.ru/translations/embed/740034",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AnimeVost",
+        "watchesCount": 87,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1693222,
+        "url": "http://smotretanime.ru/translations/embed/502673",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniMedia (Eladiel)",
+        "watchesCount": 19,
+        "uploader": "BUFU"
+      },
+      {
+        "id": 1906641,
+        "url": "http://vk.com/video_ext.php?oid=-14642448&id=161008448&hash=32fbaca7ab6d5ea0",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OpenDub (Deckoder)",
+        "watchesCount": 1,
+        "uploader": "Todd Margaret"
+      },
+      {
+        "id": 1906651,
+        "url": "http://vk.com/video_ext.php?oid=-13912875&id=160141012&hash=153ffc236e28fcac",
+        "language": "russian",
+        "quality": "tv",
+        "author": "AniMedia (Eladiel)",
+        "watchesCount": 1,
+        "uploader": "Todd Margaret"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 941819,
+        "url": "https://smotretanime.ru/translations/embed/99060",
+        "language": "russian",
+        "quality": "bd",
+        "author": "Dreamers Team",
+        "watchesCount": 22,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 941822,
+        "url": "https://smotretanime.ru/translations/embed/99062",
+        "language": "original",
+        "quality": "bd",
+        "author": "Yousei-raws",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

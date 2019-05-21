@@ -1,0 +1,65 @@
+{
+  "episode": 6,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 562424,
+        "url": "http://video.sibnet.ru/shell.php?videoid=448105",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 6,
+        "uploader": ""
+      },
+      {
+        "id": 562425,
+        "url": "http://video.sibnet.ru/shell.php?videoid=444756",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 31,
+        "uploader": ""
+      },
+      {
+        "id": 1919678,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3564033",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Dimka Shalankevich",
+        "watchesCount": 7,
+        "uploader": "Дима Шаланкевич"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 987618,
+        "url": "https://smotretanime.ru/translations/embed/210050",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Digimon Tamers",
+        "watchesCount": 4,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1067797,
+        "url": "https://smotretanime.ru/translations/embed/408248",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 987550,
+        "url": "https://smotretanime.ru/translations/embed/209978",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

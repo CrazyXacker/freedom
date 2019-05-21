@@ -1,0 +1,72 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1464571,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2750715",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Azazel & Esther)",
+        "watchesCount": 2752,
+        "uploader": "Koechler"
+      },
+      {
+        "id": 1758253,
+        "url": "http://ok.ru/videoembed/770097809993",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Azazel & Esther)",
+        "watchesCount": 189,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1832680,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/animedub.ru3/41/760.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "AniDUB (Azazel & Esther)",
+        "watchesCount": 41,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1710729,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1855494",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 171,
+        "uploader": "(アルチョーム)"
+      },
+      {
+        "id": 1758248,
+        "url": "http://ok.ru/videoembed/770097416777",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 37,
+        "uploader": "Probni"
+      },
+      {
+        "id": 1832681,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2913399",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 256,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1832682,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/animedub.ru3/41/753.html",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "Iwazaru"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 855520,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1855424",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 4,
+        "uploader": ""
+      },
+      {
+        "id": 855523,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1855420",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 70,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 976961,
+        "url": "https://smotretanime.ru/translations/embed/167995",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1035078,
+        "url": "https://smotretanime.ru/translations/embed/322854",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Hollow & ximik & Farankovsky",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1035089,
+        "url": "https://smotretanime.ru/translations/embed/322986",
+        "language": "russian",
+        "quality": "tv",
+        "author": "HenkouSubs",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 976955,
+        "url": "https://smotretanime.ru/translations/embed/167986",
+        "language": "original",
+        "quality": "tv",
+        "author": "Raws-4U",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

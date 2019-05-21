@@ -1,0 +1,74 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1298002,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1525951",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1362710,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/val20101/24101/24878.html",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1362711,
+        "url": "http://vk.com/video_ext.php?oid=-59228724&id=170247516&hash=207aaf63aacd31e1",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 15,
+        "uploader": "mak_sim"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1297998,
+        "url": "http://youtube.com/embed/ZoYBcbPtWrY",
+        "language": "original",
+        "quality": "tv",
+        "author": "EN",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1297999,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1525984",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 7,
+        "uploader": "mak_sim"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1297997,
+        "url": "http://youtube.com/embed/Ikfn94UFIVU",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "mak_sim"
+      },
+      {
+        "id": 1362712,
+        "url": "http://vk.com/video_ext.php?oid=179279741&id=163233073&hash=b5b19df239912d2e",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "mak_sim"
+      }
+    ]
+  }
+}

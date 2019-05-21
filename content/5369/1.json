@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1238103,
+        "url": "http://smotretanime.ru/translations/embed/823163",
+        "language": "russian",
+        "quality": "tv",
+        "author": "h264_1280x720",
+        "watchesCount": 84,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1251925,
+        "url": "http://smotretanime.ru/translations/embed/893157",
+        "language": "english",
+        "quality": "tv",
+        "author": "5.1 DTS",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1158760,
+        "url": "https://smotretanime.ru/translations/embed/669004",
+        "language": "russian",
+        "quality": "bd",
+        "author": "dammitt",
+        "watchesCount": 18,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1251926,
+        "url": "http://smotretanime.ru/translations/embed/893158",
+        "language": "english",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1158761,
+        "url": "https://smotretanime.ru/translations/embed/669005",
+        "language": "original",
+        "quality": "bd",
+        "author": "BDRip",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1251924,
+        "url": "http://smotretanime.ru/translations/embed/893156",
+        "language": "original",
+        "quality": "tv",
+        "author": "Original 5.1 DTS",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1709092,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2575034",
+        "language": "russian",
+        "quality": "tv",
+        "author": "ОРТ",
+        "watchesCount": 441,
+        "uploader": "Iwazaru"
+      },
+      {
+        "id": 1844978,
+        "url": "http://vk.com/video_ext.php?oid=-19398186&id=162212867&hash=2a81d12045eeca9e",
+        "language": "russian",
+        "quality": "tv",
+        "author": "OPT",
+        "watchesCount": 904,
+        "uploader": "Forze611"
+      },
+      {
+        "id": 1943377,
+        "url": "http://vk.com/video_ext.php?oid=135375095&id=160618708&hash=031b1acccbe5cfc8",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "ОРТ",
+        "watchesCount": 5,
+        "uploader": "Hickito"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1263616,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1621794",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Timber Maniacs (Slink & Kioshi & Лэн)",
+        "watchesCount": 190,
+        "uploader": "Daemonica"
+      },
+      {
+        "id": 1756319,
+        "url": "http://smotretanime.ru/translations/embed/1165945",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Timber Maniacs (Slink & Kioshi & Лэн)",
+        "watchesCount": 179,
+        "uploader": "Yokinami"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1699398,
+        "url": "http://smotretanime.ru/translations/embed/1374275",
+        "language": "original",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 26,
+        "uploader": "Faceleess"
+      }
+    ]
+  }
+}

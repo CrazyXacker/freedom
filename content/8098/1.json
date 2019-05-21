@@ -1,0 +1,83 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 709327,
+        "url": "http://video.sibnet.ru/shell.php?videoid=548726",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 81,
+        "uploader": ""
+      },
+      {
+        "id": 789663,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1707140",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "AnimeReactor (MifSnaiper)",
+        "watchesCount": 25,
+        "uploader": ""
+      },
+      {
+        "id": 1164052,
+        "url": "https://smotretanime.ru/translations/embed/677427",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Movie",
+        "watchesCount": 239,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 789662,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1707141",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 17,
+        "uploader": ""
+      },
+      {
+        "id": 966309,
+        "url": "https://smotretanime.ru/translations/embed/184090",
+        "language": "russian",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 56,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1203555,
+        "url": "https://smotretanime.ru/translations/embed/728825",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 966308,
+        "url": "https://smotretanime.ru/translations/embed/184089",
+        "language": "original",
+        "quality": "bd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1203554,
+        "url": "https://smotretanime.ru/translations/embed/728824",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

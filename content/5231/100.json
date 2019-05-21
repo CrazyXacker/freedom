@@ -1,0 +1,65 @@
+{
+  "episode": 100,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 591497,
+        "url": "http://videoapi.my.mail.ru/videos/embed/mail/bel_comp1/9841/12938.html",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 11,
+        "uploader": ""
+      },
+      {
+        "id": 816195,
+        "url": "http://vk.com/video_ext.php?oid=-42454096&id=163690340&hash=3b7727c7ccb04543",
+        "language": "unknown",
+        "quality": "unknown",
+        "author": "Enilou",
+        "watchesCount": 203,
+        "uploader": "ASCIZ"
+      },
+      {
+        "id": 1161835,
+        "url": "https://smotretanime.ru/translations/embed/674590",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Enilou",
+        "watchesCount": 60,
+        "uploader": "NerV"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 938965,
+        "url": "https://smotretanime.ru/translations/embed/93127",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Схрон",
+        "watchesCount": 60,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 938826,
+        "url": "https://smotretanime.ru/translations/embed/92989",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1210873,
+        "url": "https://smotretanime.ru/translations/embed/739318",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

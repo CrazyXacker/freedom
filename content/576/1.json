@@ -1,0 +1,74 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 693925,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1089462",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Persona99",
+        "watchesCount": 158,
+        "uploader": ""
+      },
+      {
+        "id": 1804412,
+        "url": "http://vk.com/video_ext.php?oid=-53947445&id=456240832&hash=e75d05a45d084f30",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Persona99",
+        "watchesCount": 172,
+        "uploader": "Юлия Калимулина"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 693938,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1090534",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 10,
+        "uploader": ""
+      },
+      {
+        "id": 937126,
+        "url": "https://smotretanime.ru/translations/embed/89157",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Pelikan & Ryou-kai & Tassaren",
+        "watchesCount": 66,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 937122,
+        "url": "https://smotretanime.ru/translations/embed/89153",
+        "language": "original",
+        "quality": "dvd",
+        "author": "HKG",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 937124,
+        "url": "https://smotretanime.ru/translations/embed/89155",
+        "language": "original",
+        "quality": "dvd",
+        "author": "HKG",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 937138,
+        "url": "https://smotretanime.ru/translations/embed/89170",
+        "language": "original",
+        "quality": "dvd",
+        "author": "HKG",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

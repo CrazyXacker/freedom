@@ -1,0 +1,47 @@
+{
+  "episode": 33,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1323920,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2372915",
+        "language": "russian",
+        "quality": "tv",
+        "author": "MOPO888",
+        "watchesCount": 446,
+        "uploader": "naidlek"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1100346,
+        "url": "https://smotretanime.ru/translations/embed/460918",
+        "language": "english",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 13,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1851394,
+        "url": "http://smotretanime.ru/translations/embed/867439",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Zequir",
+        "watchesCount": 69,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1100341,
+        "url": "https://smotretanime.ru/translations/embed/460913",
+        "language": "original",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

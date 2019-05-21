@@ -1,0 +1,47 @@
+{
+  "episode": 2,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 604631,
+        "url": "http://video.sibnet.ru/shell.php?videoid=433357",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 32,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 604630,
+        "url": "http://video.sibnet.ru/shell.php?videoid=433481",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 1020516,
+        "url": "https://smotretanime.ru/translations/embed/259081",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Матадор & forcE_Major",
+        "watchesCount": 17,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1020542,
+        "url": "https://smotretanime.ru/translations/embed/259109",
+        "language": "original",
+        "quality": "tv",
+        "author": "704x480,DVD,x264",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

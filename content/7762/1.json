@@ -1,0 +1,81 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 550169,
+        "url": "http://video.sibnet.ru/shell.php?videoid=978271",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "JAM",
+        "watchesCount": 239,
+        "uploader": ""
+      },
+      {
+        "id": 727010,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1100218",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniMedia (JAM)",
+        "watchesCount": 288,
+        "uploader": ""
+      },
+      {
+        "id": 1237006,
+        "url": "http://smotretanime.ru/translations/embed/815243",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "OpenDub (DJATOM & comina & Venom64 & JeFerSon)",
+        "watchesCount": 255,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1272260,
+        "url": "http://smotretanime.ru/translations/embed/609071",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "AniDUB (Lonely Dragon)",
+        "watchesCount": 85,
+        "uploader": "Tenno Haruka"
+      },
+      {
+        "id": 1655719,
+        "url": "http://smotretanime.ru/translations/embed/982174",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SHIZA Project (NIKITOS & Azazel & BalFor & Viki)",
+        "watchesCount": 38,
+        "uploader": "BUFU"
+      },
+      {
+        "id": 1809218,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2950319",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "SHIZA Project (NIKITOS & Azazel & BalFor & Viki)",
+        "watchesCount": 26,
+        "uploader": "Probni"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1237007,
+        "url": "http://smotretanime.ru/translations/embed/815244",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 223,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1809219,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2950265",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Dreamers Team (Alex Lamerson & Amarillis & feelx)",
+        "watchesCount": 15,
+        "uploader": "Probni"
+      }
+    ]
+  }
+}

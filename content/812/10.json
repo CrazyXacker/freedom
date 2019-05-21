@@ -1,0 +1,47 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1763849,
+        "url": "http://video.sibnet.ru/shell.php?videoid=2920510",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Suzaku",
+        "watchesCount": 14,
+        "uploader": "Iwazaru"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 976112,
+        "url": "https://smotretanime.ru/translations/embed/165952",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "",
+        "watchesCount": 6,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1100584,
+        "url": "https://smotretanime.ru/translations/embed/461228",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "Desidis",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 976093,
+        "url": "https://smotretanime.ru/translations/embed/165934",
+        "language": "original",
+        "quality": "dvd",
+        "author": "Desidis",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

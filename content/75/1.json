@@ -1,0 +1,47 @@
+{
+  "episode": 1,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 665939,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1373970",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 632,
+        "uploader": ""
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 665913,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1374328",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 159,
+        "uploader": ""
+      },
+      {
+        "id": 1251118,
+        "url": "http://smotretanime.ru/translations/embed/890923",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 375,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1251117,
+        "url": "http://smotretanime.ru/translations/embed/890922",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 3,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

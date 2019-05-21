@@ -1,0 +1,74 @@
+{
+  "episode": 7,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 662355,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1391523",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Сузаку",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 1853492,
+        "url": "http://vk.com/video_ext.php?oid=-17065129&id=164776761&hash=309f7da782967c90",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Сузаку",
+        "watchesCount": 9,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 662329,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1391182",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 2,
+        "uploader": ""
+      },
+      {
+        "id": 1029118,
+        "url": "https://smotretanime.ru/translations/embed/279976",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131749,
+        "url": "https://smotretanime.ru/translations/embed/619344",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 8,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1029161,
+        "url": "https://smotretanime.ru/translations/embed/280060",
+        "language": "original",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131775,
+        "url": "https://smotretanime.ru/translations/embed/619370",
+        "language": "original",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

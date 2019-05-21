@@ -1,0 +1,83 @@
+{
+  "episode": 10,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 662358,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1391554",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "Сузаку",
+        "watchesCount": 6,
+        "uploader": ""
+      },
+      {
+        "id": 1853495,
+        "url": "http://vk.com/video_ext.php?oid=-17065129&id=164776775&hash=750e6becbcc85ded",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Сузаку",
+        "watchesCount": 9,
+        "uploader": "YJOS"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 662332,
+        "url": "http://video.sibnet.ru/shell.php?videoid=1391243",
+        "language": "russian",
+        "quality": "unknown",
+        "author": "",
+        "watchesCount": 1,
+        "uploader": ""
+      },
+      {
+        "id": 1029122,
+        "url": "https://smotretanime.ru/translations/embed/279982",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131752,
+        "url": "https://smotretanime.ru/translations/embed/619347",
+        "language": "russian",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 5,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 998455,
+        "url": "https://smotretanime.ru/translations/embed/226144",
+        "language": "original",
+        "quality": "tv",
+        "author": "R2-rip",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1029164,
+        "url": "https://smotretanime.ru/translations/embed/280074",
+        "language": "original",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      },
+      {
+        "id": 1131778,
+        "url": "https://smotretanime.ru/translations/embed/619373",
+        "language": "original",
+        "quality": "dvd",
+        "author": "artyfox",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}

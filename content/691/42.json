@@ -1,0 +1,47 @@
+{
+  "episode": 42,
+  "translations": {
+    "озвучка": [
+      {
+        "id": 1599343,
+        "url": "http://video.sibnet.ru/shell.php?videoid=3091992",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 42,
+        "uploader": "sttany"
+      },
+      {
+        "id": 1599344,
+        "url": "http://vk.com/video_ext.php?oid=-99572187&id=456246333&hash=79f9b11dbc35205c",
+        "language": "russian",
+        "quality": "tv",
+        "author": "Zetsubou",
+        "watchesCount": 164,
+        "uploader": "sttany"
+      }
+    ],
+    "субтитры": [
+      {
+        "id": 1012592,
+        "url": "https://smotretanime.ru/translations/embed/247720",
+        "language": "russian",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 30,
+        "uploader": "NerV"
+      }
+    ],
+    "оригинал": [
+      {
+        "id": 1012593,
+        "url": "https://smotretanime.ru/translations/embed/247721",
+        "language": "original",
+        "quality": "tv",
+        "author": "",
+        "watchesCount": 0,
+        "uploader": "NerV"
+      }
+    ]
+  }
+}
